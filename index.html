@@ -21,6 +21,13 @@ input{padding:10px;border-radius:10px;border:none;flex:1}
 .btn{padding:8px 12px;border:none;border-radius:8px;cursor:pointer;background:#0ea5e9;color:white}
 .levels button{margin-right:5px}
 </style>
+  .hidden {
+  display: none;
+}
+
+.card {
+  cursor: pointer;
+}
 </head>
 <body>
 
@@ -75,10 +82,11 @@ let div=document.createElement('div');
 div.className='card';
 
 if(currentType==='words'){
-div.innerHTML=`<div class='word'>${item.word}</div>
-<div class='meaning'>${item.meaning}</div>
-<div class='example'>${item.example||''}</div>
-<button onclick="fav('${item.word}')">⭐</button>`;
+  div.innerHTML = `<div class='word'>${item.word}</div>
+  <div class='meaning'>${item.meaning}</div>
+  <div class='example hidden'>${item.example||''}</div>
+  <button onclick='fav(${JSON.stringify(item)})'>⭐</button>`;
+}
 }
 
 if(currentType==='reading'){
@@ -90,7 +98,10 @@ if(currentType==='grammar'){
 div.innerHTML=`<div class='word'>${item.topic}</div>
 <div>${item.explanation}</div>`;
 }
-
+div.onclick = () => {
+  let ex = div.querySelector('.example');
+  if(ex) ex.classList.toggle('hidden');
+}
 content.appendChild(div);
 });
 }
@@ -114,10 +125,11 @@ content.appendChild(div);
 });
 }
 
-function fav(word){
-let favs=JSON.parse(localStorage.getItem('fav')||'[]');
-if(!favs.includes(word))favs.push(word);
-localStorage.setItem('fav',JSON.stringify(favs));
+function fav(item){
+  let favs = JSON.parse(localStorage.getItem('fav')||'[]');
+  favs.push(item);
+  localStorage.setItem('fav', JSON.stringify(favs));
+}
 }
 
 function showFavorites(){
