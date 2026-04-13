@@ -104,7 +104,12 @@ filtered.filter(x=>JSON.stringify(x).toLowerCase().includes(val))
 .forEach(item=>{
 let div=document.createElement('div');
 div.className='card';
-div.innerHTML=JSON.stringify(item);
+if(currentType==='words'){
+  div.innerHTML = `
+    <div class='word'>${item.word}</div>
+    <div class='meaning'>${item.meaning}</div>
+    <div class='example'>${item.example || ''}</div>
+  `;
 content.appendChild(div);
 });
 }
