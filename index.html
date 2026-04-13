@@ -1,483 +1,151 @@
 <!DOCTYPE html>
-<html lang="tr">
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>WordVault — Kelime Hazinem</title>
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+<title>LangApp Pro</title>
 <style>
-:root{--bg:#0e0e12;--card:#16161e;--card2:#1e1e2a;--accent:#f5c842;--accent2:#e07b39;--green:#4ade80;--red:#f87171;--purple:#a78bfa;--text:#f0ede6;--muted:#777;--border:rgba(255,255,255,0.07);}
-*{margin:0;padding:0;box-sizing:border-box;}
-body{background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;min-height:100vh;overflow-x:hidden;}
-body::before{content:'';position:fixed;inset:0;background:radial-gradient(ellipse at 15% 15%,rgba(245,200,66,0.05) 0%,transparent 55%),radial-gradient(ellipse at 85% 85%,rgba(224,123,57,0.04) 0%,transparent 55%);pointer-events:none;z-index:0;}
-.app{position:relative;z-index:1;max-width:480px;margin:0 auto;padding:24px 16px 90px;}
-header{display:flex;align-items:center;justify-content:space-between;margin-bottom:28px;}
-.logo{font-family:'Playfair Display',serif;font-size:22px;font-weight:900;color:var(--accent);}
-.logo span{color:var(--accent2);}
-.streak{display:flex;align-items:center;gap:6px;background:var(--card2);border:1px solid var(--border);border-radius:20px;padding:6px 14px;font-size:14px;font-weight:500;}
-.stats{display:grid;grid-template-columns:1fr 1fr 1fr;gap:10px;margin-bottom:20px;}
-.stat-box{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:14px 10px;text-align:center;}
-.stat-num{font-family:'Playfair Display',serif;font-size:26px;font-weight:700;color:var(--accent);line-height:1;}
-.stat-label{font-size:11px;color:var(--muted);margin-top:4px;text-transform:uppercase;letter-spacing:0.5px;}
-.progress-wrap{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:16px 18px;margin-bottom:20px;}
-.progress-label{display:flex;justify-content:space-between;font-size:13px;color:var(--muted);margin-bottom:10px;}
-.progress-bar{height:8px;background:rgba(255,255,255,0.08);border-radius:99px;overflow:hidden;}
-.progress-fill{height:100%;background:linear-gradient(90deg,var(--accent),var(--accent2));border-radius:99px;transition:width 0.5s ease;}
-.cat-scroll{display:flex;gap:8px;overflow-x:auto;margin-bottom:20px;padding-bottom:4px;scrollbar-width:none;}
-.cat-scroll::-webkit-scrollbar{display:none;}
-.cat-btn{flex-shrink:0;padding:7px 14px;border-radius:20px;border:1px solid var(--border);background:var(--card);color:var(--muted);font-size:13px;font-family:'DM Sans',sans-serif;cursor:pointer;transition:all 0.2s;white-space:nowrap;}
-.cat-btn.active{background:var(--accent);color:#000;font-weight:600;border-color:var(--accent);}
-.card-scene{perspective:1000px;margin-bottom:16px;}
-.card-wrap{position:relative;width:100%;height:230px;transform-style:preserve-3d;transition:transform 0.55s cubic-bezier(0.4,0,0.2,1);cursor:pointer;}
-.card-wrap.flipped{transform:rotateY(180deg);}
-.card-face{position:absolute;inset:0;backface-visibility:hidden;border-radius:20px;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:28px;text-align:center;border:1px solid var(--border);}
-.card-front{background:linear-gradient(135deg,#1a1a28,#22223a);}
-.card-back{background:linear-gradient(135deg,#1e2418,#242e1a);transform:rotateY(180deg);}
-.card-cat-badge{font-size:11px;padding:3px 10px;border-radius:20px;background:rgba(245,200,66,0.12);color:var(--accent);margin-bottom:10px;}
-.card-emoji{font-size:34px;margin-bottom:8px;}
-.card-word{font-family:'Playfair Display',serif;font-size:36px;font-weight:700;color:var(--text);margin-bottom:6px;line-height:1.1;}
-.card-phonetic{font-size:14px;color:var(--accent);margin-bottom:4px;}
-.card-hint{font-size:12px;color:var(--muted);margin-top:14px;}
-.card-tag{font-size:11px;text-transform:uppercase;letter-spacing:2px;color:var(--muted);margin-bottom:10px;}
-.card-meaning{font-size:20px;font-weight:500;color:var(--green);margin-bottom:10px;}
-.card-example{font-size:13px;color:rgba(240,237,230,0.65);font-style:italic;line-height:1.5;}
-.card-actions{display:grid;grid-template-columns:1fr 1fr 1fr;gap:10px;margin-bottom:24px;}
-.btn{padding:14px 10px;border-radius:12px;border:none;font-family:'DM Sans',sans-serif;font-size:13px;font-weight:600;cursor:pointer;transition:all 0.15s;display:flex;flex-direction:column;align-items:center;gap:4px;}
-.btn:active{transform:scale(0.95);}
-.btn-skip{background:var(--card2);color:var(--muted);border:1px solid var(--border);}
-.btn-hard{background:rgba(248,113,113,0.15);color:var(--red);border:1px solid rgba(248,113,113,0.25);}
-.btn-got{background:rgba(74,222,128,0.15);color:var(--green);border:1px solid rgba(74,222,128,0.25);}
-.btn-icon{font-size:20px;}
-.word-list{display:flex;flex-direction:column;gap:8px;}
-.word-item{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:13px 16px;display:flex;align-items:center;justify-content:space-between;}
-.word-item-left{display:flex;align-items:center;gap:12px;}
-.word-item-emoji{font-size:22px;}
-.word-item-word{font-family:'Playfair Display',serif;font-size:17px;font-weight:700;}
-.word-item-tr{font-size:12px;color:var(--muted);}
-.word-item-cat{font-size:11px;color:var(--purple);margin-top:2px;}
-.word-badge{font-size:11px;padding:3px 10px;border-radius:20px;font-weight:600;flex-shrink:0;}
-.badge-new{background:rgba(245,200,66,0.12);color:var(--accent);}
-.badge-review{background:rgba(224,123,57,0.12);color:var(--accent2);}
-.badge-learned{background:rgba(74,222,128,0.1);color:var(--green);}
-.quiz-question{background:var(--card);border:1px solid var(--border);border-radius:20px;padding:28px 20px;text-align:center;margin-bottom:20px;}
-.quiz-q-label{font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:2px;margin-bottom:12px;}
-.quiz-q-word{font-family:'Playfair Display',serif;font-size:40px;font-weight:900;color:var(--accent);margin-bottom:6px;}
-.quiz-q-phonetic{font-size:14px;color:var(--muted);}
-.quiz-options{display:flex;flex-direction:column;gap:10px;margin-bottom:16px;}
-.quiz-opt{padding:15px 18px;background:var(--card);border:1px solid var(--border);border-radius:14px;font-size:15px;font-family:'DM Sans',sans-serif;color:var(--text);cursor:pointer;text-align:left;transition:all 0.15s;}
-.quiz-opt:hover:not(:disabled){border-color:var(--accent);background:rgba(245,200,66,0.05);}
-.quiz-opt.correct{background:rgba(74,222,128,0.15);border-color:var(--green);color:var(--green);}
-.quiz-opt.wrong{background:rgba(248,113,113,0.15);border-color:var(--red);color:var(--red);}
-.quiz-opt:disabled{cursor:default;}
-.quiz-next{width:100%;padding:14px;background:var(--accent);color:#000;border:none;border-radius:12px;font-family:'DM Sans',sans-serif;font-size:15px;font-weight:700;cursor:pointer;display:none;}
-.quiz-score{text-align:center;padding:40px 20px;background:var(--card);border:1px solid var(--border);border-radius:20px;}
-.quiz-score-emoji{font-size:60px;margin-bottom:14px;}
-.quiz-score-title{font-family:'Playfair Display',serif;font-size:26px;margin-bottom:6px;}
-.quiz-score-sub{color:var(--muted);font-size:14px;margin-bottom:20px;}
-.quiz-score-num{font-family:'Playfair Display',serif;font-size:50px;color:var(--accent);font-weight:900;}
-.btn-restart{width:100%;padding:14px;background:var(--accent);color:#000;border:none;border-radius:12px;font-family:'DM Sans',sans-serif;font-size:15px;font-weight:700;cursor:pointer;margin-top:20px;}
-.reading-list{display:flex;flex-direction:column;gap:12px;margin-bottom:24px;}
-.reading-card{background:var(--card);border:1px solid var(--border);border-radius:16px;padding:18px;cursor:pointer;transition:border-color 0.2s;}
-.reading-card:hover{border-color:rgba(96,165,250,0.4);}
-.reading-card-top{display:flex;align-items:center;justify-content:space-between;margin-bottom:8px;}
-.reading-card-title{font-family:'Playfair Display',serif;font-size:18px;font-weight:700;}
-.reading-level{font-size:11px;padding:3px 10px;border-radius:20px;font-weight:600;}
-.level-beginner{background:rgba(74,222,128,0.12);color:var(--green);}
-.level-intermediate{background:rgba(245,200,66,0.12);color:var(--accent);}
-.level-advanced{background:rgba(248,113,113,0.12);color:var(--red);}
-.reading-card-preview{font-size:13px;color:var(--muted);line-height:1.5;}
-.reading-card-meta{display:flex;gap:12px;margin-top:10px;font-size:11px;color:var(--muted);}
-.article-back{background:none;border:none;color:var(--muted);font-family:'DM Sans',sans-serif;font-size:14px;cursor:pointer;padding:0;margin-bottom:16px;display:flex;align-items:center;gap:6px;}
-.article-title{font-family:'Playfair Display',serif;font-size:26px;font-weight:900;margin-bottom:8px;line-height:1.2;}
-.article-meta{display:flex;gap:10px;font-size:12px;color:var(--muted);margin-bottom:20px;}
-.article-body{font-size:16px;line-height:1.9;color:rgba(240,237,230,0.85);}
-.article-body p{margin-bottom:18px;}
-.hl-word{border-bottom:2px solid var(--accent);color:var(--accent);cursor:pointer;transition:all 0.15s;border-radius:2px;padding:0 1px;}
-.hl-word:hover{background:rgba(245,200,66,0.12);}
-.tooltip-box{position:fixed;z-index:999;background:#1e1e2e;border:1px solid var(--accent);border-radius:14px;padding:14px 16px;max-width:260px;box-shadow:0 8px 32px rgba(0,0,0,0.5);pointer-events:none;}
-.tooltip-word{font-family:'Playfair Display',serif;font-size:18px;color:var(--accent);margin-bottom:4px;}
-.tooltip-phonetic{font-size:12px;color:var(--muted);margin-bottom:6px;}
-.tooltip-meaning{font-size:14px;color:var(--green);font-weight:500;margin-bottom:4px;}
-.tooltip-example{font-size:12px;color:rgba(240,237,230,0.6);font-style:italic;}
-.bottom-nav{position:fixed;bottom:0;left:0;right:0;background:rgba(14,14,18,0.94);backdrop-filter:blur(16px);border-top:1px solid var(--border);display:flex;z-index:100;}
-.nav-item{flex:1;display:flex;flex-direction:column;align-items:center;padding:11px 8px;gap:3px;cursor:pointer;color:var(--muted);font-size:11px;transition:color 0.2s;border:none;background:none;font-family:'DM Sans',sans-serif;}
-.nav-item.active{color:var(--accent);}
-.nav-icon{font-size:21px;}
-@keyframes fadeIn{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
-.page{animation:fadeIn 0.25s ease;}
-.hidden{display:none !important;}
+body {margin:0;font-family:Inter,Arial;background:#0f172a;color:white;display:flex}
+.sidebar {width:240px;background:#020617;padding:20px;height:100vh}
+.sidebar h2{margin-bottom:20px}
+.sidebar button{width:100%;padding:12px;margin-bottom:10px;border:none;border-radius:10px;background:#1e293b;color:white;cursor:pointer}
+.sidebar button:hover{background:#334155}
+.main{flex:1;padding:20px;overflow-y:auto}
+.topbar{display:flex;gap:10px;margin-bottom:20px}
+input{padding:10px;border-radius:10px;border:none;flex:1}
+.card{background:#1e293b;padding:15px;border-radius:12px;margin-bottom:10px;transition:0.2s}
+.card:hover{transform:scale(1.02)}
+.word{font-size:20px;font-weight:bold}
+.meaning{opacity:0.8}
+.example{font-size:14px;opacity:0.7}
+.btn{padding:8px 12px;border:none;border-radius:8px;cursor:pointer;background:#0ea5e9;color:white}
+.levels button{margin-right:5px}
 </style>
 </head>
 <body>
-<div class="app">
-  <header>
-    <div class="logo">Word<span>Vault</span></div>
-    <div class="streak">&#x1F525; <span id="streakCount">0</span> gun</div>
-  </header>
-  <div id="page-learn" class="page">
-    <div class="stats">
-      <div class="stat-box"><div class="stat-num" id="stat-total">0</div><div class="stat-label">Toplam</div></div>
-      <div class="stat-box"><div class="stat-num" id="stat-learned">0</div><div class="stat-label">Ogrendim</div></div>
-      <div class="stat-box"><div class="stat-num" id="stat-review">0</div><div class="stat-label">Tekrar</div></div>
-    </div>
-    <div class="progress-wrap">
-      <div class="progress-label"><span>Gunluk ilerleme</span><span id="progress-text">0 / 5</span></div>
-      <div class="progress-bar"><div class="progress-fill" id="progress-fill" style="width:0%"></div></div>
-    </div>
-    <div class="cat-scroll" id="learnCatFilter"></div>
-    <div class="card-scene">
-      <div class="card-wrap" id="mainCard" onclick="flipCard()">
-        <div class="card-face card-front">
-          <div class="card-cat-badge" id="cardCat">-</div>
-          <div class="card-emoji" id="cardEmoji">&#x1F4D6;</div>
-          <div class="card-word" id="cardWord">-</div>
-          <div class="card-phonetic" id="cardPhonetic"></div>
-          <div class="card-hint">Cevirmek icin dokun &#x1F446;</div>
-        </div>
-        <div class="card-face card-back">
-          <div class="card-tag">TURKCE KARSILIGI</div>
-          <div class="card-meaning" id="cardMeaning">-</div>
-          <div class="card-example" id="cardExample"></div>
-        </div>
-      </div>
-    </div>
-    <div class="card-actions">
-      <button class="btn btn-skip" onclick="nextCard()"><span class="btn-icon">&#x23ED;</span>Gec</button>
-      <button class="btn btn-hard" onclick="markHard()"><span class="btn-icon">&#x1F605;</span>Zor</button>
-      <button class="btn btn-got" onclick="markGot()"><span class="btn-icon">&#x2705;</span>Bildim!</button>
-    </div>
-  </div>
-  <div id="page-words" class="page hidden">
-    <div class="cat-scroll" id="wordsCatFilter" style="margin-bottom:16px;"></div>
-    <div class="word-list" id="wordList"></div>
-  </div>
-  <div id="page-reading" class="page hidden">
-    <div id="reading-home">
-      <div style="font-size:12px;text-transform:uppercase;letter-spacing:2px;color:var(--muted);margin-bottom:16px;">Okuma Parcalari</div>
-      <div class="reading-list" id="readingList"></div>
-    </div>
-    <div id="reading-article" class="hidden">
-      <button class="article-back" onclick="closeArticle()">&larr; Geri</button>
-      <div class="article-title" id="articleTitle"></div>
-      <div class="article-meta">
-        <span id="articleLevel"></span>
-        <span id="articleTopic"></span>
-        <span id="articleTime"></span>
-      </div>
-      <div class="article-body" id="articleBody"></div>
-    </div>
-  </div>
-  <div id="page-quiz" class="page hidden">
-    <div id="quiz-area">
-      <div id="quiz-play">
-        <div class="quiz-question">
-          <div class="quiz-q-label">Bu kelimenin Turkcesi nedir?</div>
-          <div class="quiz-q-word" id="quizWord">-</div>
-          <div class="quiz-q-phonetic" id="quizPhonetic"></div>
-        </div>
-        <div class="quiz-options" id="quizOptions"></div>
-        <button class="quiz-next" id="quizNextBtn" onclick="nextQuiz()">Sonraki &rarr;</button>
-      </div>
-      <div id="quiz-score-screen" class="quiz-score hidden">
-        <div class="quiz-score-emoji" id="scoreEmoji">&#x1F3C6;</div>
-        <div class="quiz-score-title">Quiz Bitti!</div>
-        <div class="quiz-score-sub">Dogru cevap sayin</div>
-        <div class="quiz-score-num" id="scoreNum">0/0</div>
-        <button class="btn-restart" onclick="startQuiz()">Tekrar Oyna</button>
-      </div>
-    </div>
-    <div id="quiz-empty" class="hidden" style="text-align:center;padding:60px 20px;color:var(--muted);">
-      <div style="font-size:48px;margin-bottom:12px;">&#x1F9E0;</div>
-      <div>Quiz icin en az 4 kelime gerekli</div>
-    </div>
-  </div>
+
+<div class="sidebar">
+<h2>LangApp</h2>
+<button onclick="loadSection('words')">Words</button>
+<button onclick="loadSection('reading')">Reading</button>
+<button onclick="loadSection('grammar')">Grammar</button>
+<button onclick="showFavorites()">Favorites</button>
 </div>
-<nav class="bottom-nav">
-  <button class="nav-item active" onclick="goPage('learn',this)"><span class="nav-icon">&#x1F0CF;</span>Calis</button>
-  <button class="nav-item" onclick="goPage('words',this)"><span class="nav-icon">&#x1F4DA;</span>Kelimeler</button>
-  <button class="nav-item" onclick="goPage('reading',this)"><span class="nav-icon">&#x1F4D6;</span>Oku</button>
-  <button class="nav-item" onclick="goPage('quiz',this)"><span class="nav-icon">&#x1F9E0;</span>Quiz</button>
-</nav>
-<div class="tooltip-box hidden" id="tooltip"></div>
+
+<div class="main">
+<div class="topbar">
+<input id="search" placeholder="Search..." oninput="search()">
+<div class="levels">
+<button onclick="setLevel('all')">All</button>
+<button onclick="setLevel('A1')">A1</button>
+<button onclick="setLevel('A2')">A2</button>
+<button onclick="setLevel('B1')">B1</button>
+</div>
+</div>
+<div id="content"></div>
+<button class="btn" onclick="loadMore()">Load More</button>
+</div>
+
 <script>
-var WORDS=[
-  {word:"Melancholy",meaning:"Derin huzun, keder",example:"There was melancholy in her eyes.",phonetic:"/mel.en.kol.i/",emoji:"\uD83C\uDF19",cat:"Duygular",status:"new"},
-  {word:"Euphoria",meaning:"Yogun mutluluk, cosku",example:"She felt euphoria after the win.",phonetic:"/ju:fo:r.i.e/",emoji:"\u2B50",cat:"Duygular",status:"new"},
-  {word:"Nostalgia",meaning:"Gecmise duyulan ozlem",example:"Old songs fill me with nostalgia.",phonetic:"/nos.tal.dze/",emoji:"\u23F0",cat:"Duygular",status:"new"},
-  {word:"Serenity",meaning:"Huzur, sukunet",example:"The lake was full of serenity.",phonetic:"/se.ren.i.ti/",emoji:"\u26F0\uFE0F",cat:"Duygular",status:"new"},
-  {word:"Apprehension",meaning:"Kaygi, endise",example:"He felt apprehension before the exam.",phonetic:"/ap.ri.hen.shen/",emoji:"\uD83D\uDE30",cat:"Duygular",status:"new"},
-  {word:"Elation",meaning:"Sevinc, nese patlamasi",example:"She was full of elation at the news.",phonetic:"/i.lei.shen/",emoji:"\uD83C\uDF89",cat:"Duygular",status:"new"},
-  {word:"Remorse",meaning:"Pismanlik, vicdan azabi",example:"He felt deep remorse for his words.",phonetic:"/ri.mo:rs/",emoji:"\uD83D\uDC94",cat:"Duygular",status:"new"},
-  {word:"Longing",meaning:"Ozlem, hasret",example:"She felt a longing for home.",phonetic:"/lon.ing/",emoji:"\uD83C\uDF0A",cat:"Duygular",status:"new"},
-  {word:"Ephemeral",meaning:"Gecici, kisa omurlu",example:"Cherry blossoms are ephemeral.",phonetic:"/i.fem.er.el/",emoji:"\uD83C\uDF38",cat:"Doga",status:"new"},
-  {word:"Verdant",meaning:"Yemyesil, bitki ortusuyle dolu",example:"The verdant hills stretched far.",phonetic:"/ver.dent/",emoji:"\uD83C\uDF3F",cat:"Doga",status:"new"},
-  {word:"Cascade",meaning:"Caglayan, selale",example:"A cascade of water fell down the rocks.",phonetic:"/kas.keid/",emoji:"\uD83D\uDCA7",cat:"Doga",status:"new"},
-  {word:"Solstice",meaning:"Gun donumu",example:"The summer solstice is the longest day.",phonetic:"/sol.stis/",emoji:"\u2600\uFE0F",cat:"Doga",status:"new"},
-  {word:"Pristine",meaning:"Bozulmamis, el degmemis",example:"A pristine forest lay before them.",phonetic:"/pris.ti:n/",emoji:"\uD83C\uDFD5\uFE0F",cat:"Doga",status:"new"},
-  {word:"Tempest",meaning:"Firtina, kasirga",example:"The tempest destroyed the old bridge.",phonetic:"/tem.pist/",emoji:"\u26C8\uFE0F",cat:"Doga",status:"new"},
-  {word:"Luminous",meaning:"Isiltili, parlak",example:"The moon was luminous that night.",phonetic:"/lu:.mi.nes/",emoji:"\uD83C\uDF15",cat:"Doga",status:"new"},
-  {word:"Arid",meaning:"Kurak, corak",example:"The arid desert stretched for miles.",phonetic:"/ar.id/",emoji:"\uD83C\uDFDC\uFE0F",cat:"Doga",status:"new"},
-  {word:"Resilience",meaning:"Dayaniklilik, toparlanma gucu",example:"She showed great resilience.",phonetic:"/ri.zil.i.ens/",emoji:"\uD83D\uDCAA",cat:"Kisilik",status:"new"},
-  {word:"Tenacious",meaning:"Azimli, israrci",example:"He was tenacious in reaching his goals.",phonetic:"/te.nei.shes/",emoji:"\uD83E\uDD81",cat:"Kisilik",status:"new"},
-  {word:"Empathy",meaning:"Empati, baskasinini anlama yetisi",example:"Good leaders show empathy.",phonetic:"/em.pe.thi/",emoji:"\uD83E\uDD1D",cat:"Kisilik",status:"new"},
-  {word:"Candid",meaning:"Acik sozlu, donust",example:"She gave a candid answer.",phonetic:"/kan.did/",emoji:"\uD83D\uDDE3\uFE0F",cat:"Kisilik",status:"new"},
-  {word:"Diligent",meaning:"Caliskan, gayretli",example:"A diligent student always prepares.",phonetic:"/dil.i.djent/",emoji:"\uD83D\uDCDD",cat:"Kisilik",status:"new"},
-  {word:"Intrepid",meaning:"Cesur, yilmaz",example:"The intrepid explorer crossed the jungle.",phonetic:"/in.trep.id/",emoji:"\uD83E\uDDED",cat:"Kisilik",status:"new"},
-  {word:"Whimsical",meaning:"Tuhaf, hayalperest, sen",example:"Her whimsical ideas always surprised us.",phonetic:"/wim.zi.kel/",emoji:"\uD83E\uDD8B",cat:"Kisilik",status:"new"},
-  {word:"Prudent",meaning:"Tedbirli, sagduyulu",example:"A prudent decision saved them money.",phonetic:"/pru:.dent/",emoji:"\uD83E\uDDE0",cat:"Kisilik",status:"new"},
-  {word:"Serendipity",meaning:"Guzel bir tesaduf",example:"Meeting her was pure serendipity.",phonetic:"/ser.en.dip.i.ti/",emoji:"\u2728",cat:"Gunluk",status:"new"},
-  {word:"Mundane",meaning:"Siradan, gundelik",example:"He was tired of mundane routines.",phonetic:"/mun.dein/",emoji:"\uD83D\uDCC5",cat:"Gunluk",status:"new"},
-  {word:"Procrastinate",meaning:"Ertelemek, savsaklamak",example:"Stop procrastinating and start now.",phonetic:"/pre.kras.ti.neit/",emoji:"\u23F0",cat:"Gunluk",status:"new"},
-  {word:"Frugal",meaning:"Tutumlu, idareli",example:"She was frugal with her expenses.",phonetic:"/fru:.gel/",emoji:"\uD83D\uDCB0",cat:"Gunluk",status:"new"},
-  {word:"Hectic",meaning:"Telasli, yogun",example:"It was a hectic day at the office.",phonetic:"/hek.tik/",emoji:"\uD83C\uDF00",cat:"Gunluk",status:"new"},
-  {word:"Lethargic",meaning:"Uyusuk, halsiz",example:"I felt lethargic all morning.",phonetic:"/le.thar.djik/",emoji:"\uD83D\uDE34",cat:"Gunluk",status:"new"},
-  {word:"Perseverance",meaning:"Sebat, azim",example:"Success requires perseverance.",phonetic:"/per.se.vir.ens/",emoji:"\uD83C\uDFC6",cat:"Is ve Basari",status:"new"},
-  {word:"Innovative",meaning:"Yenilikci, yaratici",example:"The company launched an innovative product.",phonetic:"/in.e.vei.tiv/",emoji:"\uD83D\uDCA1",cat:"Is ve Basari",status:"new"},
-  {word:"Pivotal",meaning:"Kritik, belirleyici",example:"This was a pivotal moment in history.",phonetic:"/piv.e.tel/",emoji:"\uD83C\uDFAF",cat:"Is ve Basari",status:"new"},
-  {word:"Leverage",meaning:"Avantaj kullanmak",example:"Use your skills as leverage.",phonetic:"/lev.er.idj/",emoji:"\u2696\uFE0F",cat:"Is ve Basari",status:"new"},
-  {word:"Meticulous",meaning:"Son derece titiz, dikkatli",example:"She was meticulous in her work.",phonetic:"/me.tik.ju.les/",emoji:"\uD83D\uDD0D",cat:"Is ve Basari",status:"new"},
-  {word:"Verbose",meaning:"Fazla sozcuk kullanan",example:"His verbose speech bored everyone.",phonetic:"/ver.bous/",emoji:"\uD83D\uDCDC",cat:"Dil ve Edebiyat",status:"new"},
-  {word:"Eloquent",meaning:"Guzel konusan, belagatli",example:"She gave an eloquent speech.",phonetic:"/el.e.kwent/",emoji:"\uD83C\uDFA4",cat:"Dil ve Edebiyat",status:"new"},
-  {word:"Narrative",meaning:"Anlati, hikaye",example:"The narrative kept me hooked.",phonetic:"/nar.e.tiv/",emoji:"\uD83D\uDCD6",cat:"Dil ve Edebiyat",status:"new"},
-  {word:"Ambiguous",meaning:"Muglik, iki anlamli",example:"The ending was deliberately ambiguous.",phonetic:"/am.big.ju.es/",emoji:"\uD83C\uDF00",cat:"Dil ve Edebiyat",status:"new"},
-  {word:"Metaphor",meaning:"Metafor, mecaz",example:"Life is a journey is a common metaphor.",phonetic:"/met.e.for/",emoji:"\uD83D\uDD8A\uFE0F",cat:"Dil ve Edebiyat",status:"new"},
-  {word:"Paradox",meaning:"Celisiki, paradoks",example:"It is a paradox that silence speaks.",phonetic:"/par.e.doks/",emoji:"\u267E\uFE0F",cat:"Dil ve Edebiyat",status:"new"}
-];
+let page=0,currentType='words',allData=[],filtered=[],level='all';
 
-var READINGS=[
-  {id:1,title:"The Last Library",level:"beginner",topic:"Hikaye",time:"3 dk",
-   preview:"In a small town, there was one last bookshop...",
-   body:[
-    "In a small town, there was one last bookshop. The owner was an old man named Henry. Every morning, he opened the heavy wooden door and waited for customers. But rarely did anyone come.",
-    "Henry did not feel <hl>Melancholy</hl> about this. He believed that books were like seeds — they needed time. One rainy afternoon, a young girl walked in. She looked curious and a little lost.",
-    "Do you have a book about stars? she asked. Henry smiled and walked to a dusty corner. He returned with a <hl>Luminous</hl> old atlas of the night sky. The girl's eyes went wide.",
-    "How much is it? she asked. Henry shook his head. Books find their readers, he said. This one was waiting for you. The girl left with the book, and Henry felt a quiet <hl>Serenity</hl> fill the room."
-  ]},
-  {id:2,title:"The Art of Doing Nothing",level:"intermediate",topic:"Yasam",time:"4 dk",
-   preview:"Modern life pushes us to always be productive...",
-   body:[
-    "Modern life often feels <hl>Hectic</hl>. We are told that being busy is a sign of importance. We <hl>Procrastinate</hl> on rest, always feeling guilty when we sit still. But science suggests we have this completely wrong.",
-    "The human brain is not designed to focus continuously. Research shows that periods of rest are when our most <hl>Innovative</hl> ideas emerge. The mind needs space to wander.",
-    "Many great thinkers were known to be <hl>Diligent</hl> workers, yet they also protected their downtime. Darwin took long slow walks. Einstein played violin. These were not <hl>Mundane</hl> activities — they were fuel.",
-    "The next time you feel <hl>Lethargic</hl> or unfocused, perhaps the <hl>Prudent</hl> choice is not to push harder, but to pause. True <hl>Resilience</hl> is not about never stopping. It is about knowing when to."
-  ]},
-  {id:3,title:"Words Without Translation",level:"intermediate",topic:"Dil",time:"5 dk",
-   preview:"Some emotions are so specific that only one language captures them...",
-   body:[
-    "Language is never just a tool for communication — it is a map of the human soul. Some emotions are so specific, so <hl>Ephemeral</hl>, that only one culture has found words for them.",
-    "The Japanese word mono no aware describes a gentle <hl>Melancholy</hl> at the passing of beautiful things — like cherry blossoms falling. It is <hl>Nostalgia</hl> mixed with acceptance.",
-    "The Portuguese word saudade carries deep emotional weight. It describes a <hl>Longing</hl> for something or someone loved and lost — not with bitterness, but with a tender ache.",
-    "These words are not just <hl>Eloquent</hl> curiosities. They remind us that language shapes what we allow ourselves to feel, and that every vocabulary is a different way of being human."
-  ]},
-  {id:4,title:"The Quiet Power of Introverts",level:"advanced",topic:"Psikoloji",time:"6 dk",
-   preview:"In a world that celebrates loudness, introverts are misunderstood...",
-   body:[
-    "In a culture that prizes <hl>Eloquent</hl> speakers and bold personalities, the introvert often feels like a misfit. Yet history's most <hl>Pivotal</hl> thinkers preferred solitude.",
-    "Introversion is frequently <hl>Ambiguous</hl> to those who misunderstand it. It is not shyness, nor <hl>Apprehension</hl> in social situations. It is simply a matter of energy.",
-    "The <hl>Paradox</hl> is that modern workplaces are designed for extroverts. Yet research shows that solitary work produces more creative output. The <hl>Narrative</hl> that collaboration always wins is a half-truth.",
-    "A more <hl>Prudent</hl> approach recognises that deep work requires deep quiet. The most <hl>Innovative</hl> companies understand this. Introversion is not a flaw to fix. It is a different kind of strength."
-  ]}
-];
+function setLevel(l){level=l;render()}
 
-var statusMap=JSON.parse(localStorage.getItem("wv_status")||"{}");
-var streak=parseInt(localStorage.getItem("wv_streak")||"0");
-var lastDate=localStorage.getItem("wv_lastdate")||"";
-var dailyDone=parseInt(localStorage.getItem("wv_daily")||"0");
-var currentCat="Tumuu",currentIdx=0,isFlipped=false;
-var quizIdx=0,quizScore=0,quizWords=[];
-var wordsCat="Tumuu";
-
-WORDS.forEach(function(w){if(statusMap[w.word])w.status=statusMap[w.word];});
-
-var today=new Date().toDateString();
-if(lastDate!==today){
-  var yest=new Date(Date.now()-86400000).toDateString();
-  if(lastDate===yest)streak++;
-  else if(lastDate&&lastDate!==today)streak=0;
-  localStorage.setItem("wv_lastdate",today);
-  dailyDone=0;
-  saveState();
-}
-document.getElementById("streakCount").textContent=streak;
-
-function saveState(){
-  WORDS.forEach(function(w){statusMap[w.word]=w.status;});
-  localStorage.setItem("wv_status",JSON.stringify(statusMap));
-  localStorage.setItem("wv_streak",streak);
-  localStorage.setItem("wv_daily",dailyDone);
+async function loadSection(type){
+currentType=type;page=0;allData=[];document.getElementById('content').innerHTML='';
+loadMore();
 }
 
-var CATS=["Tumuu"];
-WORDS.forEach(function(w){if(CATS.indexOf(w.cat)<0)CATS.push(w.cat);});
-
-function buildCatFilter(id,active,cb){
-  var el=document.getElementById(id);el.innerHTML="";
-  CATS.forEach(function(c){
-    var b=document.createElement("button");
-    b.className="cat-btn"+(c===active?" active":"");
-    b.textContent=c==="Tumuu"?"Tümü":c;
-    b.onclick=function(){cb(c);buildCatFilter(id,c,cb);};
-    el.appendChild(b);
-  });
+async function loadMore(){
+try{
+let res=await fetch(`data/${currentType}/page${page}.json`);
+let data=await res.json();
+allData=allData.concat(data);
+page++;
+render();
+}catch{console.log('end')}
 }
 
-function renderLearn(){
-  document.getElementById("stat-total").textContent=WORDS.length;
-  document.getElementById("stat-learned").textContent=WORDS.filter(function(w){return w.status==="learned";}).length;
-  document.getElementById("stat-review").textContent=WORDS.filter(function(w){return w.status==="review";}).length;
-  var pct=Math.min((dailyDone/5)*100,100);
-  document.getElementById("progress-fill").style.width=pct+"%";
-  document.getElementById("progress-text").textContent=dailyDone+" / 5";
-  buildCatFilter("learnCatFilter",currentCat,function(c){currentCat=c;currentIdx=0;renderLearn();});
-  var pool=filteredPool();
-  if(!pool.length)return;
-  if(currentIdx>=pool.length)currentIdx=0;
-  showCard(pool[currentIdx]);
+function render(){
+let content=document.getElementById('content');
+content.innerHTML='';
+filtered=allData.filter(x=> level==='all'||x.level===level);
+filtered.forEach(item=>{
+let div=document.createElement('div');
+div.className='card';
+
+if(currentType==='words'){
+div.innerHTML=`<div class='word'>${item.word}</div>
+<div class='meaning'>${item.meaning}</div>
+<div class='example'>${item.example||''}</div>
+<button onclick="fav('${item.word}')">⭐</button>`;
 }
 
-function filteredPool(){
-  var base=currentCat==="Tumuu"?WORDS:WORDS.filter(function(w){return w.cat===currentCat;});
-  var pending=base.filter(function(w){return w.status!=="learned";});
-  return pending.length?pending:base;
+if(currentType==='reading'){
+div.innerHTML=`<div class='word'>${item.title}</div>
+<div>${item.text}</div>`;
 }
 
-function showCard(w){
-  isFlipped=false;
-  document.getElementById("mainCard").classList.remove("flipped");
-  document.getElementById("cardCat").textContent=w.cat;
-  document.getElementById("cardEmoji").textContent=w.emoji;
-  document.getElementById("cardWord").textContent=w.word;
-  document.getElementById("cardPhonetic").textContent=w.phonetic||"";
-  document.getElementById("cardMeaning").textContent=w.meaning;
-  document.getElementById("cardExample").textContent=w.example?'"'+w.example+'"':"";
+if(currentType==='grammar'){
+div.innerHTML=`<div class='word'>${item.topic}</div>
+<div>${item.explanation}</div>`;
 }
 
-function flipCard(){isFlipped=!isFlipped;document.getElementById("mainCard").classList.toggle("flipped",isFlipped);}
-function nextCard(){currentIdx=(currentIdx+1)%filteredPool().length;renderLearn();}
-function markHard(){var w=filteredPool()[currentIdx];w.status="review";dailyDone=Math.min(dailyDone+1,5);saveState();nextCard();}
-function markGot(){
-  var w=filteredPool()[currentIdx];w.status="learned";dailyDone=Math.min(dailyDone+1,5);
-  if(dailyDone===5){streak=Math.max(streak,1);document.getElementById("streakCount").textContent=streak;}
-  saveState();nextCard();
+content.appendChild(div);
+});
 }
 
-function renderWordList(){
-  buildCatFilter("wordsCatFilter",wordsCat,function(c){wordsCat=c;renderWordList();});
-  var filtered=wordsCat==="Tumuu"?WORDS:WORDS.filter(function(w){return w.cat===wordsCat;});
-  document.getElementById("wordList").innerHTML=filtered.map(function(w){
-    return '<div class="word-item"><div class="word-item-left"><span class="word-item-emoji">'+w.emoji+'</span><div><div class="word-item-word">'+w.word+'</div><div class="word-item-tr">'+w.meaning+'</div><div class="word-item-cat">'+w.cat+'</div></div></div><span class="word-badge badge-'+w.status+'">'+(w.status==="new"?"Yeni":w.status==="review"?"Tekrar":"&#x2713;")+'</span></div>';
-  }).join("");
+function search(){
+let val=document.getElementById('search').value.toLowerCase();
+let content=document.getElementById('content');
+content.innerHTML='';
+
+filtered.filter(x=>JSON.stringify(x).toLowerCase().includes(val))
+.forEach(item=>{
+let div=document.createElement('div');
+div.className='card';
+div.innerHTML=JSON.stringify(item);
+content.appendChild(div);
+});
 }
 
-function renderReadingList(){
-  document.getElementById("readingList").innerHTML=READINGS.map(function(r){
-    var lvl=r.level==="beginner"?"Baslangic":r.level==="intermediate"?"Orta":"Ileri";
-    return '<div class="reading-card" onclick="openArticle('+r.id+')"><div class="reading-card-top"><div class="reading-card-title">'+r.title+'</div><span class="reading-level level-'+r.level+'">'+lvl+'</span></div><div class="reading-card-preview">'+r.preview+'</div><div class="reading-card-meta"><span>&#x1F4C1; '+r.topic+'</span><span>&#x23F1; '+r.time+'</span></div></div>';
-  }).join("");
+function fav(word){
+let favs=JSON.parse(localStorage.getItem('fav')||'[]');
+if(!favs.includes(word))favs.push(word);
+localStorage.setItem('fav',JSON.stringify(favs));
 }
 
-function openArticle(id){
-  var r=null;for(var i=0;i<READINGS.length;i++){if(READINGS[i].id===id){r=READINGS[i];break;}}
-  document.getElementById("articleTitle").textContent=r.title;
-  document.getElementById("articleLevel").textContent=(r.level==="beginner"?"Baslangic":r.level==="intermediate"?"Orta":"Ileri");
-  document.getElementById("articleTopic").textContent=r.topic;
-  document.getElementById("articleTime").textContent=r.time;
-  var bodyEl=document.getElementById("articleBody");
-  bodyEl.innerHTML=r.body.map(function(para){
-    var html=para.replace(/<hl>(.*?)<\/hl>/g,function(_,word){
-      var entry=null;
-      for(var i=0;i<WORDS.length;i++){if(WORDS[i].word.toLowerCase()===word.toLowerCase()){entry=WORDS[i];break;}}
-      return entry?'<span class="hl-word" data-word="'+entry.word+'">'+word+'</span>':word;
-    });
-    return "<p>"+html+"</p>";
-  }).join("");
-  var spans=bodyEl.querySelectorAll(".hl-word");
-  for(var i=0;i<spans.length;i++){
-    spans[i].addEventListener("click",function(e){showTooltip(e,this.dataset.word);});
-  }
-  document.getElementById("reading-home").classList.add("hidden");
-  document.getElementById("reading-article").classList.remove("hidden");
+function showFavorites(){
+let favs=JSON.parse(localStorage.getItem('fav')||'[]');
+let content=document.getElementById('content');
+content.innerHTML='';
+favs.forEach(f=>{
+let div=document.createElement('div');
+div.className='card';
+div.innerText=f;
+content.appendChild(div);
+});
 }
-
-function closeArticle(){
-  document.getElementById("reading-article").classList.add("hidden");
-  document.getElementById("reading-home").classList.remove("hidden");
-  hideTooltip();
-}
-
-function showTooltip(e,wordStr){
-  var entry=null;for(var i=0;i<WORDS.length;i++){if(WORDS[i].word===wordStr){entry=WORDS[i];break;}}
-  if(!entry)return;
-  var tt=document.getElementById("tooltip");
-  tt.innerHTML='<div class="tooltip-word">'+entry.emoji+" "+entry.word+'</div><div class="tooltip-phonetic">'+(entry.phonetic||"")+'</div><div class="tooltip-meaning">'+entry.meaning+'</div><div class="tooltip-example">'+(entry.example?'"'+entry.example+'"':"")+"</div>";
-  tt.classList.remove("hidden");
-  var x=Math.min(e.clientX-20,window.innerWidth-280);
-  var y=Math.min(e.clientY+16,window.innerHeight-140);
-  tt.style.left=x+"px";tt.style.top=y+"px";
-  e.stopPropagation();
-}
-function hideTooltip(){document.getElementById("tooltip").classList.add("hidden");}
-document.addEventListener("click",hideTooltip);
-
-function startQuiz(){
-  if(WORDS.length<4){document.getElementById("quiz-empty").classList.remove("hidden");document.getElementById("quiz-area").classList.add("hidden");return;}
-  document.getElementById("quiz-empty").classList.add("hidden");
-  document.getElementById("quiz-area").classList.remove("hidden");
-  document.getElementById("quiz-score-screen").classList.add("hidden");
-  document.getElementById("quiz-play").classList.remove("hidden");
-  quizWords=WORDS.slice().sort(function(){return Math.random()-0.5;});
-  quizIdx=0;quizScore=0;showQuizQ();
-}
-
-function showQuizQ(){
-  if(quizIdx>=quizWords.length){showQuizResult();return;}
-  var w=quizWords[quizIdx];
-  document.getElementById("quizWord").textContent=w.word;
-  document.getElementById("quizPhonetic").textContent=w.phonetic||"";
-  document.getElementById("quizNextBtn").style.display="none";
-  var opts=[w.meaning];
-  var others=WORDS.filter(function(x){return x.word!==w.word;}).sort(function(){return Math.random()-0.5;}).slice(0,3);
-  others.forEach(function(o){opts.push(o.meaning);});
-  opts.sort(function(){return Math.random()-0.5;});
-  var correct=w.meaning;
-  document.getElementById("quizOptions").innerHTML=opts.map(function(o){
-    return '<button class="quiz-opt" onclick="answerQuiz(this,\''+o.replace(/'/g,"&#39;")+'\',\''+correct.replace(/'/g,"&#39;")+'\')">' + o + '</button>';
-  }).join("");
-}
-
-function answerQuiz(btn,chosen,correct){
-  var btns=document.querySelectorAll(".quiz-opt");
-  for(var i=0;i<btns.length;i++)btns[i].disabled=true;
-  if(chosen===correct){btn.classList.add("correct");quizScore++;}
-  else{
-    btn.classList.add("wrong");
-    for(var i=0;i<btns.length;i++){if(btns[i].textContent.trim()===correct)btns[i].classList.add("correct");}
-  }
-  document.getElementById("quizNextBtn").style.display="block";quizIdx++;
-}
-function nextQuiz(){showQuizQ();}
-function showQuizResult(){
-  document.getElementById("quiz-play").classList.add("hidden");
-  document.getElementById("quiz-score-screen").classList.remove("hidden");
-  var pct=quizScore/quizWords.length;
-  document.getElementById("scoreNum").textContent=quizScore+"/"+quizWords.length;
-  document.getElementById("scoreEmoji").textContent=pct>=0.8?"\uD83C\uDFC6":pct>=0.5?"\uD83D\uDC4F":"\uD83D\uDCAA";
-}
-
-function goPage(name,el){
-  var pages=["learn","words","reading","quiz"];
-  for(var i=0;i<pages.length;i++)document.getElementById("page-"+pages[i]).classList.add("hidden");
-  document.getElementById("page-"+name).classList.remove("hidden");
-  var navs=document.querySelectorAll(".nav-item");
-  for(var i=0;i<navs.length;i++)navs[i].classList.remove("active");
-  el.classList.add("active");
-  if(name==="learn")renderLearn();
-  if(name==="words")renderWordList();
-  if(name==="reading")renderReadingList();
-  if(name==="quiz")startQuiz();
-}
-
-renderLearn();
 </script>
+
 </body>
 </html>
+
+/* ===== DATA EXAMPLES =====
+
+/data/words/page0.json
+[
+ {"word":"abandon","meaning":"terk etmek","example":"He abandoned the car.","level":"A2"},
+ {"word":"achieve","meaning":"başarmak","example":"She achieved her goals.","level":"A2"}
+]
+
+/data/reading/page0.json
+[
+ {"title":"My Day","text":"I wake up early.","level":"A1"}
+]
+
+/data/grammar/page0.json
+[
+ {"topic":"Present Simple","explanation":"Used for routines.","level":"A1"}
+]
+*/
