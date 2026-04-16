@@ -4,148 +4,621 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>LangApp Pro</title>
+<link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
-body {margin:0;font-family:Inter,Arial;background:#0f172a;color:white;display:flex}
-.sidebar {width:240px;background:#020617;padding:20px;height:100vh}
-.sidebar h2{margin-bottom:20px}
-.sidebar button{width:100%;padding:12px;margin-bottom:10px;border:none;border-radius:10px;background:#1e293b;color:white;cursor:pointer}
-.sidebar button:hover{background:#334155}
-.main{flex:1;padding:20px;overflow-y:auto}
-.topbar{display:flex;gap:10px;margin-bottom:20px}
-input{padding:10px;border-radius:10px;border:none;flex:1}
-.card{background:#1e293b;padding:15px;border-radius:12px;margin-bottom:10px;transition:0.2s}
-.card:hover{transform:scale(1.02)}
-.word{font-size:20px;font-weight:bold}
-.meaning{opacity:0.8}
-.example{font-size:14px;opacity:0.7}
-.btn{padding:8px 12px;border:none;border-radius:8px;cursor:pointer;background:#0ea5e9;color:white}
-.levels button{margin-right:5px}
-</style>
-  .hidden {
-  display: none;
-}
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
-.card {
-  cursor: pointer;
-}
+  :root {
+    --bg: #080c14;
+    --sidebar-bg: #050810;
+    --card-bg: #0f1623;
+    --card-hover: #151e2e;
+    --accent: #38bdf8;
+    --accent2: #818cf8;
+    --text: #e2e8f0;
+    --muted: #64748b;
+    --border: #1e2d42;
+  }
+
+  body {
+    font-family: 'Sora', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    display: flex;
+    min-height: 100vh;
+    overflow: hidden;
+  }
+
+  /* ── SIDEBAR ── */
+  .sidebar {
+    width: 220px;
+    background: var(--sidebar-bg);
+    border-right: 1px solid var(--border);
+    padding: 28px 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    height: 100vh;
+    position: fixed;
+    top: 0; left: 0;
+  }
+
+  .logo {
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+    color: var(--accent);
+    margin-bottom: 24px;
+    padding-left: 8px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .logo span { color: var(--text); }
+
+  .nav-btn {
+    width: 100%;
+    padding: 11px 14px;
+    border: none;
+    border-radius: 10px;
+    background: transparent;
+    color: var(--muted);
+    cursor: pointer;
+    font-family: 'Sora', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    text-align: left;
+    transition: background 0.18s, color 0.18s;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .nav-btn:hover, .nav-btn.active {
+    background: var(--card-bg);
+    color: var(--text);
+  }
+
+  .nav-btn.active { color: var(--accent); }
+
+  .nav-icon { font-size: 16px; }
+
+  /* ── MAIN ── */
+  .main {
+    margin-left: 220px;
+    flex: 1;
+    padding: 28px 32px;
+    height: 100vh;
+    overflow-y: auto;
+  }
+
+  .topbar {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 24px;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .search-wrap {
+    position: relative;
+    flex: 1;
+    min-width: 200px;
+  }
+
+  .search-wrap::before {
+    content: '🔍';
+    position: absolute;
+    left: 12px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 14px;
+    opacity: 0.5;
+  }
+
+  input[type="text"] {
+    width: 100%;
+    padding: 11px 14px 11px 36px;
+    border-radius: 10px;
+    border: 1px solid var(--border);
+    background: var(--card-bg);
+    color: var(--text);
+    font-family: 'Sora', sans-serif;
+    font-size: 14px;
+    outline: none;
+    transition: border-color 0.18s;
+  }
+
+  input[type="text"]:focus { border-color: var(--accent); }
+  input[type="text"]::placeholder { color: var(--muted); }
+
+  .levels { display: flex; gap: 6px; }
+
+  .level-btn {
+    padding: 9px 14px;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    background: transparent;
+    color: var(--muted);
+    font-family: 'Sora', sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.18s;
+  }
+
+  .level-btn:hover { border-color: var(--accent); color: var(--accent); }
+  .level-btn.active { background: var(--accent); border-color: var(--accent); color: #000; }
+
+  /* ── CARDS ── */
+  #content { display: flex; flex-direction: column; gap: 10px; }
+
+  .card {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    padding: 18px 20px;
+    border-radius: 14px;
+    cursor: pointer;
+    transition: background 0.18s, border-color 0.18s, transform 0.15s;
+    position: relative;
+  }
+
+  .card:hover {
+    background: var(--card-hover);
+    border-color: #2a3f5a;
+    transform: translateY(-1px);
+  }
+
+  .card-header { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; }
+
+  .word {
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: -0.3px;
+    color: var(--text);
+  }
+
+  .level-badge {
+    font-size: 11px;
+    font-weight: 700;
+    padding: 3px 8px;
+    border-radius: 6px;
+    background: #1a2a3a;
+    color: var(--accent);
+    font-family: 'JetBrains Mono', monospace;
+    white-space: nowrap;
+  }
+
+  .meaning {
+    color: #94a3b8;
+    font-size: 14px;
+    margin-top: 5px;
+    line-height: 1.5;
+  }
+
+  .example {
+    font-size: 13px;
+    color: var(--muted);
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top: 1px solid var(--border);
+    font-style: italic;
+    line-height: 1.5;
+  }
+
+  .example.hidden { display: none; }
+
+  .card-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10px;
+  }
+
+  .hint {
+    font-size: 11px;
+    color: var(--muted);
+    opacity: 0.6;
+  }
+
+  .fav-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    opacity: 0.5;
+    transition: opacity 0.2s, transform 0.2s;
+    padding: 4px;
+  }
+
+  .fav-btn:hover { opacity: 1; transform: scale(1.2); }
+  .fav-btn.active { opacity: 1; }
+
+  /* ── LOAD MORE ── */
+  .load-more-wrap { margin-top: 20px; text-align: center; }
+
+  .load-btn {
+    padding: 11px 28px;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    background: transparent;
+    color: var(--muted);
+    font-family: 'Sora', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.18s;
+  }
+
+  .load-btn:hover { border-color: var(--accent); color: var(--accent); }
+
+  /* ── SECTION TITLE ── */
+  .section-title {
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+    margin-bottom: 20px;
+    color: var(--text);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .section-title::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    background: var(--border);
+  }
+
+  /* ── EMPTY STATE ── */
+  .empty-state {
+    text-align: center;
+    padding: 60px 20px;
+    color: var(--muted);
+  }
+
+  .empty-state .icon { font-size: 40px; margin-bottom: 12px; }
+  .empty-state p { font-size: 15px; }
+
+  /* ── SCROLLBAR ── */
+  .main::-webkit-scrollbar { width: 6px; }
+  .main::-webkit-scrollbar-track { background: transparent; }
+  .main::-webkit-scrollbar-thumb { background: var(--border); border-radius: 4px; }
+</style>
 </head>
 <body>
 
 <div class="sidebar">
-<h2>LangApp</h2>
-<button onclick="loadSection('words')">Words</button>
-<button onclick="loadSection('reading')">Reading</button>
-<button onclick="loadSection('grammar')">Grammar</button>
-<button onclick="showFavorites()">Favorites</button>
+  <div class="logo">🌐 <span>LangApp</span></div>
+  <button class="nav-btn active" id="btn-words" onclick="loadSection('words')">
+    <span class="nav-icon">📖</span> Words
+  </button>
+  <button class="nav-btn" id="btn-reading" onclick="loadSection('reading')">
+    <span class="nav-icon">📄</span> Reading
+  </button>
+  <button class="nav-btn" id="btn-grammar" onclick="loadSection('grammar')">
+    <span class="nav-icon">✏️</span> Grammar
+  </button>
+  <button class="nav-btn" id="btn-favorites" onclick="showFavorites()">
+    <span class="nav-icon">⭐</span> Favorites
+  </button>
 </div>
 
 <div class="main">
-<div class="topbar">
-<input id="search" placeholder="Search..." oninput="search()">
-<div class="levels">
-<button onclick="setLevel('all')">All</button>
-<button onclick="setLevel('A1')">A1</button>
-<button onclick="setLevel('A2')">A2</button>
-<button onclick="setLevel('B1')">B1</button>
-</div>
-</div>
-<div id="content"></div>
-<button class="btn" onclick="loadMore()">Load More</button>
+  <div class="topbar">
+    <div class="search-wrap">
+      <input type="text" id="search" placeholder="Search..." oninput="filterSearch()">
+    </div>
+    <div class="levels">
+      <button class="level-btn active" onclick="setLevel('all', this)">All</button>
+      <button class="level-btn" onclick="setLevel('A1', this)">A1</button>
+      <button class="level-btn" onclick="setLevel('A2', this)">A2</button>
+      <button class="level-btn" onclick="setLevel('B1', this)">B1</button>
+    </div>
+  </div>
+
+  <div class="section-title" id="section-title">Words</div>
+  <div id="content"></div>
+
+  <div class="load-more-wrap">
+    <button class="load-btn" id="load-more-btn" onclick="loadMore()">Load More</button>
+  </div>
 </div>
 
 <script>
-let page=0,currentType='words',allData=[],filtered=[],level='all';
+  // ── STATE ──
+  let page = 0;
+  let currentType = 'words';
+  let allData = [];
+  let filtered = [];
+  let level = 'all';
 
-function setLevel(l){level=l;render()}
+  // ── DEMO DATA (gerçek JSON dosyaları olmadığında kullanılır) ──
+  const demoData = {
+    words: [
+      { word: 'Ambiguous', meaning: 'Open to more than one interpretation; not having one obvious meaning.', example: 'The instructions were ambiguous and confusing.', level: 'B1' },
+      { word: 'Benevolent', meaning: 'Well-meaning and kindly; generous.', example: 'She was a benevolent leader who cared for her team.', level: 'B1' },
+      { word: 'Concise', meaning: 'Giving a lot of information clearly in few words.', example: 'His concise summary saved everyone time.', level: 'A2' },
+      { word: 'Diligent', meaning: 'Having or showing care and conscientiousness in one\'s work.', example: 'She was a diligent student who never missed a deadline.', level: 'B1' },
+      { word: 'Eloquent', meaning: 'Fluent or persuasive in speaking or writing.', example: 'He gave an eloquent speech at the ceremony.', level: 'B1' },
+      { word: 'Fragile', meaning: 'Easily broken or damaged; delicate.', example: 'Handle the fragile package with care.', level: 'A2' },
+      { word: 'Grateful', meaning: 'Feeling or showing an appreciation for something done.', example: 'I am grateful for your help.', level: 'A1' },
+      { word: 'Humble', meaning: 'Having a modest or low estimate of one\'s own importance.', example: 'Despite his success, he remained humble.', level: 'A2' },
+      { word: 'Innovative', meaning: 'Featuring new methods; advanced and original.', example: 'The innovative design won several awards.', level: 'B1' },
+      { word: 'Justify', meaning: 'Show or prove to be right or reasonable.', example: 'Can you justify your decision?', level: 'A2' },
+    ],
+    reading: [
+      { title: 'The City at Night', text: 'The city never truly sleeps. Even at three in the morning, delivery trucks rumble through empty streets, cafés flicker their neon signs, and somewhere a dog barks at a passing shadow.', level: 'A2' },
+      { title: 'Climate Change', text: 'Scientists agree that global temperatures have risen significantly over the past century. Human activities — particularly the burning of fossil fuels — are the primary driver of this change.', level: 'B1' },
+      { title: 'My Morning Routine', text: 'I wake up at seven. First I drink a glass of water. Then I make breakfast. I usually eat eggs and toast. After that I go for a short walk.', level: 'A1' },
+    ],
+    grammar: [
+      { topic: 'Present Perfect', explanation: 'Use "have/has + past participle" to describe actions that happened at an unspecified time or have relevance to the present. Example: "I have visited Paris."', level: 'A2' },
+      { topic: 'Conditional Sentences', explanation: 'Type 1: If + present simple, will + infinitive. Used for real possibilities. Example: "If it rains, I will stay home."', level: 'B1' },
+      { topic: 'Simple Past', explanation: 'Use the simple past to describe completed actions in the past. Regular verbs add -ed. Example: "She walked to school yesterday."', level: 'A1' },
+    ],
+  };
 
-async function loadSection(type){
-currentType=type;page=0;allData=[];document.getElementById('content').innerHTML='';
-loadMore();
-}
+  // ── NAVIGATION ──
+  function setActiveNav(type) {
+    document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
+    const btn = document.getElementById(`btn-${type}`);
+    if (btn) btn.classList.add('active');
+    const titles = { words: 'Words', reading: 'Reading', grammar: 'Grammar', favorites: '⭐ Favorites' };
+    document.getElementById('section-title').textContent = titles[type] || type;
+  }
 
-async function loadMore(){
-try{
-let res=await fetch(`data/${currentType}/page${page}.json`);
-let data=await res.json();
-allData=allData.concat(data);
-page++;
-render();
-}catch{console.log('end')}
-}
+  // ── LEVEL ──
+  function setLevel(l, btn) {
+    level = l;
+    document.querySelectorAll('.level-btn').forEach(b => b.classList.remove('active'));
+    if (btn) btn.classList.add('active');
+    render();
+  }
 
-function render(){
-let content=document.getElementById('content');
-content.innerHTML='';
-filtered=allData.filter(x=> level==='all'||x.level===level);
-filtered.forEach(item=>{
-let div=document.createElement('div');
-div.className='card';
+  // ── LOAD SECTION ──
+  async function loadSection(type) {
+    currentType = type;
+    page = 0;
+    allData = [];
+    document.getElementById('content').innerHTML = '';
+    document.getElementById('load-more-btn').style.display = '';
+    setActiveNav(type);
+    await loadMore();
+  }
 
-if(currentType==='words'){
-  div.innerHTML = `<div class='word'>${item.word}</div>
-  <div class='meaning'>${item.meaning}</div>
-  <div class='example hidden'>${item.example||''}</div>
-  <button onclick='fav(${JSON.stringify(item)})'>⭐</button>`;
-}
-}
+  // ── LOAD MORE ──
+  async function loadMore() {
+    try {
+      const res = await fetch(`data/${currentType}/page${page}.json`);
+      if (!res.ok) throw new Error('not found');
+      const data = await res.json();
+      allData = allData.concat(data);
+      page++;
+      render();
+    } catch {
+      // JSON dosyası yoksa demo verileri kullan
+      if (page === 0) {
+        allData = demoData[currentType] || [];
+        page++;
+        render();
+      } else {
+        document.getElementById('load-more-btn').style.display = 'none';
+      }
+    }
+  }
 
-if(currentType==='reading'){
-div.innerHTML=`<div class='word'>${item.title}</div>
-<div>${item.text}</div>`;
-}
+  // ── RENDER ──
+  function render() {
+    const content = document.getElementById('content');
+    content.innerHTML = '';
 
-if(currentType==='grammar'){
-div.innerHTML=`<div class='word'>${item.topic}</div>
-<div>${item.explanation}</div>`;
-}
-div.onclick = () => {
-  let ex = div.querySelector('.example');
-  if(ex) ex.classList.toggle('hidden');
-}
-content.appendChild(div);
-});
-}
+    filtered = allData.filter(x => level === 'all' || x.level === level);
 
-function search(){
-let val=document.getElementById('search').value.toLowerCase();
-let content=document.getElementById('content');
-content.innerHTML='';
+    if (filtered.length === 0) {
+      content.innerHTML = `
+        <div class="empty-state">
+          <div class="icon">📭</div>
+          <p>No items found for this level.</p>
+        </div>`;
+      return;
+    }
 
-filtered.filter(x=>JSON.stringify(x).toLowerCase().includes(val))
-.forEach(item=>{
-let div=document.createElement('div');
-div.className='card';
-if(currentType==='words'){
-  div.innerHTML = `
-    <div class='word'>${item.word}</div>
-    <div class='meaning'>${item.meaning}</div>
-    <div class='example'>${item.example || ''}</div>
-  `;
-content.appendChild(div);
-});
-}
+    filtered.forEach(item => {
+      const div = document.createElement('div');
+      div.className = 'card';
 
-function fav(item){
-  let favs = JSON.parse(localStorage.getItem('fav')||'[]');
-  favs.push(item);
-  localStorage.setItem('fav', JSON.stringify(favs));
-}
-}
+      if (currentType === 'words') {
+        const isFav = isFavorited(item);
+        div.innerHTML = `
+          <div class="card-header">
+            <div class="word">${item.word}</div>
+            ${item.level ? `<span class="level-badge">${item.level}</span>` : ''}
+          </div>
+          <div class="meaning">${item.meaning}</div>
+          <div class="example hidden">${item.example || ''}</div>
+          <div class="card-footer">
+            <span class="hint">Tap to see example</span>
+            <button class="fav-btn ${isFav ? 'active' : ''}" title="Add to favorites"
+              onclick="toggleFav(event, ${JSON.stringify(item).replace(/"/g, '&quot;')}, this)">
+              ${isFav ? '⭐' : '☆'}
+            </button>
+          </div>`;
+      } else if (currentType === 'reading') {
+        div.innerHTML = `
+          <div class="card-header">
+            <div class="word">${item.title}</div>
+            ${item.level ? `<span class="level-badge">${item.level}</span>` : ''}
+          </div>
+          <div class="meaning" style="margin-top:10px">${item.text}</div>`;
+      } else if (currentType === 'grammar') {
+        div.innerHTML = `
+          <div class="card-header">
+            <div class="word">${item.topic}</div>
+            ${item.level ? `<span class="level-badge">${item.level}</span>` : ''}
+          </div>
+          <div class="meaning" style="margin-top:10px">${item.explanation}</div>`;
+      }
 
-function showFavorites(){
-let favs=JSON.parse(localStorage.getItem('fav')||'[]');
-let content=document.getElementById('content');
-content.innerHTML='';
-favs.forEach(f=>{
-let div=document.createElement('div');
-div.className='card';
-div.innerText=f;
-content.appendChild(div);
-});
-}
+      // Örneği göster/gizle (words için)
+      div.addEventListener('click', () => {
+        const ex = div.querySelector('.example');
+        const hint = div.querySelector('.hint');
+        if (ex) {
+          ex.classList.toggle('hidden');
+          if (hint) hint.textContent = ex.classList.contains('hidden') ? 'Tap to see example' : 'Tap to hide example';
+        }
+      });
+
+      content.appendChild(div);
+    });
+  }
+
+  // ── SEARCH ──
+  function filterSearch() {
+    const val = document.getElementById('search').value.toLowerCase();
+    const content = document.getElementById('content');
+    content.innerHTML = '';
+
+    const results = filtered.filter(x => JSON.stringify(x).toLowerCase().includes(val));
+
+    if (results.length === 0) {
+      content.innerHTML = `
+        <div class="empty-state">
+          <div class="icon">🔍</div>
+          <p>No results found for "<strong>${val}</strong>".</p>
+        </div>`;
+      return;
+    }
+
+    results.forEach(item => {
+      const div = document.createElement('div');
+      div.className = 'card';
+
+      if (currentType === 'words') {
+        div.innerHTML = `
+          <div class="card-header">
+            <div class="word">${item.word}</div>
+            ${item.level ? `<span class="level-badge">${item.level}</span>` : ''}
+          </div>
+          <div class="meaning">${item.meaning}</div>
+          <div class="example hidden">${item.example || ''}</div>
+          <div class="card-footer">
+            <span class="hint">Tap to see example</span>
+          </div>`;
+      } else if (currentType === 'reading') {
+        div.innerHTML = `
+          <div class="word">${item.title}</div>
+          <div class="meaning" style="margin-top:10px">${item.text}</div>`;
+      } else if (currentType === 'grammar') {
+        div.innerHTML = `
+          <div class="word">${item.topic}</div>
+          <div class="meaning" style="margin-top:10px">${item.explanation}</div>`;
+      }
+
+      div.addEventListener('click', () => {
+        const ex = div.querySelector('.example');
+        const hint = div.querySelector('.hint');
+        if (ex) {
+          ex.classList.toggle('hidden');
+          if (hint) hint.textContent = ex.classList.contains('hidden') ? 'Tap to see example' : 'Tap to hide example';
+        }
+      });
+
+      content.appendChild(div);
+    });
+  }
+
+  // ── FAVORITES ──
+  function getFavs() {
+    try { return JSON.parse(localStorage.getItem('langapp_favs') || '[]'); }
+    catch { return []; }
+  }
+
+  function isFavorited(item) {
+    return getFavs().some(f => f.word === item.word);
+  }
+
+  function toggleFav(event, item, btn) {
+    event.stopPropagation(); // kartın click olayını tetikleme
+    let favs = getFavs();
+    const idx = favs.findIndex(f => f.word === item.word);
+    if (idx === -1) {
+      favs.push(item);
+      btn.textContent = '⭐';
+      btn.classList.add('active');
+    } else {
+      favs.splice(idx, 1);
+      btn.textContent = '☆';
+      btn.classList.remove('active');
+    }
+    localStorage.setItem('langapp_favs', JSON.stringify(favs));
+  }
+
+  function showFavorites() {
+    setActiveNav('favorites');
+    document.getElementById('load-more-btn').style.display = 'none';
+    const favs = getFavs();
+    const content = document.getElementById('content');
+    content.innerHTML = '';
+
+    if (favs.length === 0) {
+      content.innerHTML = `
+        <div class="empty-state">
+          <div class="icon">⭐</div>
+          <p>No favorites yet. Star words you want to remember!</p>
+        </div>`;
+      return;
+    }
+
+    favs.forEach(item => {
+      const div = document.createElement('div');
+      div.className = 'card';
+      div.innerHTML = `
+        <div class="card-header">
+          <div class="word">${item.word}</div>
+          ${item.level ? `<span class="level-badge">${item.level}</span>` : ''}
+        </div>
+        <div class="meaning">${item.meaning}</div>
+        <div class="example hidden">${item.example || ''}</div>
+        <div class="card-footer">
+          <span class="hint">Tap to see example</span>
+          <button class="fav-btn active" title="Remove from favorites"
+            onclick="removeFav(event, '${item.word}', this.closest('.card'))">⭐</button>
+        </div>`;
+
+      div.addEventListener('click', () => {
+        const ex = div.querySelector('.example');
+        const hint = div.querySelector('.hint');
+        if (ex) {
+          ex.classList.toggle('hidden');
+          if (hint) hint.textContent = ex.classList.contains('hidden') ? 'Tap to see example' : 'Tap to hide example';
+        }
+      });
+
+      content.appendChild(div);
+    });
+  }
+
+  function removeFav(event, word, card) {
+    event.stopPropagation();
+    let favs = getFavs().filter(f => f.word !== word);
+    localStorage.setItem('langapp_favs', JSON.stringify(favs));
+    card.remove();
+    if (document.getElementById('content').children.length === 0) {
+      document.getElementById('content').innerHTML = `
+        <div class="empty-state">
+          <div class="icon">⭐</div>
+          <p>No favorites yet. Star words you want to remember!</p>
+        </div>`;
+    }
+  }
+
+  // ── INIT ──
+  loadSection('words');
 </script>
 
 </body>
 </html>
-
-
