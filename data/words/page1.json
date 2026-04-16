@@ -1,0 +1,7 @@
+[
+  {"word":"apple","meaning":"elma","example":"I eat an apple.","level":"A1"},
+  {"word":"book","meaning":"kitap","example":"This is my book.","level":"A1"},
+  {"word":"car","meaning":"araba","example":"My car is red.","level":"A1"},
+  {"word":"dog","meaning":"köpek","example":"The dog is barking.","level":"A1"},
+  {"word":"eat","meaning":"yemek yemek","example":"I eat breakfast.","level":"A1"}
+]
