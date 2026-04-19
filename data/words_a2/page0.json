@@ -1,0 +1,602 @@
+[
+  {
+    "word": "function",
+    "meaning": "function anlamı",
+    "example": "This is an example sentence with 'function'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "period",
+    "meaning": "period anlamı",
+    "example": "This is an example sentence with 'period'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "maintain",
+    "meaning": "maintain anlamı",
+    "example": "This is an example sentence with 'maintain'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "process",
+    "meaning": "process anlamı",
+    "example": "This is an example sentence with 'process'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "interpret",
+    "meaning": "interpret anlamı",
+    "example": "This is an example sentence with 'interpret'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "maintain",
+    "meaning": "maintain anlamı",
+    "example": "This is an example sentence with 'maintain'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "assume",
+    "meaning": "assume anlamı",
+    "example": "This is an example sentence with 'assume'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "define",
+    "meaning": "define anlamı",
+    "example": "This is an example sentence with 'define'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "require",
+    "meaning": "require anlamı",
+    "example": "This is an example sentence with 'require'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "maintain",
+    "meaning": "maintain anlamı",
+    "example": "This is an example sentence with 'maintain'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "define",
+    "meaning": "define anlamı",
+    "example": "This is an example sentence with 'define'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "assume",
+    "meaning": "assume anlamı",
+    "example": "This is an example sentence with 'assume'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "benefit",
+    "meaning": "benefit anlamı",
+    "example": "This is an example sentence with 'benefit'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "establish",
+    "meaning": "establish anlamı",
+    "example": "This is an example sentence with 'establish'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "indicate",
+    "meaning": "indicate anlamı",
+    "example": "This is an example sentence with 'indicate'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "similar",
+    "meaning": "similar anlamı",
+    "example": "This is an example sentence with 'similar'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "benefit",
+    "meaning": "benefit anlamı",
+    "example": "This is an example sentence with 'benefit'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "process",
+    "meaning": "process anlamı",
+    "example": "This is an example sentence with 'process'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "indicate",
+    "meaning": "indicate anlamı",
+    "example": "This is an example sentence with 'indicate'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "adapt",
+    "meaning": "adapt anlamı",
+    "example": "This is an example sentence with 'adapt'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "benefit",
+    "meaning": "benefit anlamı",
+    "example": "This is an example sentence with 'benefit'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "indicate",
+    "meaning": "indicate anlamı",
+    "example": "This is an example sentence with 'indicate'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "establish",
+    "meaning": "establish anlamı",
+    "example": "This is an example sentence with 'establish'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "require",
+    "meaning": "require anlamı",
+    "example": "This is an example sentence with 'require'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "identify",
+    "meaning": "identify anlamı",
+    "example": "This is an example sentence with 'identify'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "principle",
+    "meaning": "principle anlamı",
+    "example": "This is an example sentence with 'principle'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "analyze",
+    "meaning": "analyze anlamı",
+    "example": "This is an example sentence with 'analyze'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "analyze",
+    "meaning": "analyze anlamı",
+    "example": "This is an example sentence with 'analyze'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "indicate",
+    "meaning": "indicate anlamı",
+    "example": "This is an example sentence with 'indicate'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "abandon",
+    "meaning": "abandon anlamı",
+    "example": "This is an example sentence with 'abandon'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "achieve",
+    "meaning": "achieve anlamı",
+    "example": "This is an example sentence with 'achieve'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "benefit",
+    "meaning": "benefit anlamı",
+    "example": "This is an example sentence with 'benefit'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "significant",
+    "meaning": "significant anlamı",
+    "example": "This is an example sentence with 'significant'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "improve",
+    "meaning": "improve anlamı",
+    "example": "This is an example sentence with 'improve'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "establish",
+    "meaning": "establish anlamı",
+    "example": "This is an example sentence with 'establish'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "process",
+    "meaning": "process anlamı",
+    "example": "This is an example sentence with 'process'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "require",
+    "meaning": "require anlamı",
+    "example": "This is an example sentence with 'require'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "indicate",
+    "meaning": "indicate anlamı",
+    "example": "This is an example sentence with 'indicate'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "develop",
+    "meaning": "develop anlamı",
+    "example": "This is an example sentence with 'develop'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "period",
+    "meaning": "period anlamı",
+    "example": "This is an example sentence with 'period'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "adapt",
+    "meaning": "adapt anlamı",
+    "example": "This is an example sentence with 'adapt'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "improve",
+    "meaning": "improve anlamı",
+    "example": "This is an example sentence with 'improve'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "maintain",
+    "meaning": "maintain anlamı",
+    "example": "This is an example sentence with 'maintain'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "process",
+    "meaning": "process anlamı",
+    "example": "This is an example sentence with 'process'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "improve",
+    "meaning": "improve anlamı",
+    "example": "This is an example sentence with 'improve'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "structure",
+    "meaning": "structure anlamı",
+    "example": "This is an example sentence with 'structure'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "analyze",
+    "meaning": "analyze anlamı",
+    "example": "This is an example sentence with 'analyze'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "adapt",
+    "meaning": "adapt anlamı",
+    "example": "This is an example sentence with 'adapt'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "policy",
+    "meaning": "policy anlamı",
+    "example": "This is an example sentence with 'policy'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "indicate",
+    "meaning": "indicate anlamı",
+    "example": "This is an example sentence with 'indicate'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "improve",
+    "meaning": "improve anlamı",
+    "example": "This is an example sentence with 'improve'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "indicate",
+    "meaning": "indicate anlamı",
+    "example": "This is an example sentence with 'indicate'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "abandon",
+    "meaning": "abandon anlamı",
+    "example": "This is an example sentence with 'abandon'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "respond",
+    "meaning": "respond anlamı",
+    "example": "This is an example sentence with 'respond'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "benefit",
+    "meaning": "benefit anlamı",
+    "example": "This is an example sentence with 'benefit'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "principle",
+    "meaning": "principle anlamı",
+    "example": "This is an example sentence with 'principle'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "require",
+    "meaning": "require anlamı",
+    "example": "This is an example sentence with 'require'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "significant",
+    "meaning": "significant anlamı",
+    "example": "This is an example sentence with 'significant'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "policy",
+    "meaning": "policy anlamı",
+    "example": "This is an example sentence with 'policy'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "develop",
+    "meaning": "develop anlamı",
+    "example": "This is an example sentence with 'develop'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "principle",
+    "meaning": "principle anlamı",
+    "example": "This is an example sentence with 'principle'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "develop",
+    "meaning": "develop anlamı",
+    "example": "This is an example sentence with 'develop'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "improve",
+    "meaning": "improve anlamı",
+    "example": "This is an example sentence with 'improve'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "source",
+    "meaning": "source anlamı",
+    "example": "This is an example sentence with 'source'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "develop",
+    "meaning": "develop anlamı",
+    "example": "This is an example sentence with 'develop'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "approach",
+    "meaning": "approach anlamı",
+    "example": "This is an example sentence with 'approach'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "maintain",
+    "meaning": "maintain anlamı",
+    "example": "This is an example sentence with 'maintain'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "respond",
+    "meaning": "respond anlamı",
+    "example": "This is an example sentence with 'respond'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "adapt",
+    "meaning": "adapt anlamı",
+    "example": "This is an example sentence with 'adapt'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "abandon",
+    "meaning": "abandon anlamı",
+    "example": "This is an example sentence with 'abandon'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "establish",
+    "meaning": "establish anlamı",
+    "example": "This is an example sentence with 'establish'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "abandon",
+    "meaning": "abandon anlamı",
+    "example": "This is an example sentence with 'abandon'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "establish",
+    "meaning": "establish anlamı",
+    "example": "This is an example sentence with 'establish'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "principle",
+    "meaning": "principle anlamı",
+    "example": "This is an example sentence with 'principle'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "approach",
+    "meaning": "approach anlamı",
+    "example": "This is an example sentence with 'approach'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "benefit",
+    "meaning": "benefit anlamı",
+    "example": "This is an example sentence with 'benefit'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "significant",
+    "meaning": "significant anlamı",
+    "example": "This is an example sentence with 'significant'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "significant",
+    "meaning": "significant anlamı",
+    "example": "This is an example sentence with 'significant'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "analyze",
+    "meaning": "analyze anlamı",
+    "example": "This is an example sentence with 'analyze'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "adapt",
+    "meaning": "adapt anlamı",
+    "example": "This is an example sentence with 'adapt'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "adapt",
+    "meaning": "adapt anlamı",
+    "example": "This is an example sentence with 'adapt'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "adapt",
+    "meaning": "adapt anlamı",
+    "example": "This is an example sentence with 'adapt'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "improve",
+    "meaning": "improve anlamı",
+    "example": "This is an example sentence with 'improve'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "require",
+    "meaning": "require anlamı",
+    "example": "This is an example sentence with 'require'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "abandon",
+    "meaning": "abandon anlamı",
+    "example": "This is an example sentence with 'abandon'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "improve",
+    "meaning": "improve anlamı",
+    "example": "This is an example sentence with 'improve'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "significant",
+    "meaning": "significant anlamı",
+    "example": "This is an example sentence with 'significant'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "create",
+    "meaning": "create anlamı",
+    "example": "This is an example sentence with 'create'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "achieve",
+    "meaning": "achieve anlamı",
+    "example": "This is an example sentence with 'achieve'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "create",
+    "meaning": "create anlamı",
+    "example": "This is an example sentence with 'create'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "focus",
+    "meaning": "focus anlamı",
+    "example": "This is an example sentence with 'focus'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "develop",
+    "meaning": "develop anlamı",
+    "example": "This is an example sentence with 'develop'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "period",
+    "meaning": "period anlamı",
+    "example": "This is an example sentence with 'period'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "policy",
+    "meaning": "policy anlamı",
+    "example": "This is an example sentence with 'policy'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "create",
+    "meaning": "create anlamı",
+    "example": "This is an example sentence with 'create'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "process",
+    "meaning": "process anlamı",
+    "example": "This is an example sentence with 'process'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "establish",
+    "meaning": "establish anlamı",
+    "example": "This is an example sentence with 'establish'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "require",
+    "meaning": "require anlamı",
+    "example": "This is an example sentence with 'require'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "assume",
+    "meaning": "assume anlamı",
+    "example": "This is an example sentence with 'assume'.",
+    "level": "WORDS_A2"
+  },
+  {
+    "word": "require",
+    "meaning": "require anlamı",
+    "example": "This is an example sentence with 'require'.",
+    "level": "WORDS_A2"
+  }
+]
