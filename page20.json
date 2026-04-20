@@ -1,0 +1,1002 @@
+[
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t3bd81d4c-5d9b-4e4e-8841-41cae9c58c81\t0a59023b-a00d-4246-b9b3-194145d7b97c\treturn\tverb\trɪˈtɚn\thttps://media.merriam-webster.com/soundc11/r/return01.wav\t+ obj, tennis\tto hit back (a ball that was hit to you)\t回击（把击向你的球打回去）\tHe <i>returned</i> her serve.\t他回击了她的发球。\tHer serve is difficult to <i>return</i>.\t她的发球很难接回。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\ted283c25-f126-43da-a6f2-ba2b7e4f8db4\t0a59023b-a00d-4246-b9b3-194145d7b97c\treturn\tverb\trɪˈtɚn\thttps://media.merriam-webster.com/soundc11/r/return01.wav\t+ obj, American football\tto run with the ball after getting it because of a kick, fumble, etc.\t在因踢球、掉球等原因获得球权后带球跑。\tHe <i>returned</i> the ball/kick 50 yards.\t他将球/开球回传了50码。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\tc0e49c09-710f-474f-9c03-4e2b7260a414\t0a59023b-a00d-4246-b9b3-194145d7b97c\treturn\tverb\trɪˈtɚn\thttps://media.merriam-webster.com/soundc11/r/return01.wav\t+ obj, British\t[usually used as <i>(be) returned</i>] [often + <i>as</i>]<br>to elect (someone) to office\t选举（某人）担任公职\tHe <i>was returned</i> to Parliament.\t他被重新选入议会。\tShe <i>was returned as</i> prime minister.\t她再次当选为总理。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\td9d7518d-401b-41a9-9e64-e904e49714d9\t0a59023b-a00d-4246-b9b3-194145d7b97c\treturn\tverb\trɪˈtɚn\thttps://media.merriam-webster.com/soundc11/r/return01.wav\t+ obj, finance\tto produce or earn (something, such as a profit or loss)\t产生或获得（某物，如利润或亏损）\tThe investment <i>returned</i> a huge profit.\t这项投资带来了巨大的利润。\tbonds that <i>return</i> [=<i>yield</i>] five percent annually\t年回报率为5%的债券\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\tb9b69bd3-40a1-4155-bbd4-269463eda43a\t529a364b-e393-4c85-98f6-f765449c0374\tfree\tadjective\tˈfriː\thttps://media.merriam-webster.com/soundc11/f/free0001.wav\t\tnot costing any money\t不花钱\tThey're giving out <i>free</i> tickets to the show.\t他们正在免费发放演出门票。\tThe school newsletter is <i>free</i>.\t学校通讯是免费的。\t<i>free</i> advice\t免费建议\t<i>free</i> drinks/food<br>The tickets are <b>free for the taking</b>. [=anyone who wants one can take one]<br>The store is offering a calculator as a <b>free gift</b>. [=something that is given to people to help get new customers for a business]\t免费饮品/食物<br>门票免费领取。<br>商店正在赠送计算器作为免费礼品。\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t6ca79ae8-8d52-4c05-b65f-dd9018d8350a\t529a364b-e393-4c85-98f6-f765449c0374\tfree\tadjective\tˈfriː\thttps://media.merriam-webster.com/soundc11/f/free0001.wav\t\t[often used after <i>set</i>]<br>not held as a slave or prisoner\t未被当作奴隶或囚犯关押\tAfter 10 years in jail, he was finally a <i>free</i> man.\t在监狱里度过了十年后，他终于成为了自由人。\tAfter 10 years, they finally <i>set</i> him <i>free</i>.\t十年之后，他们终于释放了他。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t37598ab5-6cdb-4dc8-921c-4c487b10dc1c\t529a364b-e393-4c85-98f6-f765449c0374\tfree\tadjective\tˈfriː\thttps://media.merriam-webster.com/soundc11/f/free0001.wav\t\tnot physically held by something\t没有被某物实物持有\tThe animal struggled to get <i>free</i> of/from the trap.\t那只动物挣扎着想要摆脱陷阱。\tHis legs became caught in the net, and he was unable to get himself <i>free</i>.\t他的腿被网缠住了，他无法自救脱身。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t98033ca2-b78e-498a-adfb-63fee2f1dca8\t529a364b-e393-4c85-98f6-f765449c0374\tfree\tadjective\tˈfriː\thttps://media.merriam-webster.com/soundc11/f/free0001.wav\t\t[followed by <i>to + verb</i>]<br>able to do what you want to do able to move, go, or act without being stopped\t能够做你想做的事；能够自由移动、去某处或行动而不被阻止\tYou are <i>free to leave</i>.\t你可以自由离开。\tYou're (entirely) <i>free to do</i> whatever you want to do.\t你（完全）可以自由地做任何你想做的事情。\tWe were <i>free to choose</i> from among several options.\t我们可以自由选择多个选项中的任何一个。\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t1de51f43-866e-4e08-9f75-5ba1170b9671\t529a364b-e393-4c85-98f6-f765449c0374\tfree\tadjective\tˈfriː\thttps://media.merriam-webster.com/soundc11/f/free0001.wav\t\tnot controlled by a harsh ruler or laws\t不受严厉统治者或法律的控制\tHe dreamed of a day when his people would be <i>free</i>.\t他梦想着有一天他的人民能够获得自由。\ta <i>free</i> society\t自由社会\tI can say whatever I want to say. This is a <i>free</i> country.\t我可以说我想说的任何话。这是一个自由的国家。\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\tccd02e02-47ad-4670-86a7-0b00ea3a898e\t529a364b-e393-4c85-98f6-f765449c0374\tfree\tadjective\tˈfriː\thttps://media.merriam-webster.com/soundc11/f/free0001.wav\t\tnot limited by government control\t不受政府控制\t<i>free</i> competition\t自由竞争\t<i>free</i> and democratic elections\t自由和民主的选举\t<i>free</i> speech\t言论自由\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t02343786-f90e-4899-b717-87d226eb4019\t529a364b-e393-4c85-98f6-f765449c0374\tfree\tadjective\tˈfriː\thttps://media.merriam-webster.com/soundc11/f/free0001.wav\t\tnot limited by fear, uncertainty, etc. open\t不受恐惧、不确定性等限制。开放\ta <i>free</i> expression of opinions\t自由表达意见\ta <i>free</i> exchange of ideas\t思想的自由交流\tChildren are often <i>freer</i> and more imaginative than adults in their writing.\t在写作方面，儿童往往比成年人更自由、更有想象力。\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t6c44f3d3-91ad-4e93-9077-f0354c604e0d\t529a364b-e393-4c85-98f6-f765449c0374\tfree\tadjective\tˈfriː\thttps://media.merriam-webster.com/soundc11/f/free0001.wav\t\tnot limited in any way\t没有任何限制\tYour password allows you to have <i>free</i> access to the system.\t您的密码允许您免费访问该系统。\tThe ships were allowed <i>free</i> passage into and out of the port.\t这些船只被允许自由进出港口。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t4c026e32-b3a0-4513-a45b-73a65c16d75c\t529a364b-e393-4c85-98f6-f765449c0374\tfree\tadjective\tˈfriː\thttps://media.merriam-webster.com/soundc11/f/free0001.wav\t\t[usually + <i>from</i> or <i>of</i>] [sometimes used in combination]<br>not having, including, or suffering from something unpleasant, painful, or unwanted\t没有、不包括或不遭受某些不愉快、痛苦或不想要的事物\t<i>free from</i> worry/disease\t无忧无病\tThe product is guaranteed to be <i>free of/from</i> major defects.\t该产品保证无重大缺陷。\tThe speech was <i>free of</i> political rhetoric.\t这次演讲没有任何政治修辞。\twriting that is <i>free of</i> jargon<br>jargon-<i>free</i> writing<br>sugar-<i>free</i> chewing gum<br>After struggling with her addiction for many years, she is finally drug-<i>free</i>. [=she has finally stopped using drugs]\t没有行话的写作<br>无行话的写作<br>无糖口香糖<br>在与毒瘾斗争多年后，她终于戒毒了。\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\tdd6949a0-1b86-4d3f-94b0-d9cf8cacd12c\t529a364b-e393-4c85-98f6-f765449c0374\tfree\tadjective\tˈfriː\thttps://media.merriam-webster.com/soundc11/f/free0001.wav\t\tnot required to be doing something having nothing that must be done instead\t不需要做某事，而是没有必须要做的事情。\tI'm <i>free</i> tomorrow night.\t我明天晚上有空。\tWe're having a party next Saturday. Are you <i>free</i>?\t我们下周六要举办一个聚会。你有空吗？\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t3094b25a-a2e7-415d-9ee2-1e45b2333da3\t529a364b-e393-4c85-98f6-f765449c0374\tfree\tadjective\tˈfriː\thttps://media.merriam-webster.com/soundc11/f/free0001.wav\tof time\tnot being used for work or other activities\t未被用于工作或其他活动\tWednesday is her only <i>free</i> afternoon.\t星期三是她唯一有空的下午。\tI wish I had more <i>free</i> time.\t我希望我有更多的空闲时间。\tHe spends a lot of his <i>free</i> time [=time when he is not working on his job] tinkering with his car.\t他把很多空闲时间（即不工作的时候）用来鼓捣他的汽车。\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t6af6c8a5-9429-44b9-a065-7a31365f470f\t529a364b-e393-4c85-98f6-f765449c0374\tfree\tadjective\tˈfriː\thttps://media.merriam-webster.com/soundc11/f/free0001.wav\t\tnot being used\t未被使用\tI'm going to call my mother as soon as the phone is <i>free</i>.\t只要电话空闲下来，我就会给我妈妈打电话。\t“Excuse me: is this seat <i>free</i>?” “I'm sorry: it's taken.”\t“请问，这个座位有人吗？” “对不起，这里有人了。”\tThere's not enough <i>free</i> space on my computer's hard drive to install the software.\t我的电脑硬盘上没有足够的可用空间来安装该软件。\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\tdb1631a6-abee-489b-bdb0-9dbe03c24596\t529a364b-e393-4c85-98f6-f765449c0374\tfree\tadjective\tˈfriː\thttps://media.merriam-webster.com/soundc11/f/free0001.wav\t\tnot holding anything\t什么都没拿\tHe waved at us with his <i>free</i> hand.\t他用空着的手向我们挥手。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\tdcdad34c-7334-4573-9a1e-6e75dd7746bd\t529a364b-e393-4c85-98f6-f765449c0374\tfree\tadjective\tˈfriː\thttps://media.merriam-webster.com/soundc11/f/free0001.wav\t\tnot attached to anything\t未附着于任何东西\tShe held onto the <i>free</i> end of the rope.\t她抓住了绳子的自由端。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t7cef6ef4-be21-4fc3-9682-b0f2ac97b096\t529a364b-e393-4c85-98f6-f765449c0374\tfree\tadjective\tˈfriː\thttps://media.merriam-webster.com/soundc11/f/free0001.wav\t\tnot covered or filled with things clear\t没有被覆盖或填满的，清晰的\tWe'll need a lot of <i>free</i> floor space for the dancing lesson.\t我们需要很多空闲的地板空间来上舞蹈课。\tThe hallway should be kept <i>free</i> of clutter.\t走廊应保持无杂物。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t2b75e0be-5fb7-4974-8e43-fcef786bb52c\t529a364b-e393-4c85-98f6-f765449c0374\tfree\tadjective\tˈfriː\thttps://media.merriam-webster.com/soundc11/f/free0001.wav\t\tgiving, doing, or saying something very often\t经常给予、做某事或说某话\tHe seems to be very <i>free</i> about giving people his advice. = He seems to be very <b>free with</b> his advice. = [=he seems to give his advice very often, even when it is not wanted]\t他似乎很乐于给别人提建议。\tShe's very <i>free with</i> her money. = She's a <i>free</i> spender. [=she spends her money freely; she spends a lot of money without worrying about trying to save it]\t她花钱很大方。\t(<i>chiefly Brit</i>) He had a habit of <b>making free with</b> other people's money. [=of using other people's money freely]\t（主要用于英国）他有随意使用别人钱的习惯。\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t2198cf02-ad49-4cc2-b3a7-efcc76b270f7\t529a364b-e393-4c85-98f6-f765449c0374\tfree\tadjective\tˈfriː\thttps://media.merriam-webster.com/soundc11/f/free0001.wav\tof a translation\tnot closely following or matching the original language not exact\t没有紧密遵循或符合原文，不是完全准确\tThis is a very <i>free</i> [=<i>loose</i>] translation of the original poem.\t这是对原诗非常自由的翻译。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t50446b42-bd58-4e5b-8405-70a3ccc98a96\t76a494e4-059a-4e59-a1af-5c644b802882\tmilitary\tadjective\tˈmɪləˌteri\thttps://media.merriam-webster.com/soundc11/m/milita12.wav\t\tof or relating to soldiers or the armed forces (such as the army, navy, marines, and air force)\t关于士兵或武装部队（如陆军、海军、海军陆战队和空军）的，或与之相关的\t<i>military</i> discipline/life\t军队纪律/生活\t<i>military</i> glory\t军事荣耀\t<i>military</i> aircraft/officers/history/personnel/operations\t军用飞机/军官/历史/人员/行动\ta <i>military</i> base/camp/hospital<br>He is being tried in a <i>military</i> court rather than in a civilian court.<br>He has had a long <i>military</i> career.<br>He tried to avoid <i>military</i> service. [=he tried to avoid becoming a member of the army, navy, etc.]\t一个军事基地/营地/医院<br>他正在军事法庭而不是民事法庭受审。<br>他有着长期的军旅生涯。<br>他试图逃避兵役。\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t02478d1c-2566-436b-ae9a-10318faecd3d\t76a494e4-059a-4e59-a1af-5c644b802882\tmilitary\tadjective\tˈmɪləˌteri\thttps://media.merriam-webster.com/soundc11/m/milita12.wav\t\tof or relating to the army\t属于或与军队有关的\t<i>military</i> and naval affairs\t军事和海军事务\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t67f877cd-e71a-4d91-9821-86ea10b3c42b\t76a494e4-059a-4e59-a1af-5c644b802882\tmilitary\tadjective\tˈmɪləˌteri\thttps://media.merriam-webster.com/soundc11/m/milita12.wav\t\tcontrolled or supported by armed forces\t受武装部队控制或支持\ta <i>military</i> government/dictatorship/regime\t军事政府/独裁统治/政权\ta <i>military</i> coup\t军事政变\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\td513177f-e7a5-4330-b26f-85243458419b\t4d824938-893b-49bd-b351-6a02f62aa28a\tprice\tnoun\tˈpraɪs\thttps://media.merriam-webster.com/soundc11/p/price001.wav\t\t[often used before another noun]<br>the amount of money that you pay for something or that something costs\t你为某物支付的金额，或某物的价格。\toil/gas <i>prices</i>\t油/天然气价格\tYou paid a high/low/reasonable <i>price</i> for the car.\t你为这辆车支付了高价/低价/合理的价格。\tWe bought the house at a good <i>price</i>.\t我们以一个很好的价格买下了这所房子。\tCan you give me a <i>price</i> for the car? [=can you tell me how much the car costs?]<br>If the <i>price</i> is right/reasonable, I'll buy it. = If it's the right <i>price</i>, I'll buy it.<br>The <i>price</i> of milk rose/increased/fell/dropped.<br>With the coupon you can buy two loaves of bread for the <i>price</i> of one. [=for the same amount of money it costs to buy one]<br>I won't sell the house. <b>Not at any price</b>! [=I won't sell the house no matter how much money someone offers me for it]<br>High-definition television sets should come down in <i>price</i> over the next few years. [=they should start to cost less over the next few years]<br>What is the difference in <i>price</i> between the two cars?<br>Children who are older than 12 years old have to pay <b>full price</b>. [=the main or highest price]<br>Air-conditioning is included in the car's <b>base price</b>. [=the basic price you pay for something without adding anything extra]<br><i>price</i> cuts/increases<br>a <i>price</i> list for computer components\t你能给我这辆车的报价吗？<br>如果价格合适/合理，我就买。<br>牛奶的价格上涨/增加/下降/下跌了。<br>用这张优惠券，你可以买两条面包只需付一条的价格。<br>我不会卖这套房子。无论多少钱都不卖！<br>高清电视机在未来几年价格应该会下降。<br>这两辆车的价格差是多少？<br>12岁以上的儿童必须支付全价。<br>空调已包含在汽车的基础价格中。<br>降价/涨价<br>电脑配件的价格表\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t1262d50b-018a-42c8-82af-a9a35bedcf27\t4d824938-893b-49bd-b351-6a02f62aa28a\tprice\tnoun\tˈpraɪs\thttps://media.merriam-webster.com/soundc11/p/price001.wav\tsingular\tthe thing that is lost, damaged, or given up in order to get or do something\t为了获得或做某事而失去、损坏或放弃的东西\tA loss of privacy is often the <i>price</i> (you pay) for being famous.\t失去隐私往往是成名所要付出的代价。\tGiving up alcohol was <b>a small price (to pay) for</b> keeping his family together.\t戒酒是他为了让家庭团聚所付出的微不足道的代价。\tFive years in prison is <b>a high price (to pay) for</b> one mistake.\t为一个错误付出五年监禁的代价实在太高了。\tWe won the war, but at <b>what price</b>? [=did we lose or give up too much in order to win the war?]<br><b>What price glory/fame</b>? [=is glory/fame worth what you have to lose or give up in order to get it?]\t我们赢得了战争，但代价是什么？<br>荣耀/名声的代价是什么？\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\tf36ed555-cb20-4e45-ba82-44cd3312c821\t4d824938-893b-49bd-b351-6a02f62aa28a\tprice\tnoun\tˈpraɪs\thttps://media.merriam-webster.com/soundc11/p/price001.wav\tnoncount\tthe amount of money needed to persuade someone to do something\t说服某人做某事所需的钱数\tI know he said he wouldn't do it, but I think it's just a matter of finding his <i>price</i>.\t我知道他说过他不会这么做，但我认为这只是找到他的价格的问题。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t2856e618-002d-4e4c-811a-179e2c6ebf48\te7d8ef48-0361-4ebe-981a-2e38a95c520e\treport\tnoun\trɪˈpoɚt\thttps://media.merriam-webster.com/soundc11/r/report01.wav\tcount\ta story in a newspaper or on radio or television that is about something that happened or that gives information about something\t报纸、广播或电视上的一则报道，内容是关于某件发生的事情，或是提供某方面的信息。\ta news/weather/financial <i>report</i>\t新闻/天气/财经报道\ta special <i>report</i> on/about health\t一份关于健康的特别报告\ta <i>report</i> from our correspondent in China\t我们驻中国记者的报道\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t92d8ae02-79fc-4ba5-a5b2-06ab29999782\te7d8ef48-0361-4ebe-981a-2e38a95c520e\treport\tnoun\trɪˈpoɚt\thttps://media.merriam-webster.com/soundc11/r/report01.wav\tcount\ta written or spoken description of a situation, event, etc.\t对某种情况、事件等的书面或口头描述。\tShe wrote/made a <i>report</i> of the meeting.\t她写了一份会议报告。\tHe gave a detailed/full <i>report</i> on/about the project.\t他就该项目做了详细的/全面的报告。\ta medical <i>report</i>\t一份医疗报告\ta book <i>report</i><br>She filled out a police <i>report</i> at the scene of the accident.<br>Can you give us a quick <b>progress report</b>? [=an explanation of how something is developing]\t一份读书报告<br>她在事故现场填写了一份警方报告。<br>你能给我们一个简要的进展报告吗？\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t724ea2de-b525-4324-92c8-1d3f39ec9006\te7d8ef48-0361-4ebe-981a-2e38a95c520e\treport\tnoun\trɪˈpoɚt\thttps://media.merriam-webster.com/soundc11/r/report01.wav\tcount\tan official document that gives information about a particular subject\t一份关于特定主题提供信息的官方文件\tthe government's <i>report</i> on crime in 2006\t政府关于2006年犯罪情况的报告\tThe company issued/published/released its annual (business) <i>report</i>.\t公司发布了年度（业务）报告。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t876a142b-f199-49ef-8b20-41a1a4199add\te7d8ef48-0361-4ebe-981a-2e38a95c520e\treport\tnoun\trɪˈpoɚt\thttps://media.merriam-webster.com/soundc11/r/report01.wav\tcount\ta written or spoken statement about something that may or may not be true\t关于某事的书面或口头陈述，这些陈述可能是真实的，也可能不真实。\tUnconfirmed <i>reports</i> state that over 100 people were hurt.\t有未经证实的报道称，超过100人受伤。\tPolice have received <i>reports</i> of gang activity in the neighborhood.\t警方已接到有关该社区有帮派活动的报告。\t<b>By/from all reports</b>, you are a very hard worker. [=everyone says that you are a very hard worker]\t据所有的说法，你是一个非常勤奋的人。\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t55b3f1c8-5b0d-45d6-b484-2f9dbae9ceca\te7d8ef48-0361-4ebe-981a-2e38a95c520e\treport\tnoun\trɪˈpoɚt\thttps://media.merriam-webster.com/soundc11/r/report01.wav\tcount, formal\ta loud noise made by a gun or an explosion\t枪声或爆炸声发出的巨大响声\tthe sharp <i>report</i> of a rifle\t步枪的尖锐枪声\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\tb4924b42-ba9d-40e3-a764-a70581ef5655\te7d8ef48-0361-4ebe-981a-2e38a95c520e\treport\tnoun\trɪˈpoɚt\thttps://media.merriam-webster.com/soundc11/r/report01.wav\tBritish, count\treport card\t成绩单\t\t\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\teb3dc9d4-12cc-4e7a-b1a5-a57724031b4a\tde45ebe5-4a43-4045-8b6b-0d1fb428875e\tless\tadverb\tˈlɛs\thttps://media.merriam-webster.com/soundc11/l/less0001.wav\t\tnot so much to a smaller extent or degree\t并不是程度上或范围上更小\tThis test seemed much <i>less</i> difficult than the last one.\t这次测试似乎比上一次容易得多。\tWhich test is the <i>less</i> difficult of the two?\t这两项测试中哪一项更不难？\tThe test is no <i>less</i> difficult for being shorter. [=even though the test is shorter, it is not easier]\t考试虽然变短了，但并没有变得更容易。\tDo you have another one that's <i>less</i> expensive?<br>a <i>less</i> likely possibility<br>She visits much/far <i>less</i> often than she used to.<br>They're focusing more on quality and <i>less</i> on quantity.<br>I like this one (a little) <i>less</i> than the other.<br>Their band is <i>less</i> concerned with making music than with making money.<br>The cost is much/far <i>less</i> (of) a problem than we thought it would be.\t你有更便宜的吗？<br>可能性较小的情况<br>她现在比以前少来得多。<br>他们更注重质量，而不是数量。<br>我不太喜欢这个，还是更喜欢另一个。<br>他们的乐队与其说是关心音乐，不如说是关心赚钱。<br>费用远没有我们想象的那么成问题。\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t712e6381-bcfa-4247-b024-9bff353a3d35\t8cf701e1-c604-42be-8e8f-474e7f71397b\tless\tpreposition\tˈlɛs\thttps://media.merriam-webster.com/soundc11/l/less0001.wav\t\tafter taking away or subtracting (something)\t在拿走或减去（某物）之后\tthe regular price <i>less</i> [=<i>minus</i>] a discount\t原价减去折扣\tWe earned two hundred dollars, <i>less</i> travel expenses.\t我们赚了两百美元，扣除差旅费用。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\td13ee287-0f45-4715-a364-4cae9e4cccf4\t0921f3fe-8e72-4212-bd3e-d97f8a65d604\taccording to\tpreposition\t\t\t\tas stated, reported, or recorded by (someone or something)\t如（某人或某事）所述、所报道或所记录\t<i>According to</i> a recent survey, most Americans drive to work. [=a recent survey says that most Americans drive to work]\t根据最近的一项调查，大多数美国人开车上班。\t<i>According to</i> rumors I've heard, he was fired for stealing from the company.\t据我听说的传闻，他因为从公司偷东西而被解雇了。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\tca8b1be8-72b5-438b-8292-d8a27f9c9f53\t0921f3fe-8e72-4212-bd3e-d97f8a65d604\taccording to\tpreposition\t\t\t\tas directed or required by (rules, directions, etc.)\t按照（规则、指示等）的指示或要求\tShe always did everything <i>according to</i> the rules.\t她总是按照规矩做所有事情。\tI cooked the rice <i>according to</i> the directions on the box.\t我按照盒子上的说明煮了米饭。\tEverything went <b>according to plan</b>. [=everything went as it had been planned]\t一切都按计划进行。\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t742b56f7-d065-4242-981e-506225f58c91\t0921f3fe-8e72-4212-bd3e-d97f8a65d604\taccording to\tpreposition\t\t\t\tin a way that is based on (something)\t以（某事物）为基础的方式\tHe arranged the books on the shelf <i>according to</i> [=<i>by</i>] their size.\t他按照书的大小把它们整理在书架上。\tHe was paid <i>according to</i> how quickly he worked.\t他的报酬取决于他工作的速度。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t1bfb6301-0463-4360-a047-80ffeb31d425\t65b3a236-a117-4308-b5b9-0f6975fa50be\tdecision\tnoun\tdɪˈsɪʒən\thttps://media.merriam-webster.com/soundc11/d/decisi01.wav\tcount\ta choice that you make about something after thinking about it the result of deciding\t你在经过思考后对某事做出的选择，决定的结果。\tShe announced her <i>decision</i> to go to medical school.\t她宣布了自己去医学院的决定。\ta big/controversial/final <i>decision</i>\t一个重大的/有争议的/最终的决定\tHave you <b>made/reached a decision</b>?\t你做出决定了吗？\tAfter weeks of deliberation, he finally <b>came to a decision</b>. = After weeks of deliberation, he finally <b>arrived at a decision</b>.<br>He <b>based his decision on</b> facts, not emotions.<br>She made a <b>conscious decision</b> to leave the painting unfinished.<br>(<i>Brit</i>) The government has <b>taken a decision</b> to withdraw all troops. [=the government has made an important and official decision to withdraw all troops]<br>an <b>informed decision</b> [=a decision based on facts or information]<br>a <b>split-second decision</b> [=a decision that must be made in an instant]<br>[In informal spoken English, someone who says “<b>Decisions, decisions</b> ” is having difficulty making a decision, usually about an unimportant matter.] “<i>Decisions, decisions</i>. I can't decide which flavor of ice cream to get.”\t经过数周的深思熟虑，他终于做出了决定。<br>他根据事实而不是情感做出了决定。<br>她有意识地决定让这幅画保持未完成状态。<br>（英）政府已作出撤回所有部队的决定。<br>明智的决定<br>瞬间做出的决定<br>“Decisions, decisions. 我真拿不定主意该选哪种口味的冰淇淋。”\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\tf008de84-5b4d-4d99-804f-2f9b3e7ad5bb\t65b3a236-a117-4308-b5b9-0f6975fa50be\tdecision\tnoun\tdɪˈsɪʒən\thttps://media.merriam-webster.com/soundc11/d/decisi01.wav\tformal, noncount\t[opposite indecision]<br>the ability to make choices quickly and confidently\t能够迅速且自信地做出选择的能力\ta leader of courage and <i>decision</i> [=<i>decisiveness</i>]\t一位具有勇气和决断力的领导者\tWe need someone who will act with <i>decision</i> even under pressure.\t我们需要一个即使在压力下也能果断行事的人。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\ta99b6ae4-c692-457a-ad8a-0edbbcd78ea2\t65b3a236-a117-4308-b5b9-0f6975fa50be\tdecision\tnoun\tdɪˈsɪʒən\thttps://media.merriam-webster.com/soundc11/d/decisi01.wav\t\tthe particular end of a legal or official argument a legal or official judgment\t法律或官方争论的特定结论；法律或官方的裁决\tThe U.S. Supreme Court's 1954 <i>decision</i> brought an end to racial segregation in public schools.\t美国最高法院于1954年的裁决结束了公立学校的种族隔离。\tThe Supreme Court <b>handed down a 5-4 decision</b>. [=five members of the court voted one way, and the other four members voted the opposite way, and the side with the five votes won]\t最高法院作出了5比4的裁决。\tThe appeals court <b>upheld the decision</b>. [=the appeals court agreed with the decision made earlier by a lower court]\t上诉法院维持了该判决。\tThe appeals court <b>overturned the decision</b>. [=the appeals court disagreed with the decision made earlier by a lower court]\t上诉法院推翻了该裁决。\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t935632bb-35a6-451a-9bed-877bf7de07b7\t65b3a236-a117-4308-b5b9-0f6975fa50be\tdecision\tnoun\tdɪˈsɪʒən\thttps://media.merriam-webster.com/soundc11/d/decisi01.wav\t\ta report explaining why a legal or official judgment was made in a particular way\t一份解释为何以特定方式作出法律或官方判决的报告\tthe court's ten-page <i>decision</i>\t法院的十页判决书\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t35d1d546-2910-4b53-83ae-a202dd07bc94\t65b3a236-a117-4308-b5b9-0f6975fa50be\tdecision\tnoun\tdɪˈsɪʒən\thttps://media.merriam-webster.com/soundc11/d/decisi01.wav\tnoncount\tthe act of deciding something\t决定某事的行为\tThe moment of <i>decision</i> has come. You must decide.\t决定的时刻已经到来。你必须做出选择。\tThe judge has the power of <i>decision</i>. [=the judge has the power to make the decision]\t法官有决定权。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t1b397db4-0dc5-4364-b177-64287cb00aee\t03d6fb00-be07-428b-8521-ca3fc60adb59\texplain\tverb\tɪkˈspleɪn\thttps://media.merriam-webster.com/soundc11/e/explai01.wav\t+ obj\tto make (something) clear or easy to understand\t使（某事）清楚或易于理解\tI need a lawyer to <i>explain</i> this contract to me.\t我需要一位律师为我解释这份合同。\tThe professor <i>explained</i> the poem to the class.\t教授向全班解释了这首诗。\tShe <i>explained</i> how the machine worked.\t她解释了这台机器是如何运作的。\tI <i>explained</i> to them that I would be available by phone.\t我向他们解释说我可以通过电话联系。\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\ta8eb6eb4-a0f4-4bbe-9907-ee13fcbd68d9\t03d6fb00-be07-428b-8521-ca3fc60adb59\texplain\tverb\tɪkˈspleɪn\thttps://media.merriam-webster.com/soundc11/e/explai01.wav\t\tto tell, show, or be the reason for or cause of something\t说明、展示或成为某事的原因或起因\tScientists could not <i>explain</i> the strange lights in the sky.\t科学家们无法解释天空中奇怪的光。\tI don't know how to <i>explain</i> the dog's strange behavior.\t我不知道该如何解释这只狗的奇怪行为。\t“I need to rest,” I <i>explained</i> to them. = I <i>explained</i> to them that I needed to rest.\t“我需要休息，”我向他们解释道。\tWe asked him to <i>explain</i> his reasons to us.<br>Can you <i>explain</i> why no one was informed earlier?<br>Well, that <i>explains</i> it!<br>That <i>explains</i> why we we're so far behind schedule.<br>Give me a chance to <i>explain</i>.\t我们请他向我们解释他的理由。<br>你能解释一下为什么没人提前被通知吗？<br>哦，这就说得通了！<br>那就解释了为什么我们进度落后这么多。<br>给我一个解释的机会。\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t6b595855-66c1-46a9-a827-cbe4526d4105\t0c6bcd77-ac4f-46b8-a589-e1502a654551\tson\tnoun\tˈsʌn\thttps://media.merriam-webster.com/soundc11/s/son00001.wav\tcount\t[sometimes used figuratively] [sometimes used by an older person to address a younger man or a boy]<br>a male child\t男孩\tShe gave birth to a <i>son</i>.\t她生了一个儿子。\tThey have two <i>sons</i> and a daughter.\t他们有两个儿子和一个女儿。\tHe is the <i>son</i> of a lawyer and a doctor.\t他是一位律师和一位医生的儿子。\tan adopted <i>son</i><br>our town's own native <i>son</i> [=a boy/man who is from our town]<br>Slow down<i>, son</i>, I can't understand what you're saying.\t养子<br>我们镇的本地儿子<br>慢点说，儿子，我听不懂你在说什么。\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\teb743cef-4403-469b-9a6e-7e555e8b3fcd\t0c6bcd77-ac4f-46b8-a589-e1502a654551\tson\tnoun\tˈsʌn\thttps://media.merriam-webster.com/soundc11/s/son00001.wav\t\tthe second person of the Trinity in the Christian religion Jesus Christ\t基督教三位一体中的第二位——耶稣基督\tthe Father, <i>the Son</i> and the Holy Spirit\t圣父、圣子和圣灵\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\te4f32b84-51e9-4d3c-938a-a079adb1eb8a\t7ef14862-ce61-44c1-8006-a5e9a6839772\thope\tverb\tˈhoʊp\thttps://media.merriam-webster.com/soundc11/h/hope0001.wav\t\t[often + <i>for</i>]<br>to want something to happen or be true and think that it could happen or be true\t希望某事发生或为真，并认为它有可能发生或为真\tNo one knows yet if anyone survived the crash. At this point, we can only <i>hope</i>.\t目前还没有人知道是否有人在坠机事故中幸存。现在，我们只能寄希望于此。\t“Will you be able to come to the party?” “I <b>hope so</b>.” [=I want to go to the party but am not sure that I will be able to]\t“你能来参加聚会吗？” “我希望可以。”\t“Will you have to miss the party?” “I <b>hope not</b>.” [=I do not want to miss the party]\t“你会不得不错过聚会吗？” “我希望不会。”\tHe's <i>hoping for</i> a promotion.<br>An apology is the best/most we can <i>hope for</i>.<br>She was <i>hoping for</i> an invitation to the party.<br>She finally got her <i>hoped-for</i> promotion.<br>All we can do is <b>hope for the best</b>. [=hope that things will turn out as well as possible]<br>She <i>hoped</i> that she would be invited to the party. = She <i>hoped</i> to receive an invitation to the party.<br>We all <i>hope</i> (that) things will be better soon. = We're all <i>hoping</i> (that) things will be better soon.<br>They <i>hope</i> to succeed.<br>I <i>hope</i> (that) she remembers.<br>I <i>hope</i> you're feeling better soon.<br>That's what she <i>hoped</i> would happen.<br>It is (to be) <i>hoped</i> that the strike will end soon.<br>Let's <i>hope</i> that the strike ends soon.<br>I <i>hope</i> I haven't bored you.<br>Everyone in your family is well, I <i>hope</i>.\t他希望能升职。<br>道歉是我们所能期望的最好的/最多的了。<br>她希望能收到参加聚会的邀请。<br>她终于得到了她期盼已久的升职。<br>我们所能做的就是抱最好的希望。<br>她希望自己会被邀请参加聚会。<br>我们都希望事情很快会变好。<br>他们希望能够成功。<br>我希望她能记得。<br>希望你很快就会好起来。<br>那就是她所希望发生的事情。<br>希望罢工能很快结束。<br>让我们希望罢工能很快结束吧。<br>希望我没有让你觉得无聊。<br>希望你家里每个人都安好。\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t9de88cab-6d96-4184-a250-aac94a408433\td8e1be83-40fb-4e6d-9431-c1bdb0457c28\tdevelop\tverb\tdɪˈvɛləp\thttps://media.merriam-webster.com/soundc11/d/develo01.wav\t+ obj\tto cause (something) to grow or become bigger or more advanced\t使（某物）增长、变大或变得更先进\tShe has been exercising regularly to <i>develop</i> her back muscles.\t她一直在定期锻炼，以锻炼背部肌肉。\tThe story was later <i>developed</i> into a novel.\t这个故事后来被改编成了一部小说。\tThe island has <i>developed</i> its economy around tourism.\t该岛的经济发展以旅游业为中心。\tThe course is designed to <i>develop</i> your writing skills.\t本课程旨在培养你的写作能力。\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t333e0664-2624-4e25-b510-0112e6c5dcdf\td8e1be83-40fb-4e6d-9431-c1bdb0457c28\tdevelop\tverb\tdɪˈvɛləp\thttps://media.merriam-webster.com/soundc11/d/develo01.wav\tno obj\t[often + <i>into</i>]<br>to grow or become bigger or more advanced\t变得更大或更先进\tA blossom <i>develops</i> from a bud.\t花朵由花蕾发育而成。\tThe doctor says that the child is <i>developing</i> normally.\t医生说孩子发育正常。\tIn this class, we will be learning about how languages <i>develop</i>.\t在本课程中，我们将学习语言是如何发展的。\tIn a short time, the town <i>developed into</i> a city.\t在很短的时间内，这个小镇发展成了一座城市。\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t0a2832f2-296b-4552-8222-392f7c07881f\td8e1be83-40fb-4e6d-9431-c1bdb0457c28\tdevelop\tverb\tdɪˈvɛləp\thttps://media.merriam-webster.com/soundc11/d/develo01.wav\t+ obj\tto create (something) over a period of time\t在一段时间内创造（某物）\tScientists are <i>developing</i> a treatment for the disease.\t科学家们正在研发这种疾病的治疗方法。\tThe company has <i>developed</i> a new method for recycling old tires.\t该公司开发了一种回收旧轮胎的新方法。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\tb6faf06f-6a86-4f4f-aab7-c6e488a7395e\td8e1be83-40fb-4e6d-9431-c1bdb0457c28\tdevelop\tverb\tdɪˈvɛləp\thttps://media.merriam-webster.com/soundc11/d/develo01.wav\t+ obj\tto make (an idea, argument, theory, etc.) easier to understand by giving more information\t通过提供更多信息，使（一个想法、论点、理论等）更容易理解\tHe <i>develops</i> the concept/theory more fully in his book.\t他在他的书中更全面地阐述了这个概念/理论。\tYou need to <i>develop</i> your argument more.\t你需要进一步完善你的论点。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t7606c940-a460-40f0-ba56-5ef70a3b275c\td8e1be83-40fb-4e6d-9431-c1bdb0457c28\tdevelop\tverb\tdɪˈvɛləp\thttps://media.merriam-webster.com/soundc11/d/develo01.wav\tno obj\tto gradually begin to exist\t逐渐开始存在\tA dangerous situation is <i>developing</i>.\t一种危险的情况正在发展。\tRomantic relationships often <i>develop</i> between coworkers.\t同事之间经常会发展出浪漫关系。\tTowns <i>developed</i> along this trade route hundreds of years ago.\t数百年前，城镇沿着这条贸易路线发展起来。\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t9cdf94e7-811d-4ef1-83b6-d88076f19d2a\td8e1be83-40fb-4e6d-9431-c1bdb0457c28\tdevelop\tverb\tdɪˈvɛləp\thttps://media.merriam-webster.com/soundc11/d/develo01.wav\t+ obj\tto gradually begin to have (something)\t逐渐开始拥有（某物）\tAs he grew older he <i>developed</i> [=<i>acquired</i>] a taste for expensive wines.\t随着年龄的增长，他开始喜欢上昂贵的葡萄酒。\tShe <i>developed</i> an interest in music when she was just a child.\t她在年幼时就对音乐产生了兴趣。\tHe <i>developed</i> a close relationship with her.\t他与她建立了亲密的关系。\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t1911283d-4b92-4891-a927-fb2fa6b5dc87\td8e1be83-40fb-4e6d-9431-c1bdb0457c28\tdevelop\tverb\tdɪˈvɛləp\thttps://media.merriam-webster.com/soundc11/d/develo01.wav\t+ obj\tto begin to suffer from or be affected by (an illness, problem, etc.)\t开始遭受或受到（疾病、问题等）的影响\tpeople who <i>develop</i> cancer late in life\t晚年患癌症的人\tThe patient later <i>developed</i> a cough.\t患者后来出现了咳嗽。\tAt some point the pipe <i>developed</i> a leak.\t在某个时候，管道出现了泄漏。\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\td99fe9fa-0358-49f2-b5f3-f4cb716654c8\td8e1be83-40fb-4e6d-9431-c1bdb0457c28\tdevelop\tverb\tdɪˈvɛləp\thttps://media.merriam-webster.com/soundc11/d/develo01.wav\tchiefly US, no obj\tto become known or understood\t变得为人所知或被理解\tThe facts of what had happened slowly <i>developed</i> over the next several days.\t事情的真相在接下来的几天里逐渐浮出水面。\tIt eventually <i>developed</i> [=<i>turned out</i>] that he had forgotten to mail the package.\t结果发现他忘了寄包裹。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\tf80eca8a-7cef-47e0-ab25-110b785b9fd1\td8e1be83-40fb-4e6d-9431-c1bdb0457c28\tdevelop\tverb\tdɪˈvɛləp\thttps://media.merriam-webster.com/soundc11/d/develo01.wav\t\tto build houses or other buildings on (land)\t在（土地）上建造房屋或其他建筑物\tA builder wants to <i>develop</i> a large piece of land along the river.\t一位建筑商想要开发沿河的一大片土地。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t2d190970-9edc-45ae-a743-9942f0803b51\td8e1be83-40fb-4e6d-9431-c1bdb0457c28\tdevelop\tverb\tdɪˈvɛləp\thttps://media.merriam-webster.com/soundc11/d/develo01.wav\t\tto make (something) available for use\t使（某物）可供使用\tThe government plans to <i>develop</i> the natural resources of this region.\t政府计划开发该地区的自然资源。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t549b0cbe-41b8-4c5b-856f-9683a6e39d1e\td8e1be83-40fb-4e6d-9431-c1bdb0457c28\tdevelop\tverb\tdɪˈvɛləp\thttps://media.merriam-webster.com/soundc11/d/develo01.wav\t+ obj\tto make a photograph from (film) by using special chemicals and a special process\t用特殊的化学药品和特殊的工艺将（胶片）制作成照片\tOur vacation pictures should be <i>developed</i> by tomorrow.\t我们的度假照片应该会在明天之前洗好。\tDid you get the film <i>developed</i> yet?\t你把胶卷冲洗出来了吗？\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t34616dc7-5780-4c52-b2cb-7779d5ff73e2\tda3a7d19-5a7b-4853-8563-76065321ebd8\tview\tnoun\tˈvjuː\thttps://media.merriam-webster.com/soundc11/v/view0001.wav\tcount\tan opinion or way of thinking about something\t对某事的看法或思维方式\tWhat are your political <i>views</i>? = What are your <i>views</i> on/about politics?\t你的政治观点是什么？\tThe <i>views</i> expressed herein are strictly those of the author.\t本文所表达的观点仅代表作者本人。\tShe has an old-fashioned <i>view</i> of women's roles in society. [=her ideas about women's roles are old-fashioned]\t她对女性在社会中的角色持有一种老派的看法。\tThere is no evidence to support that <i>view</i>.<br><b>In my view</b> the plan will fail. [=I think that the plan will fail]<br>He <b>takes the view</b> [=he believes] that the economy will improve in the coming year.<br>She <b>takes a dim view of</b> [=she disapproves of] their behavior.\t没有证据支持这种观点。<br>在我看来，这个计划会失败。<br>他认为明年经济会好转。<br>她对他们的行为持否定态度。\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t518b683a-ac58-4c09-ad67-d503300fd093\tda3a7d19-5a7b-4853-8563-76065321ebd8\tview\tnoun\tˈvjuː\thttps://media.merriam-webster.com/soundc11/v/view0001.wav\tcount\tthe things that can be seen from a particular place\t从特定地点可以看到的事物\tThe house has a <i>view</i> of the lake. [=you can see the lake when you are inside or near the house]\t这所房子可以看到湖景。\ta scenic/spectacular/beautiful <i>view</i>\t风景优美/壮观/美丽的景色\tI asked for a room with a <i>view</i>. [=a room that allows you to see a beautiful or interesting scene from your window]\t我要求要一间有景观的房间。\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t2da331a2-465f-4578-b4f1-a5d5d75e26e9\tda3a7d19-5a7b-4853-8563-76065321ebd8\tview\tnoun\tˈvjuː\thttps://media.merriam-webster.com/soundc11/v/view0001.wav\t\tused to say that something can or cannot be seen\t用来说某事能否被看到\tI got a good <i>view</i> of the accident. [=I saw the accident clearly]\t我清楚地看到了那场事故。\tYou're blocking my <i>view</i>.\t你挡住我的视线了。\tOur <i>view</i> of the parade was obstructed. [=we could not see the parade because something was in front of us]\t我们观看游行的视线被挡住了。\tThe ship slowly sailed <b>out of view</b>.<br>The ship disappeared <b>from view</b>.<br>Keep your hands <b>in view</b> [=keep them where they can be seen] at all times.<br>The robbery was committed <b>in (full) view of</b> a group of tourists.<br>Children, stay <b>within view</b>. [=stay where I can see you]<br>The museum is <b>within view of</b> our hotel. [=we can see the museum from our hotel]\t船慢慢地驶出了视线。<br>那艘船从视线中消失了。<br>请始终让你的手保持在视线内。<br>这起抢劫案是在一群游客的（全部）目睹下发生的。<br>孩子们，待在我能看见的地方。<br>博物馆就在我们酒店的视线范围内。\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t45cb03bf-f0ce-4666-86e0-bb9d7c802214\tda3a7d19-5a7b-4853-8563-76065321ebd8\tview\tnoun\tˈvjuː\thttps://media.merriam-webster.com/soundc11/v/view0001.wav\tcount\ta picture of a place\t一个地方的照片\tThe postcard shows an aerial <i>view</i> of the bay. [=it shows a picture of the bay taken from an aircraft]\t明信片展示了海湾的鸟瞰图。\ta panoramic <i>view</i> of the mountains\t群山的全景\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t7748160d-b038-4e96-ad8f-3f64518742df\t0e68435a-b41a-400d-848e-d36b10461494\trelationship\tnoun\trɪˈleɪʃənˌʃɪp\thttps://media.merriam-webster.com/soundc11/r/relati03.wav\tcount\tthe way in which two or more people, groups, countries, etc., talk to, behave toward, and deal with each other\t两个人、群体、国家等之间相互交流、相互行为和相互处理事务的方式。\tThe <i>relationship</i> between the two countries has improved.\t两国之间的关系已经改善。\tShe has a close <i>relationship</i> with her sister.\t她和她的姐姐关系很亲密。\tWe have a good <b>working relationship</b>. [=we work well together]\t我们有良好的工作关系。\tI have a <b>love-hate relationship</b> with my ex. [=I have strong feelings of both love and hatred for my ex]\t我对我的前任有爱恨交织的感情。\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\tb35329d6-317c-4ba9-bd35-22c9a737a396\t0e68435a-b41a-400d-848e-d36b10461494\trelationship\tnoun\trɪˈleɪʃənˌʃɪp\thttps://media.merriam-webster.com/soundc11/r/relati03.wav\tcount\ta romantic or sexual friendship between two people\t两个人之间的浪漫或性关系的友谊\tShe has had many bad <i>relationships</i>.\t她经历过许多糟糕的感情。\tI am not in a <i>relationship</i> right now.\t我现在没有在谈恋爱。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t01e4d785-4c23-4fcb-9b29-eaacbd3458a8\t0e68435a-b41a-400d-848e-d36b10461494\trelationship\tnoun\trɪˈleɪʃənˌʃɪp\thttps://media.merriam-webster.com/soundc11/r/relati03.wav\t\tthe way in which two or more people or things are connected\t两个人或多个人或事物之间相互联系的方式\tthe <i>relationship</i> between mental and physical health\t心理健康与身体健康之间的关系\tthe doctor-patient <i>relationship</i>\t医患关系\t“What is your <i>relationship</i> to the witness?” “He is my father/friend/boss.”\t“你和证人是什么关系？” “他是我的父亲/朋友/老板。”\tHer earlier paintings <b>bear little relationship</b> to her later work. [=her earlier paintings are very different from her later work; her earlier paintings are not obviously connected to her later work]\t她早期的画作与她后期的作品几乎没有关系。\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t9cfacb74-3048-4181-9be0-bd9c663a6e41\td10422fd-617c-4829-8a36-99bd94f8890a\tcarry\tverb\tˈkeri\thttps://media.merriam-webster.com/soundc11/c/carry001.wav\t+ obj\t[sometimes used figuratively]<br>to move (something) while holding and supporting it\t在托住和支撑某物的同时移动（某物）\tShe helped me <i>carry</i> [=<i>transport</i>] the boxes out to my car.\t她帮我把箱子搬到我的车上。\tI'll <i>carry</i> your luggage to your room.\t我会把您的行李送到您的房间。\tHe was <i>carrying</i> his baby daughter in his arms.\t他怀里抱着他的小女儿。\tFor two months, I <i>carried</i> the book around with me everywhere I went.<br>The waitress <i>carried</i> away our empty dinner plates.<br>The wind <i>carried</i> the smoke away from the campsite.<br>These planes can <i>carry</i> up to 300 passengers.<br>a ship <i>carrying</i> thousands of gallons of oil<br>Your talent will <i>carry</i> you far. [=it will make you very successful]<br>She intended the play to <i>carry</i> audiences toward a sense of peace and understanding.<br>She still <i>carries</i> the memories of an unhappy childhood.<br>The song <b>carries me back to</b> [=it makes me remember] my first year of college.\t两个月来，无论我去哪里，我都随身带着这本书。<br>服务员把我们的空餐盘端走了。<br>风把烟从营地吹走了。<br>这些飞机最多可载300名乘客。<br>一艘运载数千加仑石油的船只<br>你的才华会让你走得很远。<br>她希望这部戏能带领观众走向平和与理解。<br>她依然带着不幸福童年的回忆。<br>这首歌让我回想起大学第一年。\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t02842416-649c-4aee-a1ef-0f800199b325\td10422fd-617c-4829-8a36-99bd94f8890a\tcarry\tverb\tˈkeri\thttps://media.merriam-webster.com/soundc11/c/carry001.wav\t+ obj\tto contain and direct the flow of (water, electricity, etc.)\t控制和引导（水、电等）的流动\tOil is <i>carried</i> to the factory through these pipes.\t石油通过这些管道被输送到工厂。\tWe installed gutters that will <i>carry</i> water away from the house.\t我们安装了排水槽，可以将雨水从房屋引走。\tblood vessels that <i>carry</i> blood to the heart\t将血液输送到心脏的血管\tThese cables <i>carry</i> electricity to hundreds of homes.<br>The bridge <i>carries</i> traffic in two directions.\t这些电缆为数百户家庭输送电力。<br>这座桥承载着双向交通。\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\td332616c-d7ed-424f-b023-491a80fe914d\td10422fd-617c-4829-8a36-99bd94f8890a\tcarry\tverb\tˈkeri\thttps://media.merriam-webster.com/soundc11/c/carry001.wav\t+ obj\tto have (something) with you or on your body\t随身携带（某物）或带在身上\tDo police officers <i>carry</i> guns when they're off duty?\t警察在休班时会携带枪支吗？\tThis bus driver doesn't <i>carry</i> change, so please have the exact fare ready.\t这位公交司机不找零，请准备好准确的车费。\tI always <i>carry</i> $20 in case of an emergency.\t我总是随身带着20美元，以备不时之需。\ttourists <i>carrying</i> cameras\t携带相机的游客\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\tb20197a9-d3ae-4e8b-980f-8f12ed443d8b\td10422fd-617c-4829-8a36-99bd94f8890a\tcarry\tverb\tˈkeri\thttps://media.merriam-webster.com/soundc11/c/carry001.wav\t+ obj\tto be able to give (a disease or a gene) to others even though you may not be affected by it\t能够将（一种疾病或基因）传给他人，即使你自己可能并未受到其影响\tOne percent of the population now <i>carries</i> the virus, and one in three will suffer symptoms of the disease.\t现在有百分之一的人口携带这种病毒，且每三个人中就有一人会出现该疾病的症状。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t17afc466-87bd-4fb7-bdcd-30ccb6947058\td10422fd-617c-4829-8a36-99bd94f8890a\tcarry\tverb\tˈkeri\thttps://media.merriam-webster.com/soundc11/c/carry001.wav\t+ obj\tto be pregnant with (a baby)\t怀有（一个婴儿）\tShe's <i>carrying</i> her second child.\t她正在怀第二个孩子。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t329f26dc-b03f-46bf-8444-d6bb49167438\td10422fd-617c-4829-8a36-99bd94f8890a\tcarry\tverb\tˈkeri\thttps://media.merriam-webster.com/soundc11/c/carry001.wav\t+ obj\tto hold (your body or your head) in a particular way\t以特定的方式保持（你的身体或头部）\tHe's over 80 years old and still <i>carries</i> himself erect/upright like a soldier.\t他已经八十多岁了，但仍然像士兵一样挺拔地站立。\tBe proud of yourself. Walk tall and <i>carry</i> your head high!\t为自己感到自豪。昂首挺胸，抬头前行！\tShe always <i>carries</i> [=(more formally) <i>comports</i>] herself with dignity and grace.\t她总是以尊严和优雅的态度举止得体。\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t036eeb93-25f2-4fbb-8603-62e93aba4c4a\td10422fd-617c-4829-8a36-99bd94f8890a\tcarry\tverb\tˈkeri\thttps://media.merriam-webster.com/soundc11/c/carry001.wav\t\tto have (something) in a store and ready to be sold to keep (something) in stock\t在商店里备有（某物）并准备出售；保持（某物）有库存\tOur grocery store <i>carries</i> a good selection of wines.\t我们的杂货店有丰富的葡萄酒选择。\tWe no longer <i>carry</i> that brand.\t我们不再销售那个品牌了。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t6d8dd2b0-8cc5-4d22-a348-969b40ab70de\td10422fd-617c-4829-8a36-99bd94f8890a\tcarry\tverb\tˈkeri\thttps://media.merriam-webster.com/soundc11/c/carry001.wav\t\tto have (someone or something) on a list or record\t将（某人或某物）列入名单或记录中\tThe company <i>carries</i> nearly 200 employees on its payroll.\t该公司在其工资单上有近200名员工。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t28e701fc-788f-4e25-8470-51335517544d\td10422fd-617c-4829-8a36-99bd94f8890a\tcarry\tverb\tˈkeri\thttps://media.merriam-webster.com/soundc11/c/carry001.wav\t\tto have (something) as a quality or characteristic\t具有（某物）作为一种品质或特征\tAll of our products <i>carry</i> a lifetime guarantee.\t我们所有的产品均享有终身保证。\tYour promises would <b>carry more weight</b> [=they would be more meaningful] if you didn't break them so often.\t如果你没有那么经常违背承诺，你的承诺会更有分量。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t91302ed3-c672-45c8-ba57-7421fbabbe70\td10422fd-617c-4829-8a36-99bd94f8890a\tcarry\tverb\tˈkeri\thttps://media.merriam-webster.com/soundc11/c/carry001.wav\t\tto be marked or labeled with (something)\t被标记或贴上（某物）\tCigarettes are required to <i>carry</i> a government health warning.\t香烟必须带有政府健康警告。\tmen who <i>carry</i> the physical scars of war\t身上带有战争伤疤的男人\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\tdefa00ac-d93f-4de8-bce1-a93c58413298\td10422fd-617c-4829-8a36-99bd94f8890a\tcarry\tverb\tˈkeri\thttps://media.merriam-webster.com/soundc11/c/carry001.wav\t+ obj\t[often + <i>with</i>]<br>to have (something) as a result or consequence\t以（某事物）作为结果或后果\tSuch crimes <i>carry</i> [=<i>entail</i>, <i>involve</i>] a heavy penalty.\t此类犯罪会受到严厉的惩罚。\tThe surgery does <i>carry</i> certain risks.\t手术确实存在一定的风险。\tYou must understand that the job <i>carries with</i> it <i>g</i>reat responsibility.\t你必须明白，这份工作肩负着巨大的责任。\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\tedec1c43-3af2-4a7f-a6d8-b588450363b4\td10422fd-617c-4829-8a36-99bd94f8890a\tcarry\tverb\tˈkeri\thttps://media.merriam-webster.com/soundc11/c/carry001.wav\t+ obj\tto have (something) as a duty or responsibility\t把（某事）作为职责或责任\tI'm <i>carrying</i> a full course load this semester.\t我这个学期修满了所有课程。\tHe <b>carries the weight of the world on his shoulders</b>. [=he feels much pressure because he has great responsibilities]\t他肩负着全世界的重担。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t73d5c836-fa52-4b93-9c23-ecdf1a150704\td10422fd-617c-4829-8a36-99bd94f8890a\tcarry\tverb\tˈkeri\thttps://media.merriam-webster.com/soundc11/c/carry001.wav\t+ obj\tto be responsible for the success of (something or someone)\t对（某事或某人）的成功负责\tHe's a player that's capable of <i>carrying</i> a team on his own.\t他是一个有能力独自带领球队前进的球员。\tHer spectacular performance as Carmen <i>carried</i> the opera.\t她在《卡门》中的精彩表演撑起了整部歌剧。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\ta768b883-996b-43f6-b722-ccba9855b2ce\td10422fd-617c-4829-8a36-99bd94f8890a\tcarry\tverb\tˈkeri\thttps://media.merriam-webster.com/soundc11/c/carry001.wav\t+ obj\tto make (something) continue\t使（某事）继续\tThey <i>carried</i> [=<i>took, extended</i>] the game into the 10th inning.\t他们把比赛拖进了第十局。\tThe newspaper <i>carried</i> the story over to the following page.\t报纸把这个故事延续到了下一页。\tThe design calls for the columns to be <i>carried</i> all the way up to the top of the building.\t设计要求将柱子一直延伸到建筑物的顶部。\t<i>carrying</i> the war to another continent\t将战争带到另一个大陆\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\tbdeb7a3f-d2f3-48f0-9cc4-7d6d7dba989e\td10422fd-617c-4829-8a36-99bd94f8890a\tcarry\tverb\tˈkeri\thttps://media.merriam-webster.com/soundc11/c/carry001.wav\tno obj\tto travel a long distance\t长途旅行\tHis deep voice <i>carries</i> well.\t他的低沉嗓音传得很远。\tBaseballs don't <i>carry</i> well in cold weather.\t棒球在寒冷的天气里飞不远。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t6abe20ce-d0b0-409d-82cb-01ef616788a1\td10422fd-617c-4829-8a36-99bd94f8890a\tcarry\tverb\tˈkeri\thttps://media.merriam-webster.com/soundc11/c/carry001.wav\t+ obj\tto continue (something) beyond a normal or acceptable limit\t将（某事）延续到正常或可接受的限度之外\tHe realized that he had <i>carried</i> the joke too far and hurt her feelings.\t他意识到自己开玩笑开得太过分，伤害了她的感情。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t3b220c5f-8ae6-4bb1-94a2-b0758d7f420e\td10422fd-617c-4829-8a36-99bd94f8890a\tcarry\tverb\tˈkeri\thttps://media.merriam-webster.com/soundc11/c/carry001.wav\t+ obj\tto sing (a tune) correctly\t准确地唱（一个曲调）\tI've never been able to <i>carry</i> a tune.\t我从来都不会唱准音调。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\td08c920b-6612-41dc-a9a6-cbefe3201f38\td10422fd-617c-4829-8a36-99bd94f8890a\tcarry\tverb\tˈkeri\thttps://media.merriam-webster.com/soundc11/c/carry001.wav\t+ obj\tto present (a story, sports event, TV show, etc.) to the public\t向公众呈现（一个故事、体育赛事、电视节目等）\tChannel 9 will <i>carry</i> the game.\t第9频道将转播这场比赛。\tEvery local newspaper <i>carried</i> [=<i>ran</i>] the photograph.\t每家本地报纸都刊登了那张照片。\tThe trial was <i>carried</i> live [=broadcast as it was happening] on television.\t庭审在电视上进行了现场直播。\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\te56a5f3e-3902-48bb-9f17-f08c1a3e92d4\td10422fd-617c-4829-8a36-99bd94f8890a\tcarry\tverb\tˈkeri\thttps://media.merriam-webster.com/soundc11/c/carry001.wav\t\t[often used as <i>(be) carried</i>]<br>to cause (a bill or an official proposal) to be passed or adopted\t使（法案或正式提案）被通过或采纳\tThe bill <i>was carried</i> in the Senate by a vote of 75-25.\t该法案在参议院以75票对25票获得通过。\tHe called for a motion to stop debate, but the motion did not <i>carry</i>.\t他提出了停止辩论的动议，但该动议未获通过。\tThe motion <i>carried</i> unanimously. [=everyone voted to pass it]\t动议获得一致通过。\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t72a8f80c-ce07-4641-9e7c-742e30e0331c\td10422fd-617c-4829-8a36-99bd94f8890a\tcarry\tverb\tˈkeri\thttps://media.merriam-webster.com/soundc11/c/carry001.wav\t+ obj, chiefly US\tto win a majority of votes in (a state, legislature, etc.)\t在（一个州、立法机构等）赢得多数选票\tThe bill <i>carried</i> the Senate by a vote of 75-25.\t该法案以75票对25票在参议院获得通过。\tIn the presidential election of 1936, Franklin D. Roosevelt <i>carried</i> [=<i>won, took</i>] all the states except Maine and Vermont.\t在1936年的总统选举中，富兰克林·D·罗斯福赢得了除缅因州和佛蒙特州之外的所有州。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\tb8139a0c-9fc7-4cd0-8dda-5041c95b2586\td10422fd-617c-4829-8a36-99bd94f8890a\tcarry\tverb\tˈkeri\thttps://media.merriam-webster.com/soundc11/c/carry001.wav\t+ obj\tto move (a number) from one column to another when you are adding numbers together\t在把数字相加时，将（一个数字）从一列移到另一列\tWhen you added these two numbers, you forgot to <i>carry</i> the 1.\t当你把这两个数字相加时，你忘了进位1。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\te027d565-b014-4bfb-bdc7-97c0c21ab56f\t531a66a2-474e-40a8-8e4c-3a0c312fdbb6\ttown\tnoun\tˈtaʊn\thttps://media.merriam-webster.com/soundc11/t/town0001.wav\tcount\ta place where people live that is larger than a village but smaller than a city\t一个人们居住的地方，比村庄大但比城市小\ta <i>town</i> in Georgia\t佐治亚州的一个小镇\ta mining <i>town</i>\t一个矿业小镇\tthe <i>town</i> of Jackson, Florida\t佛罗里达州杰克逊镇\tThe nearest shopping mall is two <i>towns</i> away.<br><i>town</i> officials\t最近的购物中心在两个镇之外。<br>镇政府官员\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t2a90921d-6a4b-444a-a373-90e69634130a\t531a66a2-474e-40a8-8e4c-3a0c312fdbb6\ttown\tnoun\tˈtaʊn\thttps://media.merriam-webster.com/soundc11/t/town0001.wav\tcount\t[usually singular]<br>the people in a town\t一个城镇里的居民\tI think the entire <i>town</i> has heard the news by now.\t我想现在整个小镇都已经听到这个消息了。\tThe whole <i>town</i> was at the parade.\t全镇的人都参加了游行。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t46a26ef8-246b-4cbf-b947-ec9872d043ce\t531a66a2-474e-40a8-8e4c-3a0c312fdbb6\ttown\tnoun\tˈtaʊn\thttps://media.merriam-webster.com/soundc11/t/town0001.wav\t\tthe government of a town\t一个城镇的政府\t<i>The town</i> plans to increase property taxes.\t该镇计划提高房产税。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\tf467fe5e-08cc-4542-bbe1-813c17e7f51a\t531a66a2-474e-40a8-8e4c-3a0c312fdbb6\ttown\tnoun\tˈtaʊn\thttps://media.merriam-webster.com/soundc11/t/town0001.wav\tnoncount\tthe business and shopping center of a town\t一个城镇的商业和购物中心\tWe're heading to <i>town</i> later on.\t我们待会儿要去镇上。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t31fa3461-c4f8-44ce-bcff-f13c85db21d2\t531a66a2-474e-40a8-8e4c-3a0c312fdbb6\ttown\tnoun\tˈtaʊn\thttps://media.merriam-webster.com/soundc11/t/town0001.wav\t\tthe town where someone lives\t某人居住的城镇\tHe left <i>town</i> when he was 16.\t他在16岁时离开了小镇。\tThe circus is coming to <i>town</i>.\t马戏团要来镇上了。\tthe <i>town</i> parade\t小镇游行\tThis is the best restaurant <b>in town</b>. [=in this town]<br>Let's get together. I'll be <i>in town</i> next week. [=I'll be in your town next week]<br>She's from <b>out of town</b>. [=from a different town]<br>My <i>town</i> has changed a lot over the years.\t这是镇上最好的餐厅。<br>我们聚一聚吧。我下周会在镇上。<br>她是外地人。<br>我的小镇这些年来变化很大。\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\taf22dfec-dd64-4782-a210-d78b4deedaba\t182d38c8-f571-40fa-b21b-d03f67bcd15c\troad\tnoun\tˈroʊd\thttps://media.merriam-webster.com/soundc11/r/road0001.wav\t\t[often used in names]<br>a hard flat surface for vehicles, people, and animals to travel on\t供车辆、行人和动物通行的坚硬平坦表面\ta paved/gravel/dirt <i>road</i>\t一条铺装/碎石/土路\tWe'll cross the <i>road</i> up ahead at the crosswalk.\t我们会在前面的斑马线过马路。\tHe drove off the <i>road</i>.\t他把车开下了路。\tWe parked by the side of the <i>road</i>.<br>There are lots of cars on the <i>road</i> this morning.<br>The <i>roads</i> around here are pretty bad. [=the roads are in bad condition]<br>This is a busy <i>road</i>. [=many cars, trucks, etc., use this road]<br>These country/mountain <i>roads</i> are beautiful.<br>icy <i>roads</i><br>The post office is <b>up/down this road</b> a bit. [=a short distance further on this road]<br>There's likely to be a lot of traffic on the <b>main/major roads</b> [=the roads most commonly used], so you may want to take <b>back/side roads</b>. [=roads that are less commonly used and that do not go through the main part of a city, town, etc.]<br>the county's <b>public/private roads</b><br>The library is on River <i>Road</i>.<br>a desolate stretch of <i>road</i><br>Miles of <i>road</i> lay ahead.<br>The cabin is accessible <b>by road</b>.<br>traveling on <b>the open road</b> [=on roads that are away from cities and towns]\t我们把车停在路边。<br>今天早上路上有很多车。<br>这里周围的路况很差。<br>这是一条繁忙的道路。<br>这些乡村/山间道路很美。<br>结冰的道路<br>邮局就在这条路上走一小段路。<br>主干道上可能会有很多交通堵塞，所以你可能想走小路/支路。<br>该县的公路/私路<br>图书馆在河路上。<br>一段荒凉的路<br>前方还有好几英里的路。<br>小屋可以通过公路到达。<br>在旷野公路上旅行\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t178b06bd-2fc2-4d24-b45e-123682d73133\t182d38c8-f571-40fa-b21b-d03f67bcd15c\troad\tnoun\tˈroʊd\thttps://media.merriam-webster.com/soundc11/r/road0001.wav\tcount\ta process or a course of action that leads to a certain result\t导致某种结果的过程或行动方案\tthe <i>road</i> to riches/success/victory\t通往财富/成功/胜利之路\tThey're heading down a dangerous <i>road</i>. [=they're following a course of action that could lead to a bad result]\t他们正在走上一条危险的道路。\tShe had a stroke recently but is on <b>the road to recovery</b>. [=in the process of becoming healthy again]\t她最近中风了，但正在康复的路上。\tI've been/gone <b>down this road</b> before. [=I've had this kind of experience before; I've done this kind of thing before]\t我以前经历过这种事。\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\ta4360468-9134-4660-aaf9-39e57d370783\tdbb9318b-5e07-4474-880f-111926ae7794\tdrive\tverb\tˈdraɪv\thttps://media.merriam-webster.com/soundc11/d/drive001.wav\t\tto direct the movement of (a car, truck, bus, etc.)\t指挥（汽车、卡车、公交车等）的行驶\tHe <i>drove</i> the car down a bumpy road.\t他把车开在一条颠簸的路上。\tShe <i>drives</i> a taxi. [=her job is driving a taxi]\t她开出租车。\tDo you want to <i>drive</i> or should I?\t你想开车还是我来开？\tHe is learning to <i>drive</i>.\t他正在学开车。\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t07938a4b-d5cd-42c9-9ecf-120293b36f42\tdbb9318b-5e07-4474-880f-111926ae7794\tdrive\tverb\tˈdraɪv\thttps://media.merriam-webster.com/soundc11/d/drive001.wav\talways followed by an adverb or preposition, no obj, of a car, truck, etc.\tto move in a specified manner or direction\t以指定的方式或方向移动\tThe car stopped and then <i>drove</i> off.\t汽车停下了，然后又开走了。\tA car <i>drove</i> by us slowly.\t一辆汽车慢慢地从我们身边驶过。\tThe bus slowly <i>drove</i> away.\t公交车慢慢地开走了。\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\te7108d72-df88-4d57-a675-960d3d3f40c3\tdbb9318b-5e07-4474-880f-111926ae7794\tdrive\tverb\tˈdraɪv\thttps://media.merriam-webster.com/soundc11/d/drive001.wav\t\tto travel in a car\t乘车旅行\tWe <i>drove</i> all night and arrived at dawn.\t我们整夜开车，黎明时分到达。\tAre you <i>driving</i> or flying to Canada? [=will you travel to Canada by car or airplane?]\t你是开车还是坐飞机去加拿大？\tWe <i>drove</i> (for) eight hours yesterday.\t我们昨天开车开了八个小时。\tWe <i>drove</i> 160 miles to get here.<br>I <i>drive</i> on/along this route every day.<br>I <i>drive</i> this route every day.\t我们开车行驶了160英里才到这里。<br>我每天都在这条路线行驶。<br>我每天都走这条路线。\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\tf0955a15-17b2-4f69-aa35-346885feac03\tdbb9318b-5e07-4474-880f-111926ae7794\tdrive\tverb\tˈdraɪv\thttps://media.merriam-webster.com/soundc11/d/drive001.wav\t+ obj\tto take (someone or something) to a place in a car, truck, etc.\t用汽车、卡车等把（某人或某物）带到某个地方\tI <i>drove</i> her to the train station this morning.\t今天早上我开车送她去了火车站。\tI had to <i>drive</i> myself to the hospital.\t我不得不开车把自己送到医院。\tHer mom <i>drove</i> us home.\t她妈妈开车送我们回家。\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\ta43a08bd-c1aa-4280-8ac2-4cd0b1f4b2b6\tdbb9318b-5e07-4474-880f-111926ae7794\tdrive\tverb\tˈdraɪv\thttps://media.merriam-webster.com/soundc11/d/drive001.wav\t+ obj\tto own and use (a vehicle of a specified kind)\t拥有和使用（某种特定类型的车辆）\tHe <i>drives</i> a pickup/motorcycle.\t他开着一辆皮卡/摩托车。\tShe <i>drives</i> a Ford.\t她开一辆福特。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t78405599-63c2-41e4-98d0-b9b0f43974d0\tdbb9318b-5e07-4474-880f-111926ae7794\tdrive\tverb\tˈdraɪv\thttps://media.merriam-webster.com/soundc11/d/drive001.wav\t+ obj\tto move (people or animals) to or from a place by using force\t用武力将（人或动物）迁移到某地或从某地迁走\tCowboys <i>drove</i> the herds across the prairie.\t牛仔们把牲畜群赶过大草原。\tThey <i>drove</i> the invaders back across the border.\t他们把入侵者赶回了边境那边。\tThousands of people have been <i>driven</i> from their homes. [=have been forced to leave their homes]\t成千上万的人被迫离开了家园。\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\ta8aaa20a-13a0-4681-8897-fbea2350b37f\tdbb9318b-5e07-4474-880f-111926ae7794\tdrive\tverb\tˈdraɪv\thttps://media.merriam-webster.com/soundc11/d/drive001.wav\t+ obj\t[often + <i>into</i>]<br>to push (something) with force\t用力推（某物）\t<i>drive</i> a nail with a hammer\t用锤子钉钉子\tHe <i>drove</i> a nail <i>into</i> the wall.\t他把一根钉子钉进了墙里。\tShe <i>drove</i> the sword <i>into</i> her enemy's side.\t她将剑刺入了敌人的身体侧面。\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\td10dba80-34df-497f-9313-926e2fac2eb4\tdbb9318b-5e07-4474-880f-111926ae7794\tdrive\tverb\tˈdraɪv\thttps://media.merriam-webster.com/soundc11/d/drive001.wav\t+ obj\t[often used figuratively]<br>to make (a machine or vehicle) work or move to provide power for (something)\t使（机器或车辆）运转或移动，为（某物）提供动力\tElectricity <i>drives</i> the machinery.\t电力驱动机器。\ta steam-<i>driven</i> turbine [=a turbine that gets its power from steam]\t蒸汽驱动的涡轮机\tWhat <i>drives</i> the economy?\t是什么推动了经济？\ta market-<i>driven</i> industry\t一个市场驱动的行业\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t61cbbb3b-c297-4f92-9eab-e22616dc621c\tdbb9318b-5e07-4474-880f-111926ae7794\tdrive\tverb\tˈdraɪv\thttps://media.merriam-webster.com/soundc11/d/drive001.wav\t\tto cause (someone) to behave in a particular way\t使（某人）以特定方式行事\tThey were <i>driven</i> [=<i>motivated</i>] by hunger to steal.\t他们是被饥饿驱使去偷窃的。\tPoverty <i>drove</i> them to a life of crime.\t贫困迫使他们走上了犯罪的道路。\tAmbition <i>drove</i> her to succeed.\t雄心驱使她取得成功。\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t72e82579-dd90-49ea-b81b-8785250a214b\tdbb9318b-5e07-4474-880f-111926ae7794\tdrive\tverb\tˈdraɪv\thttps://media.merriam-webster.com/soundc11/d/drive001.wav\t\tto force (someone) to work very hard\t强迫（某人）非常努力地工作\tThe sergeant <i>drove</i> the recruits.\t中士驱使着新兵。\tThe team was <b>driven hard</b> by the coach.\t球队被教练严格督促。\tHe's been <b>driving himself</b> too hard. [=he's been working too hard]\t他一直在逼自己太紧。\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t3b153a3e-3082-4183-b4be-8847168b1bb7\tdbb9318b-5e07-4474-880f-111926ae7794\tdrive\tverb\tˈdraɪv\thttps://media.merriam-webster.com/soundc11/d/drive001.wav\t+ obj\tto bring (someone) into a particular condition\t使（某人）进入特定状态\tThat noise is <i>driving</i> me insane/crazy.\t那个噪音快把我逼疯了。\tThe new store <i>drove</i> him out of business. [=caused him to go out of business]\t新开的商店让他倒闭了。\tHer perfume <b>drives me wild</b>. [=gets me sexually excited]\t她的香水让我疯狂。\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\tecb2d952-3156-4088-b4c4-43a1a4480711\tdbb9318b-5e07-4474-880f-111926ae7794\tdrive\tverb\tˈdraɪv\thttps://media.merriam-webster.com/soundc11/d/drive001.wav\t+ obj\t[+ <i>up</i> or <i>down</i>]<br>to cause (a price, number, etc.) to increase or decrease\t通过上调或下调使（价格、数字等）增加或减少\tThe government report <i>drove</i> stock prices <i>up</i>.\t政府报告推动了股价上涨。\tAn increase in investments is <i>driving down</i> interest rates.\t投资的增加正在推动利率下降。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t6adcdc10-e2ef-4779-9af0-5b4822ffce26\tdbb9318b-5e07-4474-880f-111926ae7794\tdrive\tverb\tˈdraɪv\thttps://media.merriam-webster.com/soundc11/d/drive001.wav\tno obj, sports\tto move toward or through something with a lot of force or speed\t以很大的力量或速度朝某物移动或穿过某物\tHe took a pass and <i>drove</i> to/toward the basket/net.\t他接到传球后，运球冲向篮筐/篮网。\tThe running back <i>drove</i> through the line of scrimmage.\t跑卫冲过了争球线。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t4e815313-cf22-47bc-a91d-11f6354b9983\tdbb9318b-5e07-4474-880f-111926ae7794\tdrive\tverb\tˈdraɪv\thttps://media.merriam-webster.com/soundc11/d/drive001.wav\t+ obj, sports\tto hit or kick (a ball or puck) with a lot of force or speed\t用很大的力量或速度击打或踢（球或冰球）\tShe <i>drove</i> the (golf) ball down the fairway.\t她把（高尔夫）球打到了球道上。\tHe <i>drove</i> the puck into the net.\t他把冰球打进了球门。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t7c5d34cc-a344-4520-978d-1f345b46d540\tdbb9318b-5e07-4474-880f-111926ae7794\tdrive\tverb\tˈdraɪv\thttps://media.merriam-webster.com/soundc11/d/drive001.wav\tno obj, of rain, wind, etc.\tto fall or blow with great force\t猛烈地落下或吹袭\tThe rain <i>drove</i> against the windows.\t雨猛烈地拍打着窗户。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t4f69d603-6bea-447a-b49c-eb68bcf866d6\tfbbc9b3a-365e-4193-84ec-a5ac66e6d0c6\tarm\tnoun\tˈɑɚm\thttps://media.merriam-webster.com/soundc11/a/arm00001.wav\tcount\t[see picture at human]<br>either one of the two long body parts that join the top of your body at the shoulder and that end at the hand or wrist\t连接你身体顶部（肩膀处）并在手或手腕处结束的两条长身体部位中的任意一条\tHe has big, strong, muscular <i>arms</i>.\t他有强壮有力的肌肉手臂。\tShe broke her left <i>arm</i>. = Her left <i>arm</i> was/got broken.\t她的左臂骨折了。\tHe hurt his throwing/pitching <i>arm</i> [=the arm that he uses to throw/pitch a ball] in the last game.\t他在上一场比赛中伤到了自己的投球手臂。\tShe put/threw her <i>arms</i> around him. [=she hugged him]<br>She had a newspaper tucked under her <i>arm</i>.<br>He was carrying a bag of groceries in each <i>arm</i>.<br>He gave/offered his <i>arm</i> to her, and she took it. [=she held onto his arm]<br>She grabbed my <i>arm</i>. = She grabbed me by the <i>arm</i>.<br>He was standing there with his <i>arms</i> crossed/folded.<br>She stood with her <i>arms</i> outstretched. = She stood with her <i>arms</i> wide open.<br>She sat cradling the baby in her <i>arms</i>.<br>I've known her since she was <b>a babe in arms</b>. [=a baby who is too young to walk and has to be held]<br>He <b>took her in/into his arms</b> [=he embraced her] and kissed her passionately.<br>She found him <b>in the arms of</b> [=being embraced by] another woman.<br>He showed up at the party with a young woman <b>on his arm</b>. [=holding his arm]<br>He <b>took her (by the) arm</b> and they walked in to dinner.\t她把手臂搂在他身上。<br>她腋下夹着一份报纸。<br>他每只手臂都提着一袋杂货。<br>他向她伸出手臂，她挽住了他的手臂。<br>她抓住了我的手臂。<br>他站在那里，双臂交叉/抱在胸前。<br>她站着，双臂伸展开来。<br>她坐着，把婴儿抱在怀里。<br>我从她还是个襁褓中的婴儿时就认识她了。<br>他把她搂在怀里，并热烈地亲吻了她。<br>她发现他正被另一个女人拥抱。<br>他带着一位年轻女子出现在聚会上，女子挽着他的手臂。<br>他拉着她的手臂，他们一起走进餐厅。\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t37f76c9a-fe62-4fdf-906a-05dd14fb5a44\tfbbc9b3a-365e-4193-84ec-a5ac66e6d0c6\tarm\tnoun\tˈɑɚm\thttps://media.merriam-webster.com/soundc11/a/arm00001.wav\tcount\tthe part of a piece of clothing (such as a shirt or coat) that covers the arm sleeve\t衣服（如衬衫或外套）上覆盖手臂的部分，袖子\tThe jacket's <i>arms</i> are too tight. = The jacket is too tight in the <i>arms</i>.\t夹克的袖子太紧了。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t8f4aad79-ab4f-4e35-a71d-71a71d0c6ddf\tfbbc9b3a-365e-4193-84ec-a5ac66e6d0c6\tarm\tnoun\tˈɑɚm\thttps://media.merriam-webster.com/soundc11/a/arm00001.wav\tcount\ta part of a piece of furniture (such as a chair or couch) that gives support for a person's arm\t家具的一部分（如椅子或沙发），用于支撑人的手臂。\tthe <i>arm</i> of the sofa\t沙发的扶手\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\tc87216fd-eb60-4730-8c91-6ad0fffb4c19\tfbbc9b3a-365e-4193-84ec-a5ac66e6d0c6\tarm\tnoun\tˈɑɚm\thttps://media.merriam-webster.com/soundc11/a/arm00001.wav\tcount\ta long thin piece that is connected to the main part of a machine, structure, etc., and that looks or moves like a human arm\t一根细长的部件，连接在机器、结构等的主体上，外形或运动方式类似于人的手臂。\tthe robot's mechanical <i>arm</i>\t机器人的机械臂\tthe machine's robotic <i>arm</i>\t机器的机械臂\tthe <i>arm</i> of the record player\t唱机的臂\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t9542c5cc-3085-4d98-a800-25d35dfb8aeb\tfbbc9b3a-365e-4193-84ec-a5ac66e6d0c6\tarm\tnoun\tˈɑɚm\thttps://media.merriam-webster.com/soundc11/a/arm00001.wav\tcount\ta long and narrow area of water\t一片狭长的水域\tan <i>arm</i> of the sea\t海湾\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t0da8fe23-380e-48eb-8d70-74eabb56e2c2\tfbbc9b3a-365e-4193-84ec-a5ac66e6d0c6\tarm\tnoun\tˈɑɚm\thttps://media.merriam-webster.com/soundc11/a/arm00001.wav\tcount\t[usually singular]<br>the part of a group or organization that performs a specific job or function\t在一个团体或组织中执行特定工作或职能的部分\tthe organization's political <i>arm</i> [=the part of the organization that deals with politics]\t该组织的政治部门\tIt is the most powerful <i>arm</i> [=<i>division</i>] of the organization.\t它是该组织最强大的部门。\tthe military <i>arm</i> of the government\t政府的军事部门\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t76c5ac01-6010-460d-816f-d9386178b498\tfbbc9b3a-365e-4193-84ec-a5ac66e6d0c6\tarm\tnoun\tˈɑɚm\thttps://media.merriam-webster.com/soundc11/a/arm00001.wav\tcount, sports, US\t[usually singular]<br>a person's ability to throw a ball\t一个人投掷球的能力\tTheir pitcher's got a great <i>arm</i>.\t他们的投手臂力很强。\ta strong/weak <i>arm</i>\t强壮/虚弱的手臂\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t649b303c-c818-4d22-a441-b9bcd1132232\t62c1afa1-a201-4ffd-81f9-fc09a2d36973\tarm\tnoun\tˈɑɚm\thttps://media.merriam-webster.com/soundc11/a/arm00001.wav\tcount\t[usually plural] [often used before another noun]<br>a gun or other weapon that is used especially in a war\t尤指在战争中使用的枪支或其他武器\tThe government was selling <i>arms</i> to other countries.\t政府正在向其他国家出售武器。\tthe right of individuals to carry/bear <i>arms</i> [=<i>firearms</i>]\t个人携带/持有武器（即火器）的权利\tan <i>arms</i> agreement/deal\t军备协议/交易\t<i>arms</i> shipments<br>The United Nations lifted the <i>arms</i> embargo against the country.\t武器运输<br>联合国解除了对该国的武器禁运。\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t09a6676f-c2e2-44e8-89fb-6e5b2212363b\t62c1afa1-a201-4ffd-81f9-fc09a2d36973\tarm\tnoun\tˈɑɚm\thttps://media.merriam-webster.com/soundc11/a/arm00001.wav\tplural\tcoat of arms\t徽章\tthe royal <i>arms</i> of Portugal\t葡萄牙皇家徽章\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\tfc2a3be8-1278-4c99-a68b-278568b7e409\tedbdc4ec-e7c6-46ee-a8aa-a675454d080c\ttrue\tadjective\tˈtruː\thttps://media.merriam-webster.com/soundc11/t/true0001.wav\talso more ~; most ~\tagreeing with the facts not false\t同意事实，而不是虚假信息\ta <i>true</i> description/statement\t真实的描述/陈述\tIndicate whether each of the following statements is <i>true</i> or false.\t请指出下列每个陈述是真还是假。\tTheir fears proved (to be) <i>true</i>. [=turned out to be valid]\t他们的担忧被证明是真的。\tIf their predictions are <i>true</i>, we'll be in for a long winter.<br>Is it <i>true</i> that you were planning to go without me?<br>Jobs are scarce, and that is especially <i>true</i> for managers.<br>He can be stubborn, but that is <i>true</i> of many people. [=many people can be stubborn]<br>This is a <b>true story</b>. [=an account of something that really happened]<br>The same <b>holds true</b> [=is valid] for/in all similar situations.\t如果他们的预测成真，我们将会经历一个漫长的冬天。<br>你真的打算不带我一起去吗？<br>工作岗位稀缺，尤其是管理岗位更是如此。<br>他有时很固执，但很多人都是这样的。<br>这是一个真实的故事。<br>在所有类似的情况下，情况也是如此。\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t05a9e9e5-caaa-461d-b9b4-57eb7fb70f72\tedbdc4ec-e7c6-46ee-a8aa-a675454d080c\ttrue\tadjective\tˈtruː\thttps://media.merriam-webster.com/soundc11/t/true0001.wav\talso more ~; most ~, always used before a noun\treal or genuine\t真实或真正的\tThe <i>true</i> cost proved to be much higher than they said it would be.\t事实证明，实际成本比他们所说的要高得多。\tHis <i>true</i> character/nature was revealed.\t他的真实本性被揭示出来了。\tthe <i>true</i> meaning of the term\t该术语的真正含义\tShe let him know her <b>true feelings</b>. [=the way she really felt]\t她让他知道了她的真实感受。\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t5f420a84-a99e-4859-a240-ae2b124ec4d1\tedbdc4ec-e7c6-46ee-a8aa-a675454d080c\ttrue\tadjective\tˈtruː\thttps://media.merriam-webster.com/soundc11/t/true0001.wav\talso more ~; most ~\thaving all the expected or necessary qualities of a specified type of person or thing\t具备某种特定类型的人或事物所期望或必需的所有品质\tHe's a <i>true</i> artist/expert. [=he is truly an artist/expert]\t他是真正的艺术家/专家。\ta <i>true</i> gentleman\t一位真正的绅士\tFrom the moment they met they knew it was <b>true love</b>. [=knew that their love was strong and lasting]\t从他们相遇的那一刻起，他们就知道这是真爱。\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t2b952da3-45e9-4a3a-ac98-77dbaac879fa\tedbdc4ec-e7c6-46ee-a8aa-a675454d080c\ttrue\tadjective\tˈtruː\thttps://media.merriam-webster.com/soundc11/t/true0001.wav\talso more ~; most ~\t[often + <i>to</i>]<br>completely loyal or faithful\t完全忠诚或忠实\tI am your <i>true</i> servant.\t我是您的忠实仆人。\t<i>true</i> friends\t真正的朋友\tHe's always been <i>true to</i> his wife.\t他一直对他的妻子忠诚。\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t8aef29a0-acb1-4002-b624-e2e21a922908\tedbdc4ec-e7c6-46ee-a8aa-a675454d080c\ttrue\tadjective\tˈtruː\thttps://media.merriam-webster.com/soundc11/t/true0001.wav\talso more ~; most ~\tplaced or done correctly or perfectly without error\t正确地或完美地放置或完成，没有错误\tHis aim was <i>true</i>. [=he hit the target]\t他的瞄准很准。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t4da673d0-6d8b-4618-b58c-23efb08b1c45\tedbdc4ec-e7c6-46ee-a8aa-a675454d080c\ttrue\tadjective\tˈtruː\thttps://media.merriam-webster.com/soundc11/t/true0001.wav\talso more ~; most ~, always used before a noun\trightful, legal, or official\t合法的，法律上的，或官方的\tShe is the car's <i>true</i> [=<i>lawful, legitimate</i>] owner.\t她是这辆车的真正（合法、正当）所有者。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t57c75669-252e-452e-867f-157a7d52330b\tedbdc4ec-e7c6-46ee-a8aa-a675454d080c\ttrue\tadjective\tˈtruː\thttps://media.merriam-webster.com/soundc11/t/true0001.wav\talso more ~; most ~\t[often + <i>to</i>]<br>exact and accurate faithful\t精确且准确 忠实\tThe story is a <i>true</i> depiction of life in a small town.\t这个故事真实地描绘了小镇的生活。\tThe movie is <i>true to</i> the book. [=the story told in the movie closely matches the story told in the book]\t这部电影忠于原著。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\tee4b47c5-771e-4aa4-abdd-9a8e0e69fbe4\tedbdc4ec-e7c6-46ee-a8aa-a675454d080c\ttrue\tadjective\tˈtruː\thttps://media.merriam-webster.com/soundc11/t/true0001.wav\talso more ~; most ~\tused to admit that something is correct or true\t用来承认某事是正确的或真实的\t<i>True</i>, prices are rising, but I'm not convinced that the economy is failing.\t的确，物价在上涨，但我并不认为经济正在衰退。\t“It would cost a lot less if we did it ourselves.” “(That's) <i>True</i>.”\t“如果我们自己做，花费会少很多。” “（那是）真的。”\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t89d4940a-81c9-41e5-89b7-4c1428ae2255\tedbdc4ec-e7c6-46ee-a8aa-a675454d080c\ttrue\tadjective\tˈtruː\thttps://media.merriam-webster.com/soundc11/t/true0001.wav\talso more ~; most ~, not used before a noun, technical\tin a position that is exactly straight, flat, even, etc.\t处于完全笔直、平坦、均匀等的位置。\tIf the cabinet doors are <i>true</i>, they will close tightly.\t如果橱柜门是正的，它们会紧密关闭。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t31e15323-547f-44a7-a610-3f88ea6ffddc\tf31a4d5f-138f-4781-8b81-2cfed7df0f36\tfederal\tadjective\tˈfɛdərəl\thttps://media.merriam-webster.com/soundc11/f/federa01.wav\t\tof or relating to a form of government in which power is shared between a central government and individual states, provinces, etc.\t关于或涉及一种政府形式，其中权力在中央政府和各个州、省等之间共享。\ta <i>federal</i> government/system\t联邦政府/体制\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t109c9d67-2493-4e53-bc6a-32400b2d03dc\tf31a4d5f-138f-4781-8b81-2cfed7df0f36\tfederal\tadjective\tˈfɛdərəl\thttps://media.merriam-webster.com/soundc11/f/federa01.wav\t\tof or relating to the central government\t属于或与中央政府有关的\t<i>federal</i> laws/funds/employees\t联邦法律/资金/雇员\ta <i>federal</i> district\t联邦区\tWe pay <i>federal</i>, state, and local taxes.\t我们缴纳联邦、州和地方税。\tThe ruling was overturned by a <i>federal</i> appeals court.\t该裁决被联邦上诉法院推翻。\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\tc2c01865-2560-4334-9e6e-9089fd9cb1c3\tf31a4d5f-138f-4781-8b81-2cfed7df0f36\tfederal\tadjective\tˈfɛdərəl\thttps://media.merriam-webster.com/soundc11/f/federa01.wav\t\t[compare confederate union]<br>of, relating to, or loyal to the federal government during the American Civil War\t与美国内战期间联邦政府有关、属于联邦政府或忠于联邦政府的\t<i>Federal</i> soldiers\t联邦士兵\ta <i>Federal</i> stronghold\t联邦据点\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\tf68bca6a-187f-479b-a1ba-9836f08028ad\tf31a4d5f-138f-4781-8b81-2cfed7df0f36\tfederal\tadjective\tˈfɛdərəl\thttps://media.merriam-webster.com/soundc11/f/federa01.wav\tUS\tof or popular during the early years of the U.S. government\t属于或流行于美国政府早期的\tthe <i>Federal</i> period\t联邦时期\tfurniture made in the <i>Federal</i> style\t联邦风格制造的家具\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t718f3a6f-ebb4-4221-adbd-3ac776b706b5\t660edc04-8f5f-45e0-8a30-a08c0486c268\tbreak\tverb\tˈbreɪk\thttps://media.merriam-webster.com/soundc11/b/break001.wav\t\tto separate (something) into parts or pieces often in a sudden and forceful or violent way\t把（某物）分成若干部分或碎片，通常是以突然且有力或猛烈的方式。\tShe <i>broke</i> the cup when she dropped it on the floor.\t她把杯子掉在地上时摔碎了。\tI <i>broke</i> the stick in two/half. = I <i>broke</i> the stick into two pieces.\t我把棍子折成了两段/两半。\t<i>Break</i> the chocolate bar into pieces so that everyone can have some.\t把巧克力棒掰成小块，这样每个人都能分到一些。\tIt is easiest to <i>break</i> a chain at its weakest link.<br>The cup <i>broke</i> (into bits/pieces) when it fell on the floor.<br>A chain will <i>break</i> at its weakest link.\t链条最容易在最薄弱的环节断裂。<br>杯子掉到地上时摔碎了（成了碎片）。<br>链条会在最薄弱的环节断裂。\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\tcc2328a2-4e37-4900-b355-fe0699d9e6e7\t660edc04-8f5f-45e0-8a30-a08c0486c268\tbreak\tverb\tˈbreɪk\thttps://media.merriam-webster.com/soundc11/b/break001.wav\t\tto cause (a bone) to separate into two or more pieces\t使（一块骨头）分裂成两块或多块\tHe fell and <i>broke</i> [=<i>fractured</i>] his collarbone.\t他摔倒并折断了他的锁骨。\tHe <i>broke</i> his arm in the accident. [=one of the bones in his arm was broken in the accident]\t他在事故中摔断了胳膊。\tThe fall <i>broke</i> his arm.\t这次摔倒把他的胳膊摔断了。\tHis arm <i>broke</i> in three places when he fell.\t他摔倒时手臂在三处骨折。\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\tde562b6f-afd2-4f38-a1f3-52774c1efc29\t660edc04-8f5f-45e0-8a30-a08c0486c268\tbreak\tverb\tˈbreɪk\thttps://media.merriam-webster.com/soundc11/b/break001.wav\tno obj\tto open suddenly especially because of pressure from inside\t突然打开，尤其是由于内部压力所致\tThe blister <i>broke</i>.\t水泡破了。\tA bruise forms when a blood vessel <i>breaks</i> under the skin.\t当皮下的血管破裂时，就会形成淤伤。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t36c6f2d2-61d8-42b7-a10e-99f1684a80d3\t660edc04-8f5f-45e0-8a30-a08c0486c268\tbreak\tverb\tˈbreɪk\thttps://media.merriam-webster.com/soundc11/b/break001.wav\t+ obj\tto cause (something, such as a machine) to stop working by damaging it\t通过损坏（某物，如机器）使其停止工作\tHe <i>broke</i> his watch when he dropped it on the floor.\t他把手表掉在地上时摔坏了。\tI'm afraid I've <i>broken</i> your phone.\t恐怕我把你的手机弄坏了。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t8921b7a7-5ecb-41da-9b33-39766a85fffa\t660edc04-8f5f-45e0-8a30-a08c0486c268\tbreak\tverb\tˈbreɪk\thttps://media.merriam-webster.com/soundc11/b/break001.wav\tno obj\tto stop working because of being damaged\t因损坏而停止工作\tHis watch <i>broke</i> when he dropped it on the floor.\t他的手表在掉到地板上时坏了。\tThe pump recently <i>broke</i>.\t水泵最近坏了。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t43ab04ef-901e-42cb-a5f4-5306c8ac29fe\t660edc04-8f5f-45e0-8a30-a08c0486c268\tbreak\tverb\tˈbreɪk\thttps://media.merriam-webster.com/soundc11/b/break001.wav\t\tto split or divide (something) <i>into</i> smaller units or parts\t将（某物）分割或划分为更小的单元或部分\tThe word “singing” can be <i>broken</i> (up) <i>into</i> the two syllables “sing-” and “-ing.”\t单词“singing”可以分解为两个音节：“sing-”和“-ing”。\tThey <i>broke</i> the corporation (up) <i>into</i> several smaller companies.\t他们把公司拆分成了几家较小的公司。\tThe corporation <i>broke</i> (up) <i>into</i> several smaller companies.\t该公司被拆分成了几家较小的公司。\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t7be72d58-2c5b-4dcc-9ba4-d5639e6b5823\t660edc04-8f5f-45e0-8a30-a08c0486c268\tbreak\tverb\tˈbreɪk\thttps://media.merriam-webster.com/soundc11/b/break001.wav\t\tto go through or make a hole in (a surface, someone's skin, etc.)\t穿过或在（表面、某人的皮肤等）上打一个洞\tThere is no risk of infection if the dog's bite did not <i>break</i> [=<i>puncture</i>] the skin.\t如果狗咬没有破皮（即没有刺穿皮肤），就没有感染的风险。\tA large fish <i>broke</i> the surface of the water.\t一条大鱼冲破水面。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t524af4eb-d1f2-4d48-98d3-39f6bf38b22e\t660edc04-8f5f-45e0-8a30-a08c0486c268\tbreak\tverb\tˈbreɪk\thttps://media.merriam-webster.com/soundc11/b/break001.wav\t\t[usually used figuratively]<br>to go through (something) by using force\t用武力穿过（某物）\tUse a knife to <i>break</i> the seal.\t用刀子打开封条。\tThe ceremony is to celebrate people who <i>broke</i> racial barriers in the music industry.\t该仪式旨在表彰那些打破音乐行业种族壁垒的人。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\tf7a9902c-d28b-481f-b562-87be68fe0376\t660edc04-8f5f-45e0-8a30-a08c0486c268\tbreak\tverb\tˈbreɪk\thttps://media.merriam-webster.com/soundc11/b/break001.wav\t\tto cut into and turn over the surface of (the ground, soil, etc.)\t切入并翻转（地面、土壤等）的表层\tThe farmer uses a plow to <i>break</i> the soil.\t农民用犁来翻土。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t0b8938c2-2f36-498d-b817-c2bf7b6f5a63\t660edc04-8f5f-45e0-8a30-a08c0486c268\tbreak\tverb\tˈbreɪk\thttps://media.merriam-webster.com/soundc11/b/break001.wav\t+ obj\tto fail to do what is required by (a law, a promise, etc.)\t未能履行（法律、承诺等）所要求的事项\tShe may not have <i>broken</i> the law, but she acted wrongly.\t她也许没有违法，但她的行为是错误的。\tYou <i>broke</i> your promise.\t你违背了你的承诺。\tStudents who <i>break</i> the rules will be punished.\t违反规定的学生将会受到惩罚。\tHe <i>broke</i> the contract by failing to make the payments on time.<br>You can get fined for <i>breaking</i> the speed limit. [=for driving faster than you are legally allowed to drive]\t他因未能按时付款而违反了合同。<br>超速驾驶会被罚款。\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t153eaf75-0f92-4840-af05-d78eb25a671d\t660edc04-8f5f-45e0-8a30-a08c0486c268\tbreak\tverb\tˈbreɪk\thttps://media.merriam-webster.com/soundc11/b/break001.wav\t\tto destroy or defeat (something) by using force or pressure\t通过使用武力或压力来摧毁或击败（某物）\tThey kept putting pressure on him, but they couldn't <i>break</i> his spirit/determination/resistance.\t他们一直在给他施加压力，但他们无法摧毁他的意志/决心/抵抗。\tThey finally <i>broke</i> his will to resist.\t他们终于摧毁了他反抗的意志。\tHis spirit/determination will never <i>break</i>.\t他的精神/决心永远不会被打破。\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t41e8e9fb-6617-4cb4-983f-042b69fe6890\t660edc04-8f5f-45e0-8a30-a08c0486c268\tbreak\tverb\tˈbreɪk\thttps://media.merriam-webster.com/soundc11/b/break001.wav\t+ obj\tto defeat or ruin (someone) to cause (someone) to fail or to stop trying or fighting\t击败或毁掉（某人）；使（某人）失败，或让（某人）停止尝试或斗争\tHe swore that he would <i>break</i> his rivals/competitors.\t他发誓要击垮他的对手/竞争者。\tThey kept putting pressure on him, but they couldn't <i>break</i> him.\t他们一直在给他施加压力，但他们无法击垮他。\tThese huge losses are going to <i>break</i> [=<i>ruin</i>] me financially!\t这些巨大的损失会让我在经济上破产！\tThis film could <b>make or break</b> her career. [=the success or failure of her career could depend on the success or failure of this film]\t这部电影可能会成就或毁掉她的事业。\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\tebdb179d-e395-4e12-98e0-fd920c1cf565\t660edc04-8f5f-45e0-8a30-a08c0486c268\tbreak\tverb\tˈbreɪk\thttps://media.merriam-webster.com/soundc11/b/break001.wav\tno obj\t[usually + <i>under</i>]<br>to lose your health, mental or physical strength, or control\t失去健康、精神或体力，或失去控制\tThe witness <i>broke under</i> questioning.\t证人在讯问下崩溃了。\tI was afraid I would <i>break under</i> the strain of constant uncertainty.\t我害怕自己会在持续的不确定压力下崩溃。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\taf6773e9-1e08-4bfb-a9ed-9b7a7bd5cdb6\t660edc04-8f5f-45e0-8a30-a08c0486c268\tbreak\tverb\tˈbreɪk\thttps://media.merriam-webster.com/soundc11/b/break001.wav\t+ obj\tto train (a wild animal) to behave in a way that is useful to people\t训练（野生动物）以对人类有用的方式行事\tspecial equipment used to <i>break</i> horses\t用于驯服马匹的专用设备\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t684c2910-de8c-493f-a39c-6c802e917628\t660edc04-8f5f-45e0-8a30-a08c0486c268\tbreak\tverb\tˈbreɪk\thttps://media.merriam-webster.com/soundc11/b/break001.wav\t\tto cause the end of (something that is strong or that has continued for a long time)\t导致（某种强大或持续很久的事物）的终结\tA group of moderates from both parties are negotiating to <i>break</i> the deadlock in Congress.\t来自两党的温和派正在进行谈判，以打破国会的僵局。\tMany people in the industry were very upset when the government <i>broke</i> the strike.\t当政府镇压罢工时，业界的许多人都感到非常不满。\tHe decided to <i>break</i> all ties/links with them. [=to end all connections with them]\t他决定与他们断绝一切关系。\tShe scored a goal in the last minute of the game, <i>breaking</i> a 2-2 tie.<br>It's never easy to <i>break</i> [=<i>kick, give up</i>] a bad habit.\t她在比赛的最后一分钟进球，打破了2比2的平局。<br>改掉坏习惯从来都不容易。\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t09fe3082-934d-436f-ad2a-a4899a2b9263\t660edc04-8f5f-45e0-8a30-a08c0486c268\tbreak\tverb\tˈbreɪk\thttps://media.merriam-webster.com/soundc11/b/break001.wav\t\t[+ <i>of</i>]<br>to cause (someone) to give up a habit\t使（某人）戒除习惯\tHis friends have tried everything to <i>break</i> him <i>of</i> his smoking habit. [=have tried everything to make him stop smoking]\t他的朋友们已经尝试了一切方法来让他戒烟。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t221ebcf2-85dd-4e82-b3b9-391785474f7b\t660edc04-8f5f-45e0-8a30-a08c0486c268\tbreak\tverb\tˈbreɪk\thttps://media.merriam-webster.com/soundc11/b/break001.wav\t\tto interrupt (something)\t打断（某事）\tThe peaceful silence of the evening was <i>broken</i> by a sudden shout.\t傍晚的宁静被一声突如其来的喊叫打破了。\tThe commotion <i>broke</i> my train of thought.\t骚动打断了我的思路。\tThe sudden noise <i>broke</i> my concentration. [=made it impossible for me to concentrate]\t突然的噪音打断了我的注意力。\tSometimes I sing while I'm driving, just to <i>break</i> (up) the monotony of my commute.<br>The horizon line was <i>broken</i> only by a few stands of trees in the distance.<br>The planes <b>broke formation</b> [=stopped flying together in an organized group] and took off in different directions.\t有时候我开车时会唱歌，只是为了打破通勤的单调。<br>远处只有几片树林打破了地平线的连贯。<br>飞机们打破了队形（即不再有组织地一起飞行），朝不同方向飞去。\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\tec0159b4-6d77-42ec-804e-78988beaebd5\t660edc04-8f5f-45e0-8a30-a08c0486c268\tbreak\tverb\tˈbreɪk\thttps://media.merriam-webster.com/soundc11/b/break001.wav\t\tto cause (something, such as a curse or spell) to no longer be effective\t使（某物，如诅咒或咒语）不再生效\ta mystic who claimed to be able to <i>break</i> curses\t一位自称能够破除诅咒的神秘主义者\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t139132b8-394d-4963-a13a-efe44ff7135e\t660edc04-8f5f-45e0-8a30-a08c0486c268\tbreak\tverb\tˈbreɪk\thttps://media.merriam-webster.com/soundc11/b/break001.wav\tno obj\tto stop an activity (such as working) for a brief period of time\t暂停一项活动（例如工作）一小段时间\tLet's <i>break</i> for lunch. [=let's take a break for lunch; let's temporarily stop working and eat lunch]\t我们休息一下去吃午饭吧。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t5fd4b48b-ea76-4a65-9663-0e6611ddf774\t660edc04-8f5f-45e0-8a30-a08c0486c268\tbreak\tverb\tˈbreɪk\thttps://media.merriam-webster.com/soundc11/b/break001.wav\t+ obj\tto tell (bad news) to someone in a kind or gentle way\t以一种善意或温和的方式把（坏消息）告诉某人\tI know she'll be very upset when she finds out she didn't get the job, so please try to <i>break</i> it to her gently.\t我知道当她发现自己没有得到这份工作时会非常难过，所以请尽量温和地把这个消息告诉她。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\tb5575300-1aed-4456-8fcb-836d6530cab1\t660edc04-8f5f-45e0-8a30-a08c0486c268\tbreak\tverb\tˈbreɪk\thttps://media.merriam-webster.com/soundc11/b/break001.wav\t+ obj\tto make (something, such as news) publicly known for the first time\t首次公开（某事，例如新闻）\tThe local TV station was the first to <i>break</i> the news about the President's visit.\t当地电视台是第一个报道总统来访消息的。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\tce6c6b08-eda7-4470-b861-1b9650019c2b\t660edc04-8f5f-45e0-8a30-a08c0486c268\tbreak\tverb\tˈbreɪk\thttps://media.merriam-webster.com/soundc11/b/break001.wav\tno obj, of news\tto become publicly known\t为公众所知\tThe story <i>broke</i> yesterday. [=the story was reported for the first time yesterday]\t这个消息是昨天首次报道的。\tPeople were shocked when (news of) the scandal first <i>broke</i>.\t丑闻消息刚刚曝光时，人们感到震惊。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\taff4b010-4bd5-47e4-8348-26d0668441a3\t660edc04-8f5f-45e0-8a30-a08c0486c268\tbreak\tverb\tˈbreɪk\thttps://media.merriam-webster.com/soundc11/b/break001.wav\t+ obj\tto reduce the speed or force of (something)\t减少（某物）的速度或力度\tThe bushes beneath the window helped to <b>break his fall</b>. [=helped make his fall less forceful]\t窗户下的灌木丛帮助缓冲了他的坠落。\tShe walked straight across the room without <b>breaking (her) stride</b>. [=without pausing or slowing down]\t她径直穿过房间，步伐没有丝毫停顿。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\tb8d23b9d-67b9-41c7-b3af-626220b4feaf\t660edc04-8f5f-45e0-8a30-a08c0486c268\tbreak\tverb\tˈbreɪk\thttps://media.merriam-webster.com/soundc11/b/break001.wav\t\tto be higher or more than (a specified number, measurement, etc.)\t高于或多于（指定的数字、测量值等）\tThe temperature is expected to <i>break</i> 90 (degrees Fahrenheit) today.\t预计今天气温将突破90华氏度。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t4a8239c5-1f17-444c-9f01-f5a8b041ebd6\t660edc04-8f5f-45e0-8a30-a08c0486c268\tbreak\tverb\tˈbreɪk\thttps://media.merriam-webster.com/soundc11/b/break001.wav\t\tto do better than (a record)\t打破（纪录）\tShe ran a great race and almost <i>broke</i> the world record. [=she almost ran the race faster than anyone in the world has ever run it]\t她跑得非常出色，几乎打破了世界纪录。\tHe set a record that may never be <i>broken</i>.\t他创造了一项可能永远无法被打破的纪录。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t94ea6b95-ff08-4161-85b6-992b9f1e3023\t660edc04-8f5f-45e0-8a30-a08c0486c268\tbreak\tverb\tˈbreɪk\thttps://media.merriam-webster.com/soundc11/b/break001.wav\t\tto have a score that is lower than or higher than (a specified total)\t分数低于或高于（指定总分）\tgolfers trying to <i>break</i> 90 [=to have a score below 90]\t试图打破90杆的高尔夫球手\tbowlers trying to <i>break</i> 200 [=to have a score above 200]\t试图突破200分的保龄球手\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t1c8a0197-40d9-4f02-8b14-b9b4ce105896\t660edc04-8f5f-45e0-8a30-a08c0486c268\tbreak\tverb\tˈbreɪk\thttps://media.merriam-webster.com/soundc11/b/break001.wav\t\tto find or provide an explanation or solution for (something, such as a criminal case)\t为（某事，例如刑事案件）寻找或提供解释或解决方案\tThe detective finally <i>broke</i> [=<i>solved</i>] the case.\t侦探终于破了这个案子。\tThe detective found the evidence that <i>broke</i> the case.\t侦探找到了破案的证据。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t6a06bf56-5b86-40f6-b11e-fcc1ec8be33a\t660edc04-8f5f-45e0-8a30-a08c0486c268\tbreak\tverb\tˈbreɪk\thttps://media.merriam-webster.com/soundc11/b/break001.wav\t\tto find the meaning of (a secret code)\t找出（秘密代码）的含义\tA team of experts was finally able to <i>break</i> the code and decipher the meaning of the message.\t一组专家最终成功破解了密码，并解读了信息的含义。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t08961a42-2bc4-4973-8fb5-43de39aeaaf0\t660edc04-8f5f-45e0-8a30-a08c0486c268\tbreak\tverb\tˈbreɪk\thttps://media.merriam-webster.com/soundc11/b/break001.wav\tof the weather\tto change by becoming rainy, clear, cool, etc., after a long time\t在很长一段时间后，天气变得多雨、晴朗、凉爽等。\twaiting for the weather to <i>break</i>\t等待天气好转\tThe heat wave should finally <i>break</i> [=<i>end</i>] tomorrow.\t热浪预计明天终于会结束。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t1d8f42b5-3e36-4757-be7a-7775fc183388\t660edc04-8f5f-45e0-8a30-a08c0486c268\tbreak\tverb\tˈbreɪk\thttps://media.merriam-webster.com/soundc11/b/break001.wav\tof clouds\tto separate so that the sky or sun can be seen\t分开，以便可以看到天空或太阳\tThe clouds <i>broke</i> and the fog dissipated, revealing blue sky above.\t乌云散开，雾气消散，露出了上方的蓝天。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t2cf5dc2c-e588-4f47-adb3-ac39a528c5ac\t660edc04-8f5f-45e0-8a30-a08c0486c268\tbreak\tverb\tˈbreɪk\thttps://media.merriam-webster.com/soundc11/b/break001.wav\tof a storm\tto start suddenly\t突然开始\tEveryone ran to get indoors when the storm <i>broke</i>. [=when it began to rain]\t暴风雨来临时，大家都跑到室内去了。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t91efb70a-12de-4e23-b4ec-46b593363bae\t660edc04-8f5f-45e0-8a30-a08c0486c268\tbreak\tverb\tˈbreɪk\thttps://media.merriam-webster.com/soundc11/b/break001.wav\tliterary, no obj\tto begin when the sun rises\t在太阳升起时开始\tThey left just as <b>day was breaking</b>. [=just as the sun was rising]\t他们离开时正值天刚破晓。\tThe <b>dawn was breaking</b>.\t黎明破晓了。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\tfe4210e4-c3e2-462d-adea-ed04fe21d132\t660edc04-8f5f-45e0-8a30-a08c0486c268\tbreak\tverb\tˈbreɪk\thttps://media.merriam-webster.com/soundc11/b/break001.wav\t\tto begin running quickly\t开始快速奔跑\tEveryone <i>broke</i> [=<i>dashed, ran</i>] for cover.\t每个人都冲向掩护。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\tc3649abb-41f1-4bf3-869d-50a0991f29aa\t660edc04-8f5f-45e0-8a30-a08c0486c268\tbreak\tverb\tˈbreɪk\thttps://media.merriam-webster.com/soundc11/b/break001.wav\t\tto stop fighting and run away\t停止战斗并逃跑\tWhen the enemy charged, our troops <i>broke</i> and ran.\t当敌人发起冲锋时，我军溃败逃跑了。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\te90f898f-c06e-4c3c-bc15-36d256f5748d\t660edc04-8f5f-45e0-8a30-a08c0486c268\tbreak\tverb\tˈbreɪk\thttps://media.merriam-webster.com/soundc11/b/break001.wav\t\tto give smaller bills or coins for (a large bill)\t为（大额纸币）兑换成较小面额的纸币或硬币\tCan you <i>break</i> [=<i>change</i>] a $20 bill for me?\t你能帮我把一张20美元的钞票换开吗？\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t23d3e95f-e504-4e4e-9f1f-4aee129161d3\t660edc04-8f5f-45e0-8a30-a08c0486c268\tbreak\tverb\tˈbreɪk\thttps://media.merriam-webster.com/soundc11/b/break001.wav\t\tto use (a large bill) to pay for something that costs much less than the value of the bill\t用一张大额钞票支付远低于该钞票面值的物品\tI didn't want to <i>break</i> a $20 bill just to buy something for a dollar.\t我不想为了买一美元的东西而破开一张二十美元的钞票。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\td60f1d4e-6279-47ba-86a6-7877a2b41b31\t660edc04-8f5f-45e0-8a30-a08c0486c268\tbreak\tverb\tˈbreɪk\thttps://media.merriam-webster.com/soundc11/b/break001.wav\tno obj, of a wave\tto curl over and fall onto or near land\t卷曲并落在陆地上或靠近陆地\tthe sound of waves <i>breaking</i> against/over/on the rocks\t海浪拍打在岩石上的声音\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t97c1adbb-3745-4f14-b221-01b629a5b3cd\t660edc04-8f5f-45e0-8a30-a08c0486c268\tbreak\tverb\tˈbreɪk\thttps://media.merriam-webster.com/soundc11/b/break001.wav\tof someone's voice\tto change sharply in tone or pitch because of strong emotion\t由于强烈的情感而语调或音高急剧变化\tHer voice was <i>breaking</i> with emotion as she said goodbye.\t她在道别时声音因情绪激动而哽咽。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\tded903f1-ba87-4d21-8850-17101fa47f3f\t660edc04-8f5f-45e0-8a30-a08c0486c268\tbreak\tverb\tˈbreɪk\thttps://media.merriam-webster.com/soundc11/b/break001.wav\tof a boy's voice\tto change from the high voice of a boy to the lower voice of a man\t从男孩的高音变为男人的低音\tan adolescent boy whose voice is <i>breaking</i>\t一个正在变声的青春期男孩\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t94258d62-299f-4997-9541-989ff7e0b8c6\t660edc04-8f5f-45e0-8a30-a08c0486c268\tbreak\tverb\tˈbreɪk\thttps://media.merriam-webster.com/soundc11/b/break001.wav\tno obj, of a thrown or struck ball, sports\tto turn or curve\t转动或弯曲\tThe putt <i>broke</i> to the left as it neared the hole.\t当推杆球接近球洞时，它向左偏移了。\ta pitch that <i>breaks</i> away from the batter\t一种从击球手身边偏离的投球\tThe pitcher threw a <b>breaking ball</b>. [=a pitch that curves]\t投手投出了一个变速球。\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t766269e5-e8a4-45b0-b30e-d3411595c558\t660edc04-8f5f-45e0-8a30-a08c0486c268\tbreak\tverb\tˈbreɪk\thttps://media.merriam-webster.com/soundc11/b/break001.wav\ttennis\tto win against (an opponent who is serving)\t在（对方发球时）获胜\tThe challenger <i>broke</i> the champion in the final set. = The challenger <i>broke</i> the champion's serve in the final set.\t挑战者在最后一盘破掉了冠军的发球局。\tThe challenger <i>broke</i> in the final set but the champion <i>broke</i> back to even the score.\t挑战者在决胜盘中破发，但冠军随即回破，将比分扳平。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t41af2906-eac8-46e9-a84a-1be47f199b36\t660edc04-8f5f-45e0-8a30-a08c0486c268\tbreak\tverb\tˈbreɪk\thttps://media.merriam-webster.com/soundc11/b/break001.wav\tno obj\tto happen or develop\t发生或发展\tFor the team to succeed, everything has to <i>break</i> right for them. [=for the team to succeed, they have to be lucky]\t为了让团队取得成功，一切都必须顺利进行。\tThings have been <i>breaking</i> [=<i>going</i>] well for the company in the past six months.\t在过去的六个月里，公司一切进展顺利。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\td8ab53c0-a63c-4127-a888-ab595067f9b2\t2a6aeaea-26ce-41ff-a05d-503df68e18e8\tbetter\tadverb\tˈbɛtɚ\thttps://media.merriam-webster.com/soundc11/b/better01.wav\t\tin a better way\t以更好的方式\t“How is she doing in school?” “She did badly at first, but now she's doing much <i>better</i>.”\t“她在学校表现怎么样？” “她一开始表现不好，但现在好多了。”\tShe sings <i>better</i> than I do.\t她唱得比我好。\tHe sings <i>better</i> than he acts.\t他的歌唱得比表演得好。\tYou could write to her, or, <b>even/still better</b>, visit her in person. = You could write to her. <i>Even/Still better</i>, you could visit her in person.<br>“Instead of writing to her, I'm going to visit her in person.” “<b>Even better</b>.”\t你可以给她写信，或者，更好的是，亲自去看她。<br>“我打算亲自去看她，而不是给她写信。” “那更好了。”\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t55f733e9-2fca-45ba-9815-bece9e8451ad\t2a6aeaea-26ce-41ff-a05d-503df68e18e8\tbetter\tadverb\tˈbɛtɚ\thttps://media.merriam-webster.com/soundc11/b/better01.wav\t\tused to suggest that something should or should not be done\t用来建议某事应该或不应该做\tSome things are <i>better</i> left unsaid. [=it is better not to say some things]\t有些事情最好不要说出来。\tYou would do <i>better</i> to leave now [=you should leave now] if you want to get there on time.\t如果你想准时到那里，你最好现在就离开。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t8bac967f-dd3e-4c12-a3fa-f7571725eeff\t2a6aeaea-26ce-41ff-a05d-503df68e18e8\tbetter\tadverb\tˈbɛtɚ\thttps://media.merriam-webster.com/soundc11/b/better01.wav\t\tto a higher or greater degree\t到更高或更大的程度\tHe knows the story much <i>better</i> than you do.\t他比你更了解这个故事。\tHer paintings have become <i>better</i> known in recent years.\t近年来，她的画作变得更加知名。\tThere's nothing I'd like <i>better</i> than to see you again.\t没有什么比再次见到你更让我期待的了。\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t99642468-e71a-4653-a2fd-da6c3c9612fe\t2a6aeaea-26ce-41ff-a05d-503df68e18e8\tbetter\tadverb\tˈbɛtɚ\thttps://media.merriam-webster.com/soundc11/b/better01.wav\t\tgreater in distance or amount more\t距离或数量上更大，更多\tIt is <i>better</i> than nine miles to the next town.\t到下一个镇还有九英里多。\tIt's <i>better</i> than an hour's drive to the lake.\t这比开车一个小时去湖边要好。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t3b91acd0-a509-48e9-8d50-e04f20755448\t43070691-0b51-4a52-8a91-5ca8d500287a\tdifference\tnoun\tˈdɪfrəns\thttps://media.merriam-webster.com/soundc11/d/differ03.wav\t\t[To <b>tell the difference</b> between two people or things is to see how they are unlike each other.]<br>the quality that makes one person or thing unlike another\t区分两个人或事物，就是看它们彼此有何不同。区别是使一个人或事物有别于另一个的特质。\tShe knows the <i>difference</i> between right and wrong.\t她知道是非对错的区别。\tThere's no <i>difference</i> between the two houses. They look exactly the same.\t这两栋房子没有区别。它们看起来一模一样。\tThere's a striking <i>difference</i> in the sisters' looks. [=they look very different from each other]\t这对姐妹的外貌有着显著的差异。\tIt's hard to <i>tell the difference</i> [=<i>distinguish</i>] between one action movie and another.<br>The new version is supposed to be much better than the old one, but I can't <i>tell the difference</i> (between them).\t很难分辨一部动作片和另一部动作片之间的区别。<br>新版据说比旧版好得多，但我分辨不出它们之间的区别。\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t0c855737-34a5-4921-b792-2021e9402a9a\t43070691-0b51-4a52-8a91-5ca8d500287a\tdifference\tnoun\tˈdɪfrəns\thttps://media.merriam-webster.com/soundc11/d/differ03.wav\tcount\tsomething that people do not agree about a disagreement in opinion\t人们不同意的事情，意见上的分歧\tThey've always <b>had their differences</b>. [=they have always disagreed about some things]\t他们一直以来都有分歧。\tThe debate gave them a chance to <b>air their differences</b>. [=to discuss the things that they disagree about]\t这场辩论给了他们一个机会来表达他们的分歧。\tWe need to find a way to <b>resolve/settle our differences</b>. [=to stop disagreeing, arguing, etc.]\t我们需要找到一种方法来解决/化解我们的分歧。\tThere seems to be <b>a difference of opinion</b> [=people disagree] about what we should do next.<br>They divorced because of <b>irreconcilable differences</b>. [=serious disagreements that they were not able to settle]\t关于我们接下来应该做什么，似乎存在意见分歧。<br>他们因为不可调和的分歧而离婚。\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t8fed0252-d134-402c-8bfe-e6d011641a7c\t43070691-0b51-4a52-8a91-5ca8d500287a\tdifference\tnoun\tˈdɪfrəns\thttps://media.merriam-webster.com/soundc11/d/differ03.wav\tcount\tthe degree or amount by which things differ\t事物之间差异的程度或数量\tThere's a big <i>difference</i> in price.\t价格有很大差异。\tThere's a 15-year <b>age difference</b> between her oldest and youngest children. [=her oldest child is fifteen years older than her youngest child]\t她最大的孩子和最小的孩子之间相差15岁。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t91869a4b-5417-4816-bb5e-cb4be4531359\t619d6de4-2df3-4142-b913-60b25c9b2378\treceive\tverb\trɪˈsiːv\thttps://media.merriam-webster.com/soundc11/r/receiv03.wav\t+ obj\tto get or be given (something)\t获得或被给予（某物）\tYou will be charged a late fee if the electric company does not <i>receive</i> your payment on time.\t如果电力公司没有按时收到您的付款，您将被收取滞纳金。\tI <i>received</i> a letter/call from her yesterday.\t我昨天收到了她的一封信/一个电话。\tYou will <i>receive</i> a discount if you spend over $100.\t如果您的消费超过100美元，您将获得折扣。\tThis spring he'll <i>receive</i> [=be awarded] his PhD in physics.\t今年春天，他将获得物理学博士学位。\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t262c3f50-b806-4d92-9afa-4a3527676ffd\t619d6de4-2df3-4142-b913-60b25c9b2378\treceive\tverb\trɪˈsiːv\thttps://media.merriam-webster.com/soundc11/r/receiv03.wav\t+ obj\t[often used as <i>(be) received</i>]<br>to react to (something) in a specified way\t以特定方式对（某事）作出反应\tShe <i>received</i> the news of his death with remarkable calmness.\t她以异常平静的态度接受了他去世的消息。\tHer new book <i>was</i> well/poorly <i>received</i> by the critics. [=the critics liked/disliked her new book]\t她的新书受到了评论家的好评/差评。\tThe results of the study <i>were received</i> with considerable skepticism.\t该研究结果受到了相当大的怀疑。\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\taace4b99-839e-45d0-8a8a-c9a30abf5805\t619d6de4-2df3-4142-b913-60b25c9b2378\treceive\tverb\trɪˈsiːv\thttps://media.merriam-webster.com/soundc11/r/receiv03.wav\t+ obj, formal\tto welcome (someone) in usually a formal way\t通常以正式的方式欢迎（某人）\tThe ambassador <i>received</i> [=<i>greeted</i>] his guests as they arrived at the party.\t大使在宾客们到达聚会时接待了他们。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t814c470c-d1aa-4b7c-8ca1-435d1841e226\t619d6de4-2df3-4142-b913-60b25c9b2378\treceive\tverb\trɪˈsiːv\thttps://media.merriam-webster.com/soundc11/r/receiv03.wav\t+ obj\t[+ <i>into</i>]<br>to accept (someone) as a member of an organization, church, etc.\t接纳（某人）成为某个组织、教会等的成员。\tShe was <i>received into</i> the church/university.\t她被接纳进入教会/大学。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t36ff8a3a-d59a-4bbb-b301-d08b1f8e6c9a\t619d6de4-2df3-4142-b913-60b25c9b2378\treceive\tverb\trɪˈsiːv\thttps://media.merriam-webster.com/soundc11/r/receiv03.wav\t\tto suffer (an injury)\t遭受（伤害）\tHe <i>received</i> [=<i>got</i>] a broken nose when he slipped and fell on the ice.\t他在冰上滑倒时摔断了鼻子。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\tcfcc1648-cd3c-460e-881a-2a701db3881d\t619d6de4-2df3-4142-b913-60b25c9b2378\treceive\tverb\trɪˈsiːv\thttps://media.merriam-webster.com/soundc11/r/receiv03.wav\t\tto be given (a punishment)\t被给予（惩罚）\tShe <i>received</i> a heavy sentence from the judge.\t她被法官判了重刑。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t0dd86b9b-5c09-4506-b964-8b601d8b3dc0\t619d6de4-2df3-4142-b913-60b25c9b2378\treceive\tverb\trɪˈsiːv\thttps://media.merriam-webster.com/soundc11/r/receiv03.wav\t+ obj\tto experience or take (a medical treatment)\t经历或接受（一种医疗治疗）\tHe <i>receives</i> an injection once a week to treat his allergies.\t他每周接受一次注射来治疗过敏。\tOnly one of the patients <i>receiving</i> the new treatment is experiencing bad side effects.\t接受新治疗的患者中，只有一人正在经历严重的副作用。\tHe <i>received</i> a kidney transplant.\t他接受了肾脏移植。\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t9cf71c00-1a8e-4755-8155-e96dbaf2c32a\t619d6de4-2df3-4142-b913-60b25c9b2378\treceive\tverb\trɪˈsiːv\thttps://media.merriam-webster.com/soundc11/r/receiv03.wav\t\tto get (signals that are sent to a television, radio, etc.)\t接收（发送到电视、收音机等的信号）\tWe were unable to <i>receive</i> the broadcast.\t我们无法接收到广播。\tA satellite <i>receives</i> the signals and then sends them back to earth.\t一颗卫星接收信号，然后将其发送回地球。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t8b04636b-1a5d-4871-b6fd-7508440c670d\t619d6de4-2df3-4142-b913-60b25c9b2378\treceive\tverb\trɪˈsiːv\thttps://media.merriam-webster.com/soundc11/r/receiv03.wav\t\tto be able to hear (someone who is talking to you on a radio)\t能够听到（通过无线电与你交谈的人）\tI'm <i>receiving</i> you loud and clear.\t我收到你的信息，非常清楚。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t0d85dea1-245a-4aa7-b77c-afcd14e601df\t619d6de4-2df3-4142-b913-60b25c9b2378\treceive\tverb\trɪˈsiːv\thttps://media.merriam-webster.com/soundc11/r/receiv03.wav\tAmerican football\tto be the player or team to which the ball is kicked when play begins\t在比赛开始时成为被踢球的球员或球队\tThey won the coin toss and chose to <i>receive</i>.\t他们掷硬币获胜并选择接球。\tThey chose to <i>receive</i> the kickoff.\t他们选择了接球开球。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\tdaab64f9-a326-4c84-bac4-de129e18c69c\t619d6de4-2df3-4142-b913-60b25c9b2378\treceive\tverb\trɪˈsiːv\thttps://media.merriam-webster.com/soundc11/r/receiv03.wav\t+ obj, law\tto buy or take (goods that have been stolen) illegally\t非法购买或收受（被盗的货物）\tHe was found guilty of <i>receiving</i> stolen goods.\t他被判犯有收受赃物罪。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\tc8880974-ebba-4bc4-8312-9ca3fa54a5f5\tb0db8cda-d53a-4290-b77d-4fa434583730\tthank\tverb\tˈθæŋk\thttps://media.merriam-webster.com/soundc11/t/thank001.wav\t+ obj\tto tell (someone) that you are grateful for something that he or she has done or given\t告诉（某人）你对他或她所做的事情或所给予的东西表示感激\tI <i>thanked</i> her for (giving me) the present.\t我感谢她送给我礼物。\tI want to <i>thank</i> everyone who helped today.\t我要感谢今天所有提供帮助的人。\tThere's no need to <i>thank</i> me. Anyone would have done the same.\t不必谢我。换作任何人都会这么做的。\tHe <i>thanked</i> his grandmother with a big hug. [=he thanked her by hugging her]\t他用一个大大的拥抱感谢了他的祖母。\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t83a1acbc-1560-4ec8-aa7a-817ca54952e7\tde15e696-4514-4a0f-aca7-476c37f0282d\tvalue\tnoun\tˈvælju\thttps://media.merriam-webster.com/soundc11/v/value001.wav\t\tthe amount of money that something is worth the price or cost of something\t某物的价值金额，某物的价格或成本\tThe company's stock continues to decline/decrease/drop in <i>value</i>.\t该公司的股票价值持续下跌/减少/下降。\tReal estate prices have doubled in <i>value</i> over the last decade.\t在过去的十年里，房地产价格翻了一番。\tThe difference in <i>value</i> between the two currencies is not significant.\t这两种货币之间的价值差异并不显著。\tYou may exchange the item for something of equal <i>value</i>.<br>We sold the home for less than its full <i>value</i>.<br>The reproductions of the paintings have little or no <i>value</i>. [=they are worth little or no money]<br>These antiques will acquire more <i>value</i> [=they will become more valuable/expensive] over time.<br>an increase in the <i>value</i> of the dollar<br>The home has a <i>value</i> of $1,000,000.<br>Property <i>values</i> tend to rise as interest rates fall.\t您可以将该物品兑换为等值的商品。<br>我们以低于其全部价值的价格卖出了这套房子。<br>这些画作的复制品几乎没有价值。<br>这些古董随着时间的推移会升值。<br>美元价值的上升<br>这套房子的价值为100万美元。<br>随着利率下降，房产价值往往会上升。\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t3bb74644-1c38-414b-8650-f1be86f481d7\tde15e696-4514-4a0f-aca7-476c37f0282d\tvalue\tnoun\tˈvælju\thttps://media.merriam-webster.com/soundc11/v/value001.wav\t\tsomething that can be bought for a low or fair price\t可以以低价或公道价格购买的东西\tThe store advertises great <i>values</i>.\t这家商店宣传超值优惠。\tThey recommend the car as a good <i>value</i> (for the/your money).\t他们推荐这辆车，认为性价比很高（物有所值）。\t(<i>Brit</i>) The new store offers <b>value for money</b>. [=you can buy a lot with your money at the store]\t（英）这家新店物有所值。\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t6c939ec3-3a6b-4302-b8ab-4b6fe54dbe38\tde15e696-4514-4a0f-aca7-476c37f0282d\tvalue\tnoun\tˈvælju\thttps://media.merriam-webster.com/soundc11/v/value001.wav\t\tusefulness or importance\t有用性或重要性\tNo one can deny the <i>value</i> of a good education.\t没有人能否认良好教育的价值。\tThe broccoli adds color and nutritional <i>value</i> to the dish.\t西兰花为这道菜增添了色彩和营养价值。\tThe program's educational <i>value</i> was questioned.\t该项目的教育价值受到了质疑。\ta document of great historical <i>value</i><br>A lot of teenagers <b>place a high value</b> on being popular. [=they believe that being popular is very important]\t一份具有重大历史价值的文件<br>许多青少年非常重视受欢迎程度。\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t88bfcdf2-0108-4dcf-999f-85e962738618\tde15e696-4514-4a0f-aca7-476c37f0282d\tvalue\tnoun\tˈvælju\thttps://media.merriam-webster.com/soundc11/v/value001.wav\tnoncount\timportance or interest of a particular kind\t特定类型的重要性或趣味性\tFew sports have greater <b>entertainment value</b> [=few sports are more entertaining] than figure skating.\t很少有运动比花样滑冰更具娱乐价值。\tHe uses offensive language for (its) <b>shock value</b>. [=in order to shock people]\t他使用冒犯性语言是为了制造震撼效果。\tThe picture has <b>sentimental value</b> for me. [=it reminds me of happy times in the past]\t这张照片对我有纪念意义。\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\te4953d99-0b40-4687-95bd-af402de462e9\tde15e696-4514-4a0f-aca7-476c37f0282d\tvalue\tnoun\tˈvælju\thttps://media.merriam-webster.com/soundc11/v/value001.wav\tcount\t[usually plural]<br>a strongly held belief about what is valuable, important, or acceptable\t对什么是有价值的、重要的或可接受的坚定信念\tcultural/moral/religious <i>values</i>\t文化/道德/宗教价值观\ttraditional/conservative/liberal <i>values</i>\t传统/保守/自由价值观\tHer <i>values</i> were very different from mine.\t她的价值观和我的非常不同。\tAmerica was founded on the <i>values</i> of freedom and justice for all.\t美国建立在自由与正义为所有人服务的价值观之上。\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t192441b1-a9c3-4a69-8663-247f43859d1c\tde15e696-4514-4a0f-aca7-476c37f0282d\tvalue\tnoun\tˈvælju\thttps://media.merriam-webster.com/soundc11/v/value001.wav\tcount, mathematics\ta mathematical quantity that is represented by a letter\t用字母表示的数学量\tIf x + 3 = 5, what is the <i>value</i> of x?\t如果 x + 3\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t6d0ff466-456f-4af4-939a-d09b506fa515\t783efd08-185b-49a0-a4c9-0f7a11ea1e54\tinternational\tadjective\tˌɪntɚˈnæʃənl̟\thttps://media.merriam-webster.com/soundc11/i/intern15.wav\t\tinvolving two or more countries occurring between countries\t涉及两个或多个国家，在国家之间发生\t<i>international</i> trade\t国际贸易\tstudying <i>international</i> relations\t学习国际关系\tan <i>international</i> agreement\t一项国际协议\t<i>international</i> flights<br>the <i>international</i> community<br><i>international</i> law\t国际航班<br>国际社会<br>国际法\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::01k\t15bdb276-bc68-4c84-8d81-437fed488786\t783efd08-185b-49a0-a4c9-0f7a11ea1e54\tinternational\tadjective\tˌɪntɚˈnæʃənl̟\thttps://media.merriam-webster.com/soundc11/i/intern15.wav\t\tmade up of people or groups from different countries\t由来自不同国家的人或团体组成\tan <i>international</i> association of chemists\t一个国际化学家协会\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::01k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  }
+]

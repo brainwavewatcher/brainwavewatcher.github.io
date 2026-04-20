@@ -1,0 +1,1002 @@
+[
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\tc1e136e2-5b58-4268-a934-b8e9ea6adede\tf049d3d4-e3bd-4254-962b-ab3f547f673f\tbias\tnoun\tˈbajəs\thttps://media.merriam-webster.com/soundc11/b/bias0001.wav\t\ta tendency to believe that some people, ideas, etc., are better than others that usually results in treating some people unfairly\t一种倾向于认为某些人、观点等优于他人的看法，通常会导致对某些人不公平的对待。\tThe writer has a strong liberal/conservative <i>bias</i>. [=favors liberal/conservative views]\t这位作者有很强的自由派/保守派偏见。\tethnic and racial <i>biases</i>\t种族和民族偏见\tHe showed a <i>bias</i> toward a few workers in particular.\t他对其中几位工人表现出了偏袒。\tDo they have a <i>bias</i> against women/minorities?<br>The company was accused of racial/gender <i>bias</i>.<br>The decision was made without <i>bias</i>.<br>She showed no <i>bias</i> toward older clients.\t他们对女性/少数群体有偏见吗？<br>该公司被指控存在种族/性别偏见。<br>这个决定是在没有偏见的情况下做出的。<br>她对年长客户没有表现出偏见。\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\tf887b08c-0270-4827-898d-da5519f756c8\tf049d3d4-e3bd-4254-962b-ab3f547f673f\tbias\tnoun\tˈbajəs\thttps://media.merriam-webster.com/soundc11/b/bias0001.wav\tsingular\ta strong interest in something or ability to do something\t对某事有浓厚的兴趣或有能力做某事\ta student with a strong <i>bias</i> towards the arts\t一个对艺术有强烈偏好的学生\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t956f1a17-488c-49cc-8cc2-c0ab31b6a17b\te635d56c-7f4d-4865-9fb1-a91567c24b07\thuh\tinterjection\tˈhʌ\thttps://media.merriam-webster.com/soundc11/h/huh00001.wav\tchiefly US\tused at the end of a statement to ask whether someone agrees with you\t用于陈述句末尾，询问某人是否同意你的看法\tIt's pretty good, <i>huh</i>?\t还不错吧？\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\tb8fa711d-0b50-48e2-97b7-d759ef41ebe7\te635d56c-7f4d-4865-9fb1-a91567c24b07\thuh\tinterjection\tˈhʌ\thttps://media.merriam-webster.com/soundc11/h/huh00001.wav\t\tused when you have not heard or understood something that was said\t用于当你没有听到或没有听懂别人说的话时\t“His name is Cholmondely.” “<i>Huh</i>?” [=<i>what</i>?]\t“他的名字是Cholmondely。” “啊？”\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\td2828902-efc0-4ed6-b272-4b9865665875\te635d56c-7f4d-4865-9fb1-a91567c24b07\thuh\tinterjection\tˈhʌ\thttps://media.merriam-webster.com/soundc11/h/huh00001.wav\t\tused to show surprise, disbelief, or disapproval\t用于表示惊讶、不相信或不赞同\t“His wife left him.” “<i>Huh</i>! I thought they had a happy marriage.”\t“他妻子离开他了。” “啊？我还以为他们婚姻很幸福呢。”\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t2038249a-023d-402f-b716-7779f941373a\t210e119c-e68f-4f32-8f84-43828cfef368\tmetaphor\tnoun\tˈmɛtəˌfoɚ\thttps://media.merriam-webster.com/soundc11/m/metaph02.wav\t\t[compare simile]<br>a word or phrase for one thing that is used to refer to another thing in order to show or suggest that they are similar\t用来指代另一事物的词语或短语，以显示或暗示它们相似。\t“He was drowning in paperwork” is a <i>metaphor</i> in which having to deal with a lot of paperwork is being compared to drowning in an ocean of water.\t“他被文书工作淹没了”是一个隐喻，把需要处理大量文书工作比作在海洋中溺水。\tHer poems include many imaginative <i>metaphors</i>.\t她的诗歌中包含了许多富有想象力的隐喻。\ta poet admired for her use of <i>metaphor</i>\t一位因善于运用隐喻而备受赞赏的诗人\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t9e2428da-4b95-4510-82ad-3ae4a93a3bdc\t210e119c-e68f-4f32-8f84-43828cfef368\tmetaphor\tnoun\tˈmɛtəˌfoɚ\thttps://media.merriam-webster.com/soundc11/m/metaph02.wav\tcount\t[often + <i>for</i>]<br>an object, activity, or idea that is used as a symbol of something else\t用作其他事物象征的物体、活动或想法\tThe author uses flight as a <i>metaphor for</i> freedom.\t作者用飞翔作为自由的隐喻。\tThe veil is a <i>metaphor for</i> [=<i>symbol of</i>] secrecy.\t面纱是保密的隐喻。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t2c031e79-5523-4919-8b44-0b6b97879ad7\ta5183b2e-8328-4ddf-a7f5-f3cd80c08df5\tcandle\tnoun\tˈkændl̟\thttps://media.merriam-webster.com/soundc11/c/candle01.wav\tcount\twax that has been formed into a stick or another shape and has a string in the middle that can be burned\t被制成棒状或其他形状并且中间有一根可以点燃的线的蜡\t\t\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t1efc7548-51aa-4e01-a2d1-4787ee4dc29d\t0bd68916-85b8-49dc-9e6d-b24edf69086d\thandle\tnoun\tˈhændl̟\thttps://media.merriam-webster.com/soundc11/h/handle01.wav\tcount\t[see picture at bag]<br>a part of something that is designed to be held by your hand\t由手握持的某物的一部分\tHe held the shovel by the/its <i>handle</i>.\t他握着铲子的把手。\tThe <i>handles</i> on the bag were torn.\t包上的提手被撕裂了。\ta door <i>handle</i> [=the part that you turn with your hand to open a door]\t门把手\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\tefd3216d-30f3-4568-ab19-2128fc62579d\t0bd68916-85b8-49dc-9e6d-b24edf69086d\thandle\tnoun\tˈhændl̟\thttps://media.merriam-webster.com/soundc11/h/handle01.wav\tcount, slang\tnickname\t昵称\tWhat's your <i>handle</i>?\t你的用户名是什么？\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t7c950f6b-5698-4307-ad0d-b5f82c39be60\tb3707010-55e0-4b05-b21d-e1b0c3dfca7c\tjudicial\tadjective\tʤuˈdɪʃəl\thttps://media.merriam-webster.com/soundc11/j/judici01.wav\t\tof or relating to courts of law or judges\t与法院或法官有关的\t<i>judicial</i> power\t司法权\tthe <i>judicial</i> system\t司法系统\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t401f7ff5-8cd7-4ed0-9162-5de84e914f8d\tb3707010-55e0-4b05-b21d-e1b0c3dfca7c\tjudicial\tadjective\tʤuˈdɪʃəl\thttps://media.merriam-webster.com/soundc11/j/judici01.wav\t\tordered or done by a court\t由法院下令或执行\ta <i>judicial</i> decision/action\t司法裁决/行动\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t58f42ef5-20ac-44df-a12f-bef7a71308bf\tb3707010-55e0-4b05-b21d-e1b0c3dfca7c\tjudicial\tadjective\tʤuˈdɪʃəl\thttps://media.merriam-webster.com/soundc11/j/judici01.wav\t\t[compare executive legislative]<br>responsible for dealing with all legal cases involving the government\t负责处理涉及政府的所有法律案件\tthe <b>judicial branch</b> of government\t政府的司法部门\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t57d3265b-cf6a-404f-9f6b-76d79574a1f8\t6a9da854-2d22-42c0-9c88-817e94d0f3be\tworry\tnoun\tˈwɚri\thttps://media.merriam-webster.com/soundc11/w/worry001.wav\tnoncount\ta feeling of concern about something bad that might happen the state or condition of worrying about something anxiety\t对可能发生的不良事情感到担忧的情绪，或对某事感到担心的状态或状况，焦虑。\tHis mother's health is a constant source of <i>worry</i>. [=<i>concern</i>]\t他母亲的健康一直是让人担忧的原因。\tShe finally ended months of <i>worry</i> over her credit card debt when she finished paying off her bill.\t当她还清信用卡账单时，终于结束了几个月来对信用卡债务的担忧。\tHis high blood pressure is cause for <i>worry</i>.\t他的高血压令人担忧。\tHer parents have been <b>sick with worry</b> [=extremely worried] for days since the accident.\t自从事故发生以来，她的父母几天来一直因担心而寝食难安。\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\te5179040-a162-45b0-9794-df598b1e01ee\t6a9da854-2d22-42c0-9c88-817e94d0f3be\tworry\tnoun\tˈwɚri\thttps://media.merriam-webster.com/soundc11/w/worry001.wav\tcount\ta problem or concern something that causes you to be worried\t一个问题或担忧，让你感到担心的事情\tOur greatest <i>worry</i> is that she'll get lost.\t我们最担心的是她会迷路。\tHis only <i>worry</i> right now is getting to the airport on time.\t他现在唯一担心的就是能否准时赶到机场。\tWhat's your <i>worry</i>? [=what are you worried about?]\t你在担心什么？\tHis money <i>worries</i> [=<i>difficulties</i>] are over.<br>His mother's health is a <b>constant worry</b>.<br>Her lost luggage was <b>the least of her worries</b> [=an unimportant problem] at the moment.\t他的经济困扰已经结束了。<br>他母亲的健康一直让他担忧。<br>她丢失的行李在当时是她最不需要担心的问题。\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t5784940f-f397-4f55-b318-ef06940290af\t648a12bf-06c9-4e48-a06b-00cf0104c838\tentity\tnoun\tˈɛntəti\thttps://media.merriam-webster.com/soundc11/e/entity01.wav\tcount, formal\tsomething that exists by itself something that is separate from other things\t某种自身存在的事物，某种与其他事物分离的事物。\tOne division of the company was broken off as a separate <i>entity</i>.\t公司的一个部门被分离出来，成为一个独立的实体。\ta business/commercial/corporate <i>entity</i>\t商业/商用/企业实体\tgovernment/political/legal <i>entities</i>\t政府/政治/法律实体\tdistinct/independent <i>entities</i>\t不同/独立的实体\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t891dbb4b-5a26-47e3-8974-b63e2ef66229\ta8751237-cb45-49e6-9cb2-ab5ff5cecaba\tfull-time\tadjective\t\t\t\tworking the full number of hours considered normal or standard\t工作被认为是正常或标准的全部工时\t<i>full-time</i> employees\t全职员工\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t5ef48721-3a23-403a-9e0b-a32ea17da131\ta8751237-cb45-49e6-9cb2-ab5ff5cecaba\tfull-time\tadjective\t\t\t\t[compare part-time]<br>done during the full number of hours considered normal or standard\t在被认为正常或标准的全部工作时间内完成\ta <i>full-time</i> job\t一份全职工作\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\ta28bd02a-7a1f-48b9-8ad6-61a100e1f7db\ta8751237-cb45-49e6-9cb2-ab5ff5cecaba\tfull-time\tadjective\t\t\t\trequiring all of or a large amount of your time\t需要你全部或大量时间的\tTaking care of children is a <i>full-time</i> job.\t照顾孩子是一份全职工作。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t4bdc259b-ba6c-434a-93b2-803a4cece0e0\t87cc8974-e7f7-4d33-9f7f-52e67ae30995\tsuffering\tnoun\tˈsʌfərɪŋ\thttps://media.merriam-webster.com/soundc11/s/suffer02.wav\tnoncount\tpain that is caused by injury, illness, loss, etc. physical, mental, or emotional pain\t由受伤、疾病、失去等引起的疼痛，身体、心理或情感上的痛苦\tways to alleviate human <i>suffering</i>\t减轻人类痛苦的方法\tThey hope these new drugs will help to bring an end to the <i>suffering</i> of arthritis patients.\t他们希望这些新药能够帮助结束关节炎患者的痛苦。\tHis lawsuit seeks damages for <b>pain and suffering</b>.\t他的诉讼要求就精神和身体上的痛苦赔偿损失。\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t7b7a2e7c-ef58-48d1-adce-74d2da8a2de9\t87cc8974-e7f7-4d33-9f7f-52e67ae30995\tsuffering\tnoun\tˈsʌfərɪŋ\thttps://media.merriam-webster.com/soundc11/s/suffer02.wav\tplural\tfeelings of pain\t疼痛的感觉\tthe <i>sufferings</i> of the dying\t临终者的痛苦\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\td39b2ff7-b4f7-47dc-8120-8fa7673b7a05\t5bd23bbb-bed1-4bbf-b557-6a24102082a4\tgarbage\tnoun\tˈgɑɚbɪʤ\thttps://media.merriam-webster.com/soundc11/g/garbag01.wav\tnoncount\t[often used to refer specifically to food waste that is being thrown out]<br>things that are no longer useful or wanted and that have been thrown out trash\t不再有用或不再需要、已被丢弃的东西 垃圾\tThe park was littered with <i>garbage</i>.\t公园里到处都是垃圾。\tPlease take out the <i>garbage</i>.\t请把垃圾拿出去。\tRaccoons were going through the <i>garbage</i>.\t浣熊正在翻找垃圾。\tthe smell of rotting <i>garbage</i>\t腐烂垃圾的气味\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t22a0ca21-8b3b-4276-bf54-e01ad165caa6\t5bd23bbb-bed1-4bbf-b557-6a24102082a4\tgarbage\tnoun\tˈgɑɚbɪʤ\thttps://media.merriam-webster.com/soundc11/g/garbag01.wav\tnoncount\ta container where people put things that are being thrown out\t人们用来放置要丢弃物品的容器\tThrow the can in the <i>garbage</i>.\t把罐子扔进垃圾桶。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\tbae442dd-3af7-4b17-bdf3-11922f36d8fa\t5bd23bbb-bed1-4bbf-b557-6a24102082a4\tgarbage\tnoun\tˈgɑɚbɪʤ\thttps://media.merriam-webster.com/soundc11/g/garbag01.wav\tinformal, noncount\tsomething that is worthless, unimportant, or of poor quality\t毫无价值、不重要或质量低劣的东西\tMaybe you should read a book instead of watching that <i>garbage</i> [=<i>rubbish</i>] on TV.\t也许你应该读一本书，而不是看电视上那些垃圾节目。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t350a26b4-9588-48e4-8769-86566a986fec\t5bd23bbb-bed1-4bbf-b557-6a24102082a4\tgarbage\tnoun\tˈgɑɚbɪʤ\thttps://media.merriam-webster.com/soundc11/g/garbag01.wav\tinformal, noncount\tfoolish or untrue words or ideas nonsense\t愚蠢或不真实的话语或想法，胡说八道\tIf you ask me, what he said is a bunch/load of <i>garbage</i>.\t如果你问我，他说的那些都是一堆废话。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t5baa9946-3b15-4c97-b5cd-0b2865304394\t9e4ea186-eb9e-46a6-9156-84532568d322\taddition\tnoun\təˈdɪʃən\thttps://media.merriam-webster.com/soundc11/a/additi01.wav\tnoncount\t[often + <i>of</i>]<br>the act or process of joining something to something else the act or process of adding something\t将某物连接到另一物的行为或过程，添加某物的行为或过程\tThe soup was thickened by the <i>addition of</i> cream in the last stage of cooking.\t在烹饪的最后阶段，通过加入奶油使汤变得更加浓稠。\tThe town welcomed the <i>addition of</i> three new computers to the library.\t该镇欢迎图书馆新增了三台新电脑。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\tffdad68b-08d0-4983-a770-20f2b801758f\t9e4ea186-eb9e-46a6-9156-84532568d322\taddition\tnoun\təˈdɪʃən\thttps://media.merriam-webster.com/soundc11/a/additi01.wav\tmathematics, noncount\tthe act or process of adding numbers\t加法的行为或过程\tThe children learned <i>addition</i> and subtraction.\t孩子们学习了加法和减法。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t937a86f8-7481-4727-b95e-9fa6098cd7d7\t9e4ea186-eb9e-46a6-9156-84532568d322\taddition\tnoun\təˈdɪʃən\thttps://media.merriam-webster.com/soundc11/a/additi01.wav\tcount\t[usually + <i>to</i>]<br>something or someone more that is included something or someone that is added\t指被包含的额外事物或人，或被添加的事物或人\tThe museum's collection includes several new <i>additions</i>.\t博物馆的藏品中包括了几件新添的展品。\tan <i>addition to</i> the family [=a new member of the family, such as a newborn baby]\t家庭的新成员\tThe sculpture is the newest <i>addition to</i> the museum's collection.\t这座雕塑是博物馆藏品中最新的添置品。\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\te1c7d03a-7bc3-4c4f-a17e-6c3734e68458\t9e4ea186-eb9e-46a6-9156-84532568d322\taddition\tnoun\təˈdɪʃən\thttps://media.merriam-webster.com/soundc11/a/additi01.wav\tcount, US\ta part of a building that is built after the original part has been completed\t在原始部分建成后增建的建筑部分\tThe <i>addition</i> expands the kitchen and adds a second bathroom.\t扩建部分扩大了厨房，并增加了第二间浴室。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\ta860a68d-0f7c-42b9-98a5-23a53e0f9b9b\td91a4489-0732-4dc3-9839-21aa38f0151e\tlamp\tnoun\tˈlæmp\thttps://media.merriam-webster.com/soundc11/l/lamp0001.wav\tcount\t[see picture at living room]<br>a device that produces light\t一个产生光的设备\tturn on/off the <i>lamp</i>\t打开/关闭灯\ta street <i>lamp</i>\t一盏路灯\ta table/desk <i>lamp</i>\t台灯/书桌灯\tan <b>oil lamp</b> [=a device that produces light by burning oil]\t油灯\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\tb345f684-0450-4a5f-a551-d36563f826a1\td91a4489-0732-4dc3-9839-21aa38f0151e\tlamp\tnoun\tˈlæmp\thttps://media.merriam-webster.com/soundc11/l/lamp0001.wav\tcount\tlight bulb\t灯泡\t\t\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\tf608252a-f84f-4c62-bf88-43be5ef72b0a\t4e919392-bb39-4f7f-a154-94f47bceea0a\tfeel\tnoun\tˈfiːl\thttps://media.merriam-webster.com/soundc11/f/feel0001.wav\tsingular\tthe quality of a thing that is experienced by touching it\t通过触摸而体验到的事物的特性\tIt had a greasy <i>feel</i>. [=it felt greasy]\t它有一种油腻的感觉。\tthe <i>feel</i> of old leather\t旧皮革的质感\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t35ea640e-1e52-41fd-967b-0d9631e47241\t4e919392-bb39-4f7f-a154-94f47bceea0a\tfeel\tnoun\tˈfiːl\thttps://media.merriam-webster.com/soundc11/f/feel0001.wav\tsingular\ta particular quality\t一种特殊的品质\tThe restaurant's decor has an Asian <i>feel</i> (to/about it).\t这家餐厅的装潢带有亚洲风格。\tAlthough the table is brand-new, it has the look and <i>feel</i> of an antique.\t尽管这张桌子是全新的，但它具有古董的外观和质感。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t05957e2a-cb5b-4a22-9d2c-2f3a8137bea4\t4e919392-bb39-4f7f-a154-94f47bceea0a\tfeel\tnoun\tˈfiːl\thttps://media.merriam-webster.com/soundc11/f/feel0001.wav\tsingular\t[usually + <i>for</i>]<br>an understanding of something\t对某事的理解\tWe walked around to get the <i>feel</i> of the town. [=to find out what the town was like]\t我们四处走走，感受一下这个小镇的氛围。\tWe walked around to get a <i>feel for</i> the town.\t我们四处走走，感受一下这个小镇的氛围。\tAfter living in France for 20 years, she has a <i>feel for</i> the way the French think.\t在法国生活了20年后，她对法国人的思维方式有了一种感觉。\tWe're trying to get a <i>feel for</i> what's needed.\t我们正在尝试了解所需的内容。\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t46cf87ec-62ef-4a46-93a7-b42959cad431\t4e919392-bb39-4f7f-a154-94f47bceea0a\tfeel\tnoun\tˈfiːl\thttps://media.merriam-webster.com/soundc11/f/feel0001.wav\tsingular\t[usually + <i>for</i>]<br>an ability to use something or do something in a skillful way\t以熟练的方式使用某物或做某事的能力\tHe's been practicing for several weeks and he's starting to get a <i>feel for</i> the instrument.\t他已经练习了好几个星期，现在开始逐渐掌握这件乐器的感觉了。\tShe has a <i>feel for</i> language.\t她对语言有感觉。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\tc2ddcd91-36c7-442c-8c22-f49126d7b468\t4e919392-bb39-4f7f-a154-94f47bceea0a\tfeel\tnoun\tˈfiːl\thttps://media.merriam-webster.com/soundc11/f/feel0001.wav\tsingular\ta feeling or sensation\t一种感觉或感受\tHe liked the <i>feel</i> of the sun on his face.\t他喜欢阳光照在脸上的感觉。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t4ff5338f-0592-4e5a-a96c-d2b0a5620e5a\t4e919392-bb39-4f7f-a154-94f47bceea0a\tfeel\tnoun\tˈfiːl\thttps://media.merriam-webster.com/soundc11/f/feel0001.wav\tBritish, singular\tan act of feeling or touching something\t感受或触摸某物的行为\tThey had a <i>feel</i> of the old leather. [=they felt the old leather]\t他们摸了摸那块旧皮革。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\td97c62e3-8269-48ff-8e5f-a677839b9c1c\t387dc356-9577-419a-b693-d7af72755730\tservant\tnoun\tˈsɚvənt\thttps://media.merriam-webster.com/soundc11/s/servan01.wav\tcount\ta person who is hired to do household or personal duties such as cleaning and cooking\t受雇从事家务或个人事务（如清洁和烹饪）的人\tdomestic/household <i>servants</i>\t家用/家庭仆人\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t879f4cd2-0b63-4156-9828-2c6977210f12\t387dc356-9577-419a-b693-d7af72755730\tservant\tnoun\tˈsɚvənt\thttps://media.merriam-webster.com/soundc11/s/servan01.wav\tcount\t[often + <i>of</i>]<br>a person who is devoted to or guided by something\t指一个人对某事物非常忠诚或受其指引的人\ta <i>servant of</i> the truth\t真理的仆人\tShe is a <i>servant of</i> her religion.\t她是她宗教的仆人。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\tc2faa17e-9311-4d10-b89d-99c7c7fbf154\t6b01b396-c6cf-4c64-8104-7d3bababa85f\tregulatory\tadjective\tˈrɛgjələˌtori\thttps://media.merriam-webster.com/soundc11/r/regula08.wav\tformal\tmaking or concerned with making official rules about what is acceptable in a particular business, activity, etc.\t制定或关注制定关于某一特定行业、活动等中可接受内容的官方规则。\ta <i>regulatory</i> agency/authority\t监管机构/当局\tThey are seeking <i>regulatory</i> approval for the merger.\t他们正在寻求对合并的监管批准。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\td05ec757-366b-4c49-b1ee-876bfdbcf18e\ta5866439-4baa-4ad3-bd2a-818e762fbf0c\tdiplomatic\tadjective\tˌdɪpləˈmætɪk\thttps://media.merriam-webster.com/soundc11/d/diplom06.wav\t\tinvolving the work of maintaining good relations between the governments of different countries of or relating to diplomats or their work\t涉及维护不同国家政府之间良好关系的工作，或与外交官及其工作有关的。\tNegotiators are working to restore full <i>diplomatic</i> relations.\t谈判人员正在努力恢复全面外交关系。\t<i>diplomatic</i> credentials\t外交证书\ta <i>diplomatic</i> career\t外交生涯\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\tbbaf6eb9-7294-41c7-89e2-3d3bdb6b3539\ta5866439-4baa-4ad3-bd2a-818e762fbf0c\tdiplomatic\tadjective\tˌdɪpləˈmætɪk\thttps://media.merriam-webster.com/soundc11/d/diplom06.wav\tmore ~; most ~\tnot causing bad feelings having or showing an ability to deal with people politely\t不会引起不良情绪，具有或表现出与人礼貌相处的能力\tWe need to find a <i>diplomatic</i> [=<i>tactful</i>] way to say no.\t我们需要找到一种委婉的方式来说“不”。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t9590a68e-bf02-432f-aed6-80c6ba493946\t0b05078a-80f4-4097-a4e8-e3c3c883eb29\tminimize\tverb\tˈmɪn.ɪˌmaɪz\t\t+ obj\tto make (something bad or not wanted) as small as possible\t使（某些不好的或不想要的事情）尽可能小\tWe need to <i>minimize</i> the chance of error.\t我们需要将错误的可能性降到最低。\tThe company will work to <i>minimize</i> costs.\t公司将致力于降低成本。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t7e0fc823-fce0-41b9-b9d7-7828497e98f2\t0b05078a-80f4-4097-a4e8-e3c3c883eb29\tminimize\tverb\tˈmɪn.ɪˌmaɪz\t\t+ obj\tto treat or describe (something) as smaller or less important than it is\t把（某事物）视为或描述得比实际更小或不重要\tI don't want to <i>minimize</i> the contributions he has made to the company.\t我并不想低估他对公司的贡献。\tDuring the interview, she <i>minimized</i> her weaknesses and emphasized her strengths.\t在面试过程中，她淡化了自己的弱点，强调了自己的优点。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\td7f65294-8525-4bee-9951-3f3fd53af92a\t0b05078a-80f4-4097-a4e8-e3c3c883eb29\tminimize\tverb\tˈmɪn.ɪˌmaɪz\t\t+ obj, computers\t[opposite maximize]<br>to make (a program's window) change to a very small form that takes almost no room on a computer's screen\t使（程序窗口）变为非常小的形式，在计算机屏幕上几乎不占空间。\tPlease <i>minimize</i> all open windows.\t请最小化所有打开的窗口。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\tc001c19b-c07f-4e96-b133-2d5e3c8149f9\te3f2e1ae-a2bb-4aba-87d1-0b48f43e2407\telegant\tadjective\tˈɛlɪgənt\thttps://media.merriam-webster.com/soundc11/e/elegan03.wav\tmore ~; most ~\tshowing good taste graceful and attractive\t表现出良好品味，优雅且有吸引力\t<i>elegant</i> clothes\t优雅的服装\t<i>elegant</i> prose\t优雅的散文\tan <i>elegant</i> dinner\t一顿优雅的晚餐\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t96aa63d1-bf79-46c1-b4f6-72640c74fd36\te3f2e1ae-a2bb-4aba-87d1-0b48f43e2407\telegant\tadjective\tˈɛlɪgənt\thttps://media.merriam-webster.com/soundc11/e/elegan03.wav\tmore ~; most ~\tsimple and clever\t简单而聪明\tan <i>elegant</i> solution to the problem\t一个优雅的解决方案\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t5e24f423-e7c5-4967-a157-f3863d3bf008\t69c7ce5c-42e6-47d1-bf6e-2f942e9cacb9\tinside\tnoun\tɪnˈsaɪd\thttps://media.merriam-webster.com/soundc11/i/inside02.wav\tcount\t[usually singular] [often + <i>of</i>]<br>an inner side, edge, or surface of something\t某物的内部一侧、边缘或表面\tThe door can only be locked from the <i>inside</i>.\t这扇门只能从里面锁上。\tI had a sore on the <i>inside of</i> my mouth.\t我嘴巴里面起了一个溃疡。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t681930dc-1cda-42f2-967b-6939ae6874a3\t69c7ce5c-42e6-47d1-bf6e-2f942e9cacb9\tinside\tnoun\tɪnˈsaɪd\thttps://media.merriam-webster.com/soundc11/i/inside02.wav\t\t[often plural]<br>an inner part of something (such as a building or machine)\t某物（如建筑物或机器）的内部部分\t<i>The inside</i> of the church is quite beautiful.\t教堂的内部非常美丽。\tI've never seen <i>the inside</i> of a computer before.\t我以前从未见过电脑的内部。\t<i>the insides</i> of a computer\t计算机的内部\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t681803ac-d8f5-4c46-b9b6-547e1230a05d\t69c7ce5c-42e6-47d1-bf6e-2f942e9cacb9\tinside\tnoun\tɪnˈsaɪd\thttps://media.merriam-webster.com/soundc11/i/inside02.wav\tcount, informal\t[usually plural]<br>the inner parts (such as the heart and stomach) of a person's body\t人体内部的部分（如心脏和胃）\tI felt like my <i>insides</i> were tied up in knots.\t我感觉我的内心像打了结一样纠结。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t1ce92214-a6ac-498a-b13b-c8b783b71445\t0bcd2a29-ee42-4950-861c-17c5d595252e\treception\tnoun\trɪˈsɛpʃən\thttps://media.merriam-webster.com/soundc11/r/recept02.wav\tcount\t[usually singular]<br>the kind of welcome that someone or something is given\t某人或某事所受到的欢迎方式\tThe performers did not get the warm <i>reception</i> they had hoped for.\t表演者们没有得到他们所期望的热烈欢迎。\tHis suggestion was given a cool <i>reception</i>. [=people were not enthusiastic about his suggestion]\t他的建议受到了冷淡的反应。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\tb87bdc95-bb3c-47e1-a526-810c59977232\t0bcd2a29-ee42-4950-861c-17c5d595252e\treception\tnoun\trɪˈsɛpʃən\thttps://media.merriam-webster.com/soundc11/r/recept02.wav\tcount\ta social gathering to celebrate something or to welcome someone\t一个为庆祝某事或欢迎某人的社交聚会\tThe school held a <i>reception</i> for the new students and their families.\t学校为新生及其家人举办了一个招待会。\ta wedding <i>reception</i>\t婚礼招待会\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t1a68ee30-370d-426e-a395-b30a2e492abf\t0bcd2a29-ee42-4950-861c-17c5d595252e\treception\tnoun\trɪˈsɛpʃən\thttps://media.merriam-webster.com/soundc11/r/recept02.wav\tnoncount\tthe act or process of receiving, welcoming, or accepting something or someone\t接收、欢迎或接受某事或某人的行为或过程\tHe decided to run for a seat on the school committee only a year after his <i>reception</i> into the community.\t他在加入社区仅一年后就决定竞选学校委员会的席位。\tHer job is to deal with the <i>reception</i> of donations.\t她的工作是负责接收捐款。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t76bb35f4-2d63-42ed-83da-e3ae6b0a3e70\t0bcd2a29-ee42-4950-861c-17c5d595252e\treception\tnoun\trɪˈsɛpʃən\thttps://media.merriam-webster.com/soundc11/r/recept02.wav\tnoncount\tused to describe how well or badly a radio, television, etc., is able to receive signals\t用来描述收音机、电视等接收信号的好坏。\tOur TV gets poor <i>reception</i> because of all the trees around the house.\t由于房子周围有很多树，我们的电视信号很差。\tMy cell phone <i>reception</i> is terrible.\t我的手机信号很差。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\taec3c765-0ea7-44bc-b956-0aee6cde6a9c\t0bcd2a29-ee42-4950-861c-17c5d595252e\treception\tnoun\trɪˈsɛpʃən\thttps://media.merriam-webster.com/soundc11/r/recept02.wav\tnoncount\ta desk or area in a hotel, office building, etc., where visitors first go after entering\t在酒店、办公楼等场所，访客进入后首先前往的服务台或区域。\tCheck in at <i>reception</i> when you arrive. = Check in at the <b>reception desk</b> when you arrive.\t到达时请在前台办理入住。\tI waited in the <b>reception area</b>. [=<i>lobby</i>]\t我在接待区等候。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\tb61a54ff-5812-4df3-b7d7-6eae7d7feb4c\t0bcd2a29-ee42-4950-861c-17c5d595252e\treception\tnoun\trɪˈsɛpʃən\thttps://media.merriam-webster.com/soundc11/r/recept02.wav\tAmerican football, count\tthe act of catching a forward pass\t接前传球的动作\tHe had three <i>receptions</i> [=he caught three passes] in today's game.\t他在今天的比赛中完成了三次接球。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\te97ef9ab-cf45-4ed5-8798-d4573c6db94b\t9cff9ac4-538b-4c51-913e-90a4d4676e53\ttrail\tverb\tˈtreɪl\thttps://media.merriam-webster.com/soundc11/t/trail001.wav\t+ obj\tto pull (something) behind you especially on the ground\t在地上拖（某物）在你身后\tThe dog was <i>trailing</i> [=<i>dragging</i>] its leash.\t那只狗拖着它的牵引绳。\tThe little girl went to her room, <i>trailing</i> her teddy bear behind her.\t小女孩拖着她的泰迪熊，走进了自己的房间。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t3ee57997-4246-444a-8472-4e59619be3cb\t9cff9ac4-538b-4c51-913e-90a4d4676e53\ttrail\tverb\tˈtreɪl\thttps://media.merriam-webster.com/soundc11/t/trail001.wav\tno obj\tto be pulled behind someone or something\t被某人或某物拖在后面\tThe dog's leash was <i>trailing</i> along/on the ground.\t狗的牵引绳在地上拖着。\tThe little girl's teddy bear <i>trailed</i> behind her.\t小女孩的泰迪熊在她身后拖着。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t8cea9dab-ad5a-4d08-8e6a-f58ae84a20d9\t9cff9ac4-538b-4c51-913e-90a4d4676e53\ttrail\tverb\tˈtreɪl\thttps://media.merriam-webster.com/soundc11/t/trail001.wav\t\tto walk or move slowly as you follow behind (someone or something)\t跟在（某人或某物）后面慢慢走或移动\tHe <i>trailed</i> us as we worked our way up the mountain.\t当我们沿着山路往上走时，他跟在我们后面。\tShe marched down the street with her children <b>trailing (along) behind/after</b> (her).\t她带着孩子们在后面跟着自己，沿着街道大步走去。\tHe <i>trailed behind</i> (us) as we worked our way up the mountain.\t当我们往山上攀登时，他跟在（我们）后面。\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t73985c1f-af10-43c6-9c93-c09172afa717\t9cff9ac4-538b-4c51-913e-90a4d4676e53\ttrail\tverb\tˈtreɪl\thttps://media.merriam-webster.com/soundc11/t/trail001.wav\t\tto be behind in a race or competition\t在比赛或竞赛中落后\tThe President is <i>trailing</i> in the polls as the election approaches.\t随着选举临近，总统在民意调查中落后。\tWe were <i>trailing</i> by 3 runs at the end of the 6th inning.\t在第六局结束时，我们落后3分。\tOur team <i>trailed</i> their team at the end of the 6th inning.\t我们的队在第六局结束时落后于他们的队。\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\tca3a8021-fe5e-46e3-beaf-632d839ec456\t9cff9ac4-538b-4c51-913e-90a4d4676e53\ttrail\tverb\tˈtreɪl\thttps://media.merriam-webster.com/soundc11/t/trail001.wav\t+ obj\tto follow and watch or try to catch (someone or something)\t跟随并观察或试图抓住（某人或某物）\tThe dogs were <i>trailing</i> a fox.\t狗正在追踪一只狐狸。\tPolice <i>trailed</i> the suspect for six blocks.\t警方跟踪了嫌疑人六个街区。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\tf1f06ff6-b34d-43d9-94de-6095597099cb\t9cff9ac4-538b-4c51-913e-90a4d4676e53\ttrail\tverb\tˈtreɪl\thttps://media.merriam-webster.com/soundc11/t/trail001.wav\talways followed by an adverb or preposition, no obj\tto move, flow, or extend slowly in a thin line\t缓慢地以细线状移动、流动或延伸\tSmoke <i>trailed</i> (away) from the chimney.\t烟从烟囱里袅袅升起。\tA tear <i>trailed</i> down her cheek.\t一滴泪水顺着她的脸颊滑落。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t44e19a4f-f9be-4fed-99fb-7ca5ed7e7a17\t9cff9ac4-538b-4c51-913e-90a4d4676e53\ttrail\tverb\tˈtreɪl\thttps://media.merriam-webster.com/soundc11/t/trail001.wav\tno obj\tto hang down to the ground\t垂到地上\tThe curtains <i>trailed</i> onto the floor.\t窗帘拖到了地板上。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t9048859f-847b-4270-b2f0-c3897e1e056f\tf16e8235-d1b2-4eff-b372-9c413822277d\tautomatically\tadverb\tˌɑːtəˈmætɪkli\thttps://media.merriam-webster.com/soundc11/a/automa07.wav\t\t[adverb] [inherits meaning from the adjective sense]<br>having controls that allow something to work or happen without being directly controlled by a person\t具有允许某物在无人直接控制的情况下工作或发生的控制装置\tThe garage doors open <i>automatically</i>.\t车库门会自动打开。\tThe fee will be <i>automatically</i> added to the bill.\t该费用将自动添加到账单中。\tEach individual winner <i>automatically</i> qualifies for the grand prize, which will be drawn at the end of the month.\t每位个人获胜者将自动获得大奖的参赛资格，大奖将在月底抽取。\tShe has her pay check <i>automatically</i> deposited.\t她的工资是自动存入银行账户的。\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t76989fbe-c9dc-4464-8ed8-85bada08b127\t6285dd21-f39e-43d9-bde6-5d3e4b4ff077\tchin\tnoun\tˈtʃɪn\thttps://media.merriam-webster.com/soundc11/c/chin0001.wav\tcount\tthe part of the face below the mouth and above the neck\t位于嘴巴下方、脖子上方的脸部区域。\t\t\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\tc8907096-6e69-4990-8d06-ab28ffbd31e8\t08bec5e9-9031-46d4-8e66-92c455243579\tracism\tnoun\tˈreɪˌsɪzəm\thttps://media.merriam-webster.com/soundc11/r/racism01.wav\tnoncount\tpoor treatment of or violence against people because of their race\t由于种族原因而对人进行不公正对待或施加暴力\tHave you experienced <i>racism</i>?\t你有经历过种族歧视吗？\ta protest against <i>racism</i>\t一场反对种族主义的抗议\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\tab6c52ec-13db-445f-b73d-f6f6910ea98f\t08bec5e9-9031-46d4-8e66-92c455243579\tracism\tnoun\tˈreɪˌsɪzəm\thttps://media.merriam-webster.com/soundc11/r/racism01.wav\tnoncount\tthe belief that some races of people are better than others\t认为某些人种比其他人种更优越的信念\tthe <i>racism</i> that was the basis of apartheid\t种族隔离制度所依据的种族主义\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\tfed1e680-3519-49da-bd10-bcf9ab59b5ab\t978bb42a-be52-4783-aef8-df991172c61a\tvanish\tverb\tˈvænɪʃ\thttps://media.merriam-webster.com/soundc11/v/vanish01.wav\tno obj\tto disappear entirely without a clear explanation\t完全消失而没有明确的解释\tMy keys mysteriously <i>vanished</i>.\t我的钥匙神秘地消失了。\tThe missing girl <i>vanished</i> without a trace a year ago.\t失踪的女孩在一年前毫无踪迹地消失了。\tThe papers seem to have <b>vanished into thin air</b>.\t这些文件似乎已经消失得无影无踪。\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t474c6f8c-6e1b-4d75-99f3-10f997c53601\t978bb42a-be52-4783-aef8-df991172c61a\tvanish\tverb\tˈvænɪʃ\thttps://media.merriam-webster.com/soundc11/v/vanish01.wav\tno obj\tto stop existing\t停止存在\tDinosaurs <i>vanished</i> from the face of the earth millions of years ago.\t恐龙在数百万年前从地球表面消失了。\tThe practice has all but <i>vanished</i>. [=the practice is very rare now]\t这种做法几乎已经消失了。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t61d48137-1572-4d41-9e85-d7dd98b21ce6\t083d068c-762e-4f2e-8122-288e8735fa92\tconfess\tverb\tkənˈfɛs\thttps://media.merriam-webster.com/soundc11/c/confes01.wav\t\t[often + <i>to</i>]<br>to admit that you did something wrong or illegal\t承认你做错了事或违法了。\tHe <i>confessed</i> after being questioned for many hours.\t在被审问了许多小时后，他招供了。\tHe's still refusing to <i>confess to</i> the murder.\t他仍然拒绝承认谋杀。\tNo one <i>confessed to</i> taking the pen.\t没有人承认拿了那支笔。\tShe <i>confessed to</i> having lied to me in the past. [=she told me that she lied to me]<br>She <i>confessed</i> [=<i>admitted</i>] that she stole the necklace.<br>He willingly <i>confessed</i> his crime/guilt.\t她承认过去曾对我撒谎。<br>她承认自己偷了那条项链。<br>他心甘情愿地承认了自己的罪行/过错。\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t4ea0cbb9-ebb3-47b8-8a47-c84b452d706f\t083d068c-762e-4f2e-8122-288e8735fa92\tconfess\tverb\tkənˈfɛs\thttps://media.merriam-webster.com/soundc11/c/confes01.wav\t\t[usually + <i>to</i>]<br>to talk about or admit something that makes you embarrassed, ashamed, etc.\t谈论或承认让你感到尴尬、羞愧等的事情。\tHe <i>confessed</i> (that) he got lost and had to ask for directions.\t他承认自己迷路了，不得不问路。\tI have to <i>confess</i> that I was afraid at first.\t我必须承认，一开始我很害怕。\tI must <i>confess</i> [=I am a little embarrassed to say] that I know nothing about computers.\t我必须承认，我对电脑一无所知。\tHe never <i>confessed</i> his love for her. [=he never told her that he loved her]<br>She <i>confessed to</i> a love of trashy romance novels. [=she admitted that she loves trashy romance novels]<br>I <i>confess to</i> being a little unsure about what to do.\t他从未向她表白自己的爱意。<br>她坦白自己喜欢低俗的言情小说。<br>我承认对该怎么做有点拿不准。\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t16de07b2-daab-476f-b8b0-66ce36e9d44c\t083d068c-762e-4f2e-8122-288e8735fa92\tconfess\tverb\tkənˈfɛs\thttps://media.merriam-webster.com/soundc11/c/confes01.wav\t\tto tell (your sins) to God or to a priest\t向上帝或神父倾诉（你的罪过）\tI <i>confessed</i> my sins to the priest.\t我向神父忏悔了我的罪行。\tI haven't <i>confessed</i> [=gone to confession] in three months.\t我已经三个月没有忏悔（去告解）了。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t72ded0dc-3716-4a37-83f6-13298ce4b919\t4d5ed8ef-272c-4749-af4b-c1ffc9fcb436\tnecessity\tnoun\tnɪˈsɛsəti\thttps://media.merriam-webster.com/soundc11/n/necess08.wav\tcount\tsomething that you must have or do something that is necessary\t你必须拥有或必须做的事情，某种必要的事情。\tSunscreen is an absolute <i>necessity</i> for the beach.\t防晒霜是去海滩的绝对必需品。\tfood, clothes, and other basic <i>necessities</i>\t食物、衣服和其他基本生活必需品\tGetting plenty of rest is a <i>necessity</i>.\t充足的休息是必需的。\tWithout a car, living close to work is a <i>necessity</i>.<br>All we took with us on our hiking trip were the bare <i>necessities</i>.<br>Many families cannot even afford the basic/bare <b>necessities of life</b>. [=things that a person must have in order to survive]\t没有汽车，住得离工作地点近是必需的。<br>我们徒步旅行时只带了最基本的必需品。<br>许多家庭甚至负担不起生活的基本必需品。\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t190362b3-07bf-40ce-8246-86a5876df2bc\t4d5ed8ef-272c-4749-af4b-c1ffc9fcb436\tnecessity\tnoun\tnɪˈsɛsəti\thttps://media.merriam-webster.com/soundc11/n/necess08.wav\tformal, noncount\t[usually + <i>of</i> or <i>for</i>]<br>the quality of being necessary\t必要性；必需的品质\tShe talked about the <i>necessity of</i> having the right training. [=she said that having the right training is necessary]\t她谈到了接受正确培训的必要性。\tHe questioned the <i>necessity for</i> the change. [=he questioned whether the change was necessary]\t他质疑这种变动的必要性。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t51a568f3-e501-4e07-8152-bd135b8e1266\t96eade4d-c761-43a9-85b8-0ded300b9460\tstarter\tnoun\tˈstɑɚtɚ\thttps://media.merriam-webster.com/soundc11/s/starte01.wav\tcount\ta player, horse, etc., that is in a game or race at its beginning\t在比赛或赛马等开始时参赛的选手、马匹等。\tThe team is playing only five regular <i>starters</i>.\t该队只派出了五名常规首发球员。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t45b2932c-4928-407f-8dc7-54b5a597f6ce\t96eade4d-c761-43a9-85b8-0ded300b9460\tstarter\tnoun\tˈstɑɚtɚ\thttps://media.merriam-webster.com/soundc11/s/starte01.wav\tcount\tsomeone who gives the signal for a race to start\t发令员\t\t\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t4e3699d3-52fb-4e2a-88bf-33702fd78d7c\t96eade4d-c761-43a9-85b8-0ded300b9460\tstarter\tnoun\tˈstɑɚtɚ\thttps://media.merriam-webster.com/soundc11/s/starte01.wav\tcount\ta device that is used for starting an engine\t用于启动发动机的装置\tThe car's <i>starter</i> needs to be replaced.\t汽车的起动机需要更换。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t4d6c31d8-c0f5-4dd8-b90a-9788da0a63f7\t96eade4d-c761-43a9-85b8-0ded300b9460\tstarter\tnoun\tˈstɑɚtɚ\thttps://media.merriam-webster.com/soundc11/s/starte01.wav\tcount\tsomeone or something that starts an activity, process, etc.\t某个或某物开始一项活动、过程等的人或事物。\tHe was a late <i>starter</i> in school. [=he started school later than most children]\t他上学比较晚。\tThe question was a good conversation <i>starter</i>.\t这个问题是一个很好的话题引子。\tHe bought a <b>starter kit</b> for building a model airplane.\t他买了一个用于制作模型飞机的入门套件。\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t881fb3cb-3138-4aba-a57a-6aa84f0d39e4\t96eade4d-c761-43a9-85b8-0ded300b9460\tstarter\tnoun\tˈstɑɚtɚ\thttps://media.merriam-webster.com/soundc11/s/starte01.wav\tchiefly British, count\tappetizer\t开胃菜\t\t\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t2609257f-f81d-426b-8c00-b68dfc18f810\t4c7cf601-6499-4ec6-9304-7a06104352b7\tstarter\tadjective\tˈstɑɚtɚ\thttps://media.merriam-webster.com/soundc11/s/starte01.wav\t\tused to describe something small or basic that you get when you are doing something for the first time\t用来描述你第一次做某事时得到的小的或基本的东西\tShe bought a <i>starter</i> piano for her daughter.\t她给女儿买了一架入门钢琴。\tThis small house would make a great <b>starter home/house</b> [=a first home] for a young couple.\t这座小房子非常适合作为年轻夫妇的第一套住房/入门住宅。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t8c4b6996-610c-4c2f-8293-2c72a195b13d\t38b24373-88d6-44e5-94b6-99efcb344456\tbanking\tnoun\tˈbæŋkɪŋ\t\tnoncount\tthe business of operating a bank\t经营银行的业务\tThey are both in <i>banking</i>.\t他们都在银行业。\tHe chose <i>banking</i> as a career.\t他选择了银行业作为职业。\tthe <i>banking</i> industry\t银行业\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t172647bb-1379-4452-bbed-7f6daaf39cc5\t77b3559f-856d-4ab0-94b4-e152284ad574\tinterior\tadjective\tɪnˈtirijɚ\thttps://media.merriam-webster.com/soundc11/i/interi02.wav\t\tlocated on the inside of something\t位于某物的内部\tan <i>interior</i> [=<i>inner</i>] surface\t内部表面\ta large car with lots of <i>interior</i> room\t一辆内部空间很大的大型汽车\t<i>interior</i> walls\t内墙\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t5d29ca48-14fa-42ff-b9d6-dd892f726ebb\t77b3559f-856d-4ab0-94b4-e152284ad574\tinterior\tadjective\tɪnˈtirijɚ\thttps://media.merriam-webster.com/soundc11/i/interi02.wav\t\t[opposite exterior]<br>suited for use in the inside or on inside surfaces\t适用于内部或内部表面使用\t<i>interior</i> paint\t室内油漆\t<i>interior</i> lights\t内饰灯\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\td7e52723-b575-4e92-9ce5-8a0f1c6f3fab\t77b3559f-856d-4ab0-94b4-e152284ad574\tinterior\tadjective\tɪnˈtirijɚ\thttps://media.merriam-webster.com/soundc11/i/interi02.wav\t\toccurring in the mind\t在脑海中发生\t<i>interior</i> [=(more commonly) <i>inner</i>] thoughts\t内心想法\tan <b>interior monologue</b> [=a section of a novel, story, or play in which a character's inner thoughts are expressed]\t内心独白\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t07091bfb-1e9d-423d-8e82-bbeb8fb9fa90\td05a4861-0b1c-494b-8224-5cdba966fe99\tcasual\tadjective\tˈkæʒəwəl\thttps://media.merriam-webster.com/soundc11/c/casual01.wav\talways used before a noun\thappening by chance not planned or expected\t偶然发生的，非计划或预期的\ta <i>casual</i> encounter on the sidewalk\t在人行道上的一次偶遇\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\tfd6cbdae-39df-4550-9664-4f876563d4cf\td05a4861-0b1c-494b-8224-5cdba966fe99\tcasual\tadjective\tˈkæʒəwəl\thttps://media.merriam-webster.com/soundc11/c/casual01.wav\tmore ~; most ~\t[<b>Casual days</b> are days (such as <b>casual Fridays</b> ) when a company allows workers to dress in casual clothes.]<br>designed for or permitting ordinary dress, behavior, etc. not formal\t，为普通着装、行为等而设计或允许的，不正式。\t<i>casual</i> clothes\t便装\ta <i>casual</i> restaurant\t一家休闲餐厅\tThe atmosphere at the meeting was quite <i>casual</i>.\t会议的气氛相当轻松。\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t40e02e3d-d644-4a8f-8e3e-4b231622490e\td05a4861-0b1c-494b-8224-5cdba966fe99\tcasual\tadjective\tˈkæʒəwəl\thttps://media.merriam-webster.com/soundc11/c/casual01.wav\t\tdone without much thought, effort, or concern\t没有经过太多思考、努力或关心而完成的\tShe takes a <i>casual</i> [=<i>nonchalant</i>] approach to her homework.\t她以一种随意的态度对待她的家庭作业。\tHe made a <i>casual</i> remark about her shoes.\t他随口评论了一下她的鞋子。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t368f61a1-c4ac-4772-b5a6-6701936deafe\td05a4861-0b1c-494b-8224-5cdba966fe99\tcasual\tadjective\tˈkæʒəwəl\thttps://media.merriam-webster.com/soundc11/c/casual01.wav\t\tnot involving a close or serious relationship\t不涉及亲密或严肃的关系\t<i>casual</i> sex\t随便的性行为\tThey are only <i>casual</i> acquaintances. [=they know each other but not very well]\t他们只是普通的熟人。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\tffb4fec8-9da1-4824-8c38-47cce5ae3703\td05a4861-0b1c-494b-8224-5cdba966fe99\tcasual\tadjective\tˈkæʒəwəl\thttps://media.merriam-webster.com/soundc11/c/casual01.wav\t\thaving some interest but not a lot not serious\t有一些兴趣，但不是很多，也不是很认真\tHe's a <i>casual</i> sports fan.\t他是一个普通的体育迷。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\ta94ea0a8-e785-44c4-9af4-02cdf19c079b\td05a4861-0b1c-494b-8224-5cdba966fe99\tcasual\tadjective\tˈkæʒəwəl\thttps://media.merriam-webster.com/soundc11/c/casual01.wav\t\thappening at certain times but not on a regular basis\t在特定时间发生，但不是定期发生\tShe found only <i>casual</i> work.\t她只找到了一些临时工作。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\ta76cf12e-ca07-4e7b-9145-51d4721440bd\tcc5db9c0-a221-4452-9b72-3338a845d3ac\tgravity\tnoun\tˈgrævəti\thttps://media.merriam-webster.com/soundc11/g/gravit07.wav\tnoncount\ta very serious quality or condition the condition of being grave or serious\t一种非常严重的品质或状态，处于严肃或严重的状态。\tThey didn't seem to understand the <i>gravity</i> [=<i>seriousness</i>] of the situation.\t他们似乎没有理解情况的严重性。\tHe uttered the oath with proper <i>gravity</i>. [=<i>solemnity</i>]\t他以恰当的庄重宣誓。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\teb72e132-9b24-4ba6-b3db-0dc4ad6812ec\tcc5db9c0-a221-4452-9b72-3338a845d3ac\tgravity\tnoun\tˈgrævəti\thttps://media.merriam-webster.com/soundc11/g/gravit07.wav\tnoncount, technical\tthe natural force that tends to cause physical things to move towards each other the force that causes things to fall towards the Earth\t使物体相互靠近的自然力，使物体向地球坠落的那种力。\tattempting to defy <i>gravity</i>\t试图违抗重力\tthe force of <i>gravity</i>\t重力\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t975a06e8-67f0-47ad-9ccd-5f081502c7a6\tf27228ec-b726-45ea-8e42-6d6d7bc6f8e1\tArab\tnoun\tˈerəb\thttps://media.merriam-webster.com/soundc11/a/arab0001.wav\tcount\ta member of the people who are originally from the Arabian Peninsula and who now live mostly in the Middle East and northern Africa\t最初来自阿拉伯半岛、现在主要居住在中东和北非的民族成员\t\t\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\tdc16edb3-090c-4d2e-811f-e37c248707e8\tf27228ec-b726-45ea-8e42-6d6d7bc6f8e1\tArab\tnoun\tˈerəb\thttps://media.merriam-webster.com/soundc11/a/arab0001.wav\tBritish, count\tarabian horse\t阿拉伯马\t\t\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t1179a3a9-eaa5-45fd-92e6-83495d202bb4\ta241a500-d624-4bab-a308-88fb32db54e8\tdiminish\tverb\tdəˈmɪnɪʃ\thttps://media.merriam-webster.com/soundc11/d/dimini01.wav\t\tto become or to cause (something) to become less in size, importance, etc.\t变得或使（某物）在尺寸、重要性等方面减少。\tThe passing years did nothing to <i>diminish</i> [=<i>decrease</i>, <i>lessen</i>] their friendship.\t岁月的流逝丝毫没有削弱他们的友谊。\tThe strength of the army was greatly <i>diminished</i> by outbreaks of disease.\t军队的实力因疾病爆发而大大削弱。\tMy interest in the subject has steadily <i>diminished</i>. [=<i>dwindled</i>]\t我对这个主题的兴趣已经逐渐减少。\tThe drug's side effects should <i>diminish</i> over time.\t该药物的副作用应会随着时间的推移而减轻。\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t30f3b382-eb5a-4004-9781-ba6abaaea7fc\ta241a500-d624-4bab-a308-88fb32db54e8\tdiminish\tverb\tdəˈmɪnɪʃ\thttps://media.merriam-webster.com/soundc11/d/dimini01.wav\t+ obj\tto lessen the authority or reputation of (someone or something); to describe (something) as having little value or importance\t削弱（某人或某事）的权威或声誉；将（某事）描述为没有什么价值或重要性\tNothing could <i>diminish</i> the importance of his contributions.\t没有什么能够削弱他所作贡献的重要性。\tI don't mean to <i>diminish</i> [=<i>belittle</i>, <i>disparage</i>] her accomplishments.\t我并不是想贬低她的成就。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t198d6759-b8e4-4d2b-8715-bf2e7c18222f\t611f8133-01d7-4968-b52b-96773353fc36\tvalue\tverb\tˈvælju\thttps://media.merriam-webster.com/soundc11/v/value001.wav\t+ obj\t[usually + <i>at</i>] [usually used as <i>(be) valued</i>]<br>to make a judgment about the amount of money that something is worth\t对某物的价值进行判断\tThe agent/appraiser <i>valued</i> the estate <i>at</i> $3.4 million.\t代理人/评估师对该遗产的估值为340万美元。\tThe necklace <i>was valued at</i> $250.\t这条项链的估价为250美元。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t345adb67-1fbb-4465-8418-90187ae4f884\t611f8133-01d7-4968-b52b-96773353fc36\tvalue\tverb\tˈvælju\thttps://media.merriam-webster.com/soundc11/v/value001.wav\t+ obj\tto think that (someone or something) is important or useful\t认为（某人或某事）很重要或有用\tShe <i>values</i> the time she spends with her family.\t她很珍惜与家人共度的时光。\tHe <i>values</i> her advice/opinions.\t他很重视她的建议/意见。\tThe items/objects are highly <i>valued</i> by collectors.\t这些物品/物件受到收藏家的高度重视。\tThe herbs are <i>valued</i> for their medicinal properties.\t这些草药因其药用价值而受到重视。\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t0ec79cfc-cb93-46e4-aaed-eb45f2cf2310\t10ca9620-6c34-4a5c-9ef3-58881a4c2308\tprevention\tnoun\tprɪˈvɛnʃən\thttps://media.merriam-webster.com/soundc11/p/preven06.wav\tnoncount\tthe act or practice of stopping something bad from happening the act of preventing something\t阻止坏事发生的行为或做法，预防某事的行为。\tExercise and diet play a role in the <i>prevention</i> of heart disease.\t锻炼和饮食在预防心脏病方面起着作用。\tcrime/fire <i>prevention</i>\t犯罪/防火\t(<i>US</i>) <b>an ounce of prevention is worth a pound of cure</b> = (<i>Brit</i>) <b>prevention is better than cure</b> [=it is better and easier to stop a problem, illness, etc., from happening than to stop or correct it after it has started]\t（美）预防胜于治疗\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t2ae802bf-04c7-446c-8d01-cba59272c60b\t7a83884f-b857-4e3b-9150-31e03a99ee4f\tintent\tnoun\tɪnˈtɛnt\thttps://media.merriam-webster.com/soundc11/i/intent01.wav\tcount\tthe thing that you plan to do or achieve an aim or purpose\t你计划要做或实现的事情，目标或目的\tShe thinks I'm trying to make things difficult for her, but that's not my <i>intent</i>.\t她认为我是在给她制造麻烦，但那并不是我的本意。\tWhat was the writer's <i>intent</i>?\t作者的意图是什么？\tThe <i>intent</i> of the law is to protect consumers.\t该法律的目的是保护消费者。\tHe was charged with assault with <i>intent</i> to kill.\t他被指控蓄意杀人未遂。\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\td4a9faa3-9a3d-4177-8f9c-8a25cd978dc8\t138a59cc-105e-4cc5-b5ef-978f04debdb3\tperformer\tnoun\tpɚˈfoɚmɚ\thttps://media.merriam-webster.com/soundc11/p/perfor10.wav\tcount\ta person (such as an actor or a musician) who acts, sings, dances, etc., for an audience\t为观众表演的人（如演员或音乐家），进行表演、唱歌、跳舞等。\tThe new actress joining the troupe is a seasoned <i>performer</i>.\t新加入剧团的女演员是一位经验丰富的表演者。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t0e0a6113-e27d-4b7e-944c-f5189b606684\t138a59cc-105e-4cc5-b5ef-978f04debdb3\tperformer\tnoun\tpɚˈfoɚmɚ\thttps://media.merriam-webster.com/soundc11/p/perfor10.wav\tcount\tsomeone or something that works, functions, or behaves in a particular way someone or something that performs well or badly\t以特定方式工作、运作或表现的人或事物；表现好或差的人或事物\tThe top five <i>performers</i> of the sales team will receive a bonus.\t销售团队表现最好的前五名将获得奖金。\tThe computer is a good <i>performer</i> at a reasonable price.\t这台电脑性能优良，价格合理。\tThis stock has been a poor <i>performer</i>.\t这只股票表现不佳。\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t57b79293-c1f4-4567-ab66-24e18554419d\t9beddac4-9c4d-4e60-abbd-255f0a1ab236\tisolate\tverb\tˈaɪsəˌleɪt\thttps://media.merriam-webster.com/soundc11/i/isolat01.wav\t+ obj\t[often + <i>from</i>]<br>to put or keep (someone or something) in a place or situation that is separate from others\t使（某人或某物）置于或保持在与他人或其他事物分开的地方或情境中\tThese policies will only serve to <i>isolate</i> the country politically and economically.\t这些政策只会使该国在政治和经济上被孤立。\tCertain patients must be <i>isolated</i> in a separate ward.\t某些患者必须被隔离在单独的病房。\tWhen he wants to work, he <i>isolates</i> himself in his office and won't talk to anyone.\t当他想工作时，他会把自己关在办公室里，不和任何人说话。\tCertain patients must be <i>isolated from</i> the others in a separate ward.\t某些患者必须与其他人隔离在单独的病房。\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t16e8e9ce-fecd-4f08-921c-201ab4a2f833\t9beddac4-9c4d-4e60-abbd-255f0a1ab236\tisolate\tverb\tˈaɪsəˌleɪt\thttps://media.merriam-webster.com/soundc11/i/isolat01.wav\t+ obj\tto find and deal with (something, such as a problem) by removing other possibilities\t通过排除其他可能性来发现并处理（某事，例如一个问题）\tIt may take several days to <i>isolate</i> the problem. [=to find out exactly what the problem is]\t可能需要几天时间来查明问题。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t5cab7155-cf68-4b6e-bb5a-3b5c0c15f74c\t9beddac4-9c4d-4e60-abbd-255f0a1ab236\tisolate\tverb\tˈaɪsəˌleɪt\thttps://media.merriam-webster.com/soundc11/i/isolat01.wav\t+ obj, technical\t[often + <i>from</i>]<br>to separate (something, such as a chemical) from another substance to get (something) or an amount of (something) that is not mixed with or attached to anything else\t将（某物，如化学物质）从另一种物质中分离，以获得（某物）或一定量的（某物），使其不与其他任何东西混合或附着。\tScientists have <i>isolated</i> the gene/virus that causes the disease.\t科学家们已经分离出了导致这种疾病的基因/病毒。\tThe chemical/compound was originally <i>isolated from</i> a kind of seaweed.\t这种化学物质/化合物最初是从一种海藻中分离出来的。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t3cf85e8b-07cf-421f-94bc-17c1b3fc5c5d\t00cc8921-f6d2-40f3-9dd3-5c24a1262aae\tchop\tverb\tˈtʃɑːp\thttps://media.merriam-webster.com/soundc11/c/chop0001.wav\t+ obj\t[often used figuratively]<br>to cut (something) into pieces by hitting it with the sharp edge of an ax, knife, etc.\t用斧头、刀等的锋利边缘将（某物）砍成碎片。\tShe's in the kitchen <i>chopping</i> vegetables.\t她正在厨房切菜。\tThey <i>chopped</i> wood for the fireplace.\t他们为壁炉劈了木柴。\tThey intend to <i>chop</i> [=<i>lower</i>] prices for the sale.\t他们打算在促销时降低价格。\tOur budget was <i>chopped</i> [=<i>cut</i>] in half. [=it is now half of what it was]\t我们的预算被砍掉了一半。\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t7feaf010-2ae5-455e-841f-a0c83041be32\tcbb2ba2f-9ef1-40e1-a5d6-ced05cf9a37b\tassembly\tnoun\təˈsɛmbli\thttps://media.merriam-webster.com/soundc11/a/assemb06.wav\tnoncount\tthe act of connecting together the parts of something (such as a machine) the act of assembling something\t将某物（如机器）的各个部分连接在一起的行为，组装某物的行为。\tThe parts are made in this factory and then shipped to another country for <i>assembly</i>.\t这些零件在这家工厂生产，然后运往另一个国家进行组装。\tNo <i>assembly</i> required. [=this product is already put together]\t无需组装。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t524ae858-9cb4-4f3f-9b1d-334244ffef15\tcbb2ba2f-9ef1-40e1-a5d6-ced05cf9a37b\tassembly\tnoun\təˈsɛmbli\thttps://media.merriam-webster.com/soundc11/a/assemb06.wav\tcount\ta group of people who make and change laws for a government or organization\t一群为政府或组织制定和修改法律的人\tthe organization's general <i>assembly</i>\t该组织的大会\telected legislative <i>assemblies</i>\t民选立法机构\tthe New York State <i>Assembly</i>\t纽约州议会\tthe French National <i>Assembly</i>\t法国国民议会\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t78f50d20-d001-4b5f-a2c9-6d0c38664b03\tcbb2ba2f-9ef1-40e1-a5d6-ced05cf9a37b\tassembly\tnoun\təˈsɛmbli\thttps://media.merriam-webster.com/soundc11/a/assemb06.wav\t\ta group of people who have gathered together\t一群聚集在一起的人\tan <i>assembly</i> of armed men\t一群武装人员\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t06bd5081-ce8b-4e45-a017-3daf8a020e7b\tcbb2ba2f-9ef1-40e1-a5d6-ced05cf9a37b\tassembly\tnoun\təˈsɛmbli\thttps://media.merriam-webster.com/soundc11/a/assemb06.wav\t\ta meeting of all the teachers and students of a school\t全校师生大会\tSchool <i>assemblies</i> were usually held in the cafeteria.\t学校的集会通常在食堂举行。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t36bb32e2-e73d-4291-ab07-5d39f6cd2828\tcbb2ba2f-9ef1-40e1-a5d6-ced05cf9a37b\tassembly\tnoun\təˈsɛmbli\thttps://media.merriam-webster.com/soundc11/a/assemb06.wav\tnoncount\tthe act of gathering together to talk about issues\t聚集在一起讨论问题的行为\tFreedom of speech and freedom of <i>assembly</i> are protected by the U.S. Constitution.\t言论自由和集会自由受美国宪法保护。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t5cfa2981-62ef-4a8f-b71f-9ad6afdf2cd4\tfe1479f0-ae54-4ad2-9406-5e3341ffab00\tproductive\tadjective\tprəˈdʌktɪv\thttps://media.merriam-webster.com/soundc11/p/produc09.wav\tmore ~; most ~\tdoing or achieving a lot working hard and getting good results\t做了很多事情，努力工作并取得了好成绩\ta <i>productive</i> meeting\t一次富有成效的会议\tI had a very <i>productive</i> day.\t我今天过得非常充实。\tI am most <i>productive</i> in the morning.\t我在早上最有生产力。\ta highly <i>productive</i> [=<i>successful</i>] sales team<br>Some staff members are more <i>productive</i> than others.\t一支高效的销售团队<br>有些员工比其他人更有生产力。\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\td1df1946-03a8-4c31-8bed-8a0d024f0e88\tfe1479f0-ae54-4ad2-9406-5e3341ffab00\tproductive\tadjective\tprəˈdʌktɪv\thttps://media.merriam-webster.com/soundc11/p/produc09.wav\talways used before a noun, more ~; most ~\tproducing or able to produce something especially in large amounts\t生产或能够生产某物，尤其是大量生产。\t<i>productive</i> fishing waters\t富饶的渔场\t<i>productive</i> farmland\t高产农田\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t58927fbc-e006-453b-ae79-0adbdfa01445\tfe1479f0-ae54-4ad2-9406-5e3341ffab00\tproductive\tadjective\tprəˈdʌktɪv\thttps://media.merriam-webster.com/soundc11/p/produc09.wav\tformal, more ~; most ~\t[+ <i>of</i>]<br>causing or resulting in something\t导致或引起某事\tYour efforts have been <i>productive of</i> many benefits. [=have produced many benefits]\t你的努力已经带来了许多好处。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\td77d3a3a-4b25-46ba-999d-3e653aa64522\t9d36dad2-a9d6-4306-9c30-6dd9c832e990\tinventory\tnoun\tˈɪnvənˌtori\thttps://media.merriam-webster.com/soundc11/i/invent06.wav\tcount\ta complete list of the things that are in a place\t一个地方里所有物品的完整清单\tan <i>inventory</i> of supplies\t物资清单\tWe made an <i>inventory</i> of the library's collection.\t我们对图书馆的藏书进行了清点。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t22de9f6d-7f60-4530-a08a-fcbfdabfcdc1\t9d36dad2-a9d6-4306-9c30-6dd9c832e990\tinventory\tnoun\tˈɪnvənˌtori\thttps://media.merriam-webster.com/soundc11/i/invent06.wav\tchiefly US\ta supply of goods that are stored in a place\t存放在某处的货物储备\tThe dealer keeps a large <i>inventory</i> of used cars and trucks.\t该经销商备有大量二手汽车和卡车库存。\t<i>Inventories</i> at both stores were low.\t两家商店的库存都很低。\tHow can a small business afford to keep so much <i>inventory</i>?\t小企业如何负担得起保有这么多库存？\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t5e7c4c7b-7ed0-4079-a5df-6a992cc0bb78\t9d36dad2-a9d6-4306-9c30-6dd9c832e990\tinventory\tnoun\tˈɪnvənˌtori\thttps://media.merriam-webster.com/soundc11/i/invent06.wav\tchiefly US, noncount\tthe act or process of making a complete list of the things that are in a place the act or process of making an inventory\t对一个地方的物品进行完整清单编制的行为或过程，即进行盘点的行为或过程。\tWe'll be doing <i>inventory</i> on the collection soon.\t我们很快就会对藏品进行盘点。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t93ef7dd5-d758-415a-b2cf-9f70eb89c174\t873d8f65-7d88-4e01-98f8-c5c7154ceaed\tpump\tverb\tˈpʌmp\thttps://media.merriam-webster.com/soundc11/p/pump0001.wav\t\t[often used figuratively]<br>to move something (such as water, air, or gas) to or from a particular place with a pump\t用泵将某物（如水、空气或气体）输送到某个特定地点或从某个特定地点抽出\tHe <i>pumped</i> the water up from the bottom of the boat.\t他把水从船底抽了上来。\tThe President hoped the tax cuts would help <i>pump</i> money back into the economy.\t总统希望减税能够帮助把资金重新注入经济。\tShe <i>pumped</i> all of her resources into starting her own business.\t她把所有的资源都投入到了创业中。\tThe machine suddenly stopped <i>pumping</i>.\t机器突然停止抽水了。\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t9e54a333-c3b0-416b-a037-eefefeb7a8d1\t873d8f65-7d88-4e01-98f8-c5c7154ceaed\tpump\tverb\tˈpʌmp\thttps://media.merriam-webster.com/soundc11/p/pump0001.wav\t+ obj\tto remove water, air, etc., from (something) with a pump\t用泵将（水、空气等）从（某物）中抽出\tWe <i>pumped</i> the boat dry.\t我们把船里的水抽干了。\tWe had to <i>pump</i> the basement out.\t我们不得不把地下室的水抽出去。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t1503e32f-568f-4930-9e43-61e909b53f6f\t873d8f65-7d88-4e01-98f8-c5c7154ceaed\tpump\tverb\tˈpʌmp\thttps://media.merriam-webster.com/soundc11/p/pump0001.wav\t+ obj\tto remove the contents of (someone's stomach) by using a tube and a small pump\t用一根管子和一个小型泵将（某人胃里的）内容物取出\tDoctors had to <i>pump</i> (out) her stomach after she swallowed poison.\t医生在她吞下毒药后不得不为她洗胃。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t554da90e-9151-45e9-9b56-6a637f14f196\t873d8f65-7d88-4e01-98f8-c5c7154ceaed\tpump\tverb\tˈpʌmp\thttps://media.merriam-webster.com/soundc11/p/pump0001.wav\tof the heart\tto move (blood) through your body by beating\t通过跳动使（血液）在你的身体中流动\tYour heart <i>pumps</i> blood all over your body.\t你的心脏将血液输送到全身。\tMy heart started <i>pumping</i> [=<i>beating</i>] fast.\t我的心开始跳得很快。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\te4eb9b02-2048-4ebf-81a1-241d4c232c2a\t873d8f65-7d88-4e01-98f8-c5c7154ceaed\tpump\tverb\tˈpʌmp\thttps://media.merriam-webster.com/soundc11/p/pump0001.wav\talways followed by an adverb or preposition, no obj, of a liquid\tto flow in a series of movements caused by the action of a pump, by the beating of your heart, etc.\t由于泵的作用、心脏的跳动等原因而以一系列动作流动。\tI could feel the blood <i>pumping</i> through my veins.\t我能感觉到血液在我的血管中流动。\tBlood <i>pumped</i> out of the cut.\t血从伤口中涌出。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\td6e56ebe-5456-44e7-8d26-c83316a76008\t873d8f65-7d88-4e01-98f8-c5c7154ceaed\tpump\tverb\tˈpʌmp\thttps://media.merriam-webster.com/soundc11/p/pump0001.wav\t\tto move (something) up and down or in and out quickly and repeatedly\t使（某物）快速且反复地上下或进出移动\tHe <i>pumped</i> his arms up and down as he ran.\t他在奔跑时双臂上下摆动。\tShe <i>pumped</i> the handle of the well.\t她抽动了水井的把手。\t<i>pump</i> the brake pedal\t踩刹车踏板\tHis leg nervously <i>pumped</i> up and down under the table.\t他的小腿在桌子底下紧张地上下抖动。\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\tfc0a86c7-94f8-4ed6-bfec-6464b5607cfc\t873d8f65-7d88-4e01-98f8-c5c7154ceaed\tpump\tverb\tˈpʌmp\thttps://media.merriam-webster.com/soundc11/p/pump0001.wav\t+ obj, informal\t[often + <i>for</i>]<br>to question (someone) again and again to try to find out information\t一再盘问（某人），试图查明信息\tThe detective <i>pumped</i> them <i>for</i> information on the murder.\t侦探向他们套取有关谋杀案的信息。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t1bdd9514-6fd0-411e-85a3-8dc135c3998f\td34e770b-d953-46c3-8096-5b527a16d67a\tsilk\tnoun\tˈsɪlk\thttps://media.merriam-webster.com/soundc11/s/silk0001.wav\t\ta smooth, soft, and shiny cloth that is made from thread produced by silkworms\t一种光滑、柔软、有光泽的布料，由蚕产生的丝线制成。\t\t\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t98c539d7-dc0c-4b8f-9851-715d0e20dea0\td34e770b-d953-46c3-8096-5b527a16d67a\tsilk\tnoun\tˈsɪlk\thttps://media.merriam-webster.com/soundc11/s/silk0001.wav\tnoncount\tthe thread that is produced by a spider\t蜘蛛产生的丝\tthe <i>silk</i> of a spider's web\t蜘蛛网的丝\tspider <i>silk</i>\t蜘蛛丝\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\tcaca356f-9dc0-451c-ba2e-414610cbe0b5\td34e770b-d953-46c3-8096-5b527a16d67a\tsilk\tnoun\tˈsɪlk\thttps://media.merriam-webster.com/soundc11/s/silk0001.wav\tnoncount\tthe thin strings in an ear of corn\t玉米穗上的细丝\tcorn <i>silk</i>\t玉米须\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\tdc6ec66a-b0e4-4886-9d16-93c0edcc1f06\td34e770b-d953-46c3-8096-5b527a16d67a\tsilk\tnoun\tˈsɪlk\thttps://media.merriam-webster.com/soundc11/s/silk0001.wav\tplural\tthe cap and shirt worn by a jockey\t骑师所戴的帽子和穿的衬衫\tthe stable's red and green racing <i>silks</i>\t马厩的红色和绿色赛马服\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::04k\t18345963-499a-462e-8695-ba1738132c6d\td34e770b-d953-46c3-8096-5b527a16d67a\tsilk\tnoun\tˈsɪlk\thttps://media.merriam-webster.com/soundc11/s/silk0001.wav\tBritish\ta lawyer who has reached the highest rank a Queen's Counsel or King's Counsel\t一位已经达到最高级别的律师，即御用大律师（Queen's Counsel 或 King's Counsel）\tShe maintains a busy practice as a leading <i>silk</i> in employment law.\t她作为一名顶尖的高级大律师，在劳动法领域保持着繁忙的执业。\tHe <b>took silk</b> [=reached the highest barrister's rank] in 2001.\t他于2001年获得了御用大律师资格（即达到律师的最高级别）。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::04k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\te9241137-e945-4788-b326-e9f6e2f4ba5e\td515e92a-8f02-4e08-9b41-716e55cd3058\tcivic\tadjective\tˈsɪvɪk\thttps://media.merriam-webster.com/soundc11/c/civic001.wav\t\tof or relating to a city or town or the people who live there\t属于或与城市、城镇或居住在那里的人有关的\tRecent improvements to the downtown area are a point of <i>civic</i> pride.\t市中心地区的最新改善措施成为了市民的自豪之处。\tthe library association and other <i>civic</i> groups/organizations/institutions\t图书馆协会及其他公民团体/组织/机构\t<i>civic</i> leaders\t公民领袖\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\t6af5daba-8d45-470c-9566-8d9a5a9f3de7\td515e92a-8f02-4e08-9b41-716e55cd3058\tcivic\tadjective\tˈsɪvɪk\thttps://media.merriam-webster.com/soundc11/c/civic001.wav\t\trelating to citizenship or being a citizen\t与公民身份或成为公民有关\tVoting is your <i>civic</i> duty/responsibility.\t投票是你的公民义务/责任。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\t593d4fe7-6d86-4a13-8b21-59d5f431afa8\td16616c6-6a91-4e1a-8167-a413ba12750b\tmagnitude\tnoun\tˈmægnəˌtuːd\thttps://media.merriam-webster.com/soundc11/m/magnit01.wav\tnoncount\tthe size, extent, or importance of something\t某事物的规模、范围或重要性\tThe country's small army would be crushed in a war of such <i>magnitude</i>. [=in such a large war]\t该国的小型军队将在如此大规模的战争中被彻底击溃。\tAt this point no one really knows the true/real <i>magnitude</i> [=<i>scale</i>] of the problem.\t在这一点上，没有人真正知道这个问题的真实/实际规模。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\t15134243-38b4-485c-8319-517248eb686c\td16616c6-6a91-4e1a-8167-a413ba12750b\tmagnitude\tnoun\tˈmægnəˌtuːd\thttps://media.merriam-webster.com/soundc11/m/magnit01.wav\t\ta number that shows the brightness of a star\t表示恒星亮度的数字\t\t\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\t478727c8-1048-4d00-8676-a8803284ad2e\td16616c6-6a91-4e1a-8167-a413ba12750b\tmagnitude\tnoun\tˈmægnəˌtuːd\thttps://media.merriam-webster.com/soundc11/m/magnit01.wav\t\ta number that shows the power of an earthquake\t表示地震强度的数字\ta <i>magnitude</i> 6.7 earthquake = an earthquake of <i>magnitude</i> 6.7\t6.7级地震\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\te8f251b0-b5d8-4d87-b561-911489b21fea\t9d1c2724-79e9-4a6e-be8c-272c920b26a9\thostage\tnoun\tˈhɑːstɪʤ\thttps://media.merriam-webster.com/soundc11/h/hostag01.wav\tcount\t[sometimes used figuratively]<br>a person who is captured by someone who demands that certain things be done before the captured person is freed\t被某人俘获的人，俘获者要求在释放被俘者之前必须完成某些事情。\tThe terrorists demanded a plane and a pilot in exchange for the <i>hostages</i>.\t恐怖分子要求用人质交换一架飞机和一名飞行员。\tThe <i>hostage</i> crisis is now entering its second week.\t人质危机现已进入第二周。\tThe passengers were <b>taken hostage</b>.\t乘客们被劫为人质。\tThey were <b>held hostage</b> for several days.<br>a neighborhood being <i>held hostage</i> to fear [=a neighborhood controlled or dominated by fear]\t他们被劫持为人质好几天。<br>一个被恐惧所控制的社区\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\t33a556d2-b122-4f08-854b-e61728425110\tc7231642-4895-44e4-86c1-800113a05280\tsteep\tadjective\tˈstiːp\thttps://media.merriam-webster.com/soundc11/s/steep001.wav\talso more ~; most ~\talmost straight up and down rising or falling very sharply\t几乎垂直地上升或下降，非常陡峭\ta <i>steep</i> slope/hillside\t陡坡/山坡\tThe stairs are very <i>steep</i>.\t楼梯非常陡。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\t957c03ae-1b90-40c5-bdce-146bfd31545f\tc7231642-4895-44e4-86c1-800113a05280\tsteep\tadjective\tˈstiːp\thttps://media.merriam-webster.com/soundc11/s/steep001.wav\talso more ~; most ~\tgoing up or down very quickly\t非常迅速地上升或下降\ta <i>steep</i> drop/increase in prices\t价格的急剧下降/上升\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\t438ce2ed-5396-47aa-840f-f7be9784b850\tc7231642-4895-44e4-86c1-800113a05280\tsteep\tadjective\tˈstiːp\thttps://media.merriam-webster.com/soundc11/s/steep001.wav\talso more ~; most ~\tvery high\t非常高\tThe store's prices are too <i>steep</i> for me.\t这家商店的价格对我来说太高了。\tTheir rates are pretty <i>steep</i>.\t他们的收费相当高。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\t1f95c91b-0c83-4659-b1cd-bc55f58c8619\t197f616d-bd51-4dbd-a7d6-2c3edffe1dfc\tpopularity\tnoun\tˌpɑːpjəˈlerəti\thttps://media.merriam-webster.com/soundc11/p/popula03.wav\tnoncount\tthe state of being liked, enjoyed, accepted, or done by a large number of people the quality or state of being popular\t被许多人喜欢、享受、接受或参与的状态；受欢迎的品质或状态\tAcupuncture has grown/gained (in) <i>popularity</i> [=has become more popular] in the West.\t针灸在西方越来越受欢迎。\tthe increasing <i>popularity</i> of cell phones\t手机日益普及\tThe candidate is winning/losing <i>popularity</i> with/among voters. [=is becoming more/less popular with/among voters]\t该候选人在选民中正在获得/失去人气。\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\tcf7f4e8c-494e-4c5b-a22d-bb395cee519e\tb4ada0d0-34c5-4336-ac7a-b6750012a311\tcollector\tnoun\tkəˈlɛktɚ\thttps://media.merriam-webster.com/soundc11/c/collec16.wav\tcount\ta person who collects certain things as a hobby\t以收集某些物品为爱好的人\tHe is an avid stamp <i>collector</i>.\t他是一个热衷的集邮爱好者。\tThe painting was purchased by a private <i>collector</i>.\t这幅画被一位私人收藏家购买了。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\tb939c043-10b1-429f-bc46-47036e909fb8\tb4ada0d0-34c5-4336-ac7a-b6750012a311\tcollector\tnoun\tkəˈlɛktɚ\thttps://media.merriam-webster.com/soundc11/c/collec16.wav\tcount\ta person whose job is to collect something (such as trash or money)\t一个以收集某种东西（如垃圾或金钱）为职业的人\tThe trash <i>collectors</i> came early today.\t垃圾收集员今天来得很早。\ta tax/bill/debt <i>collector</i>\t税务/账单/债务催收员\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\t8da63506-9217-440e-a118-5650a34a526a\t3fc4df22-8e84-485d-824e-787003af9e08\tkiss\tnoun\tˈkɪs\thttps://media.merriam-webster.com/soundc11/k/kiss0001.wav\tcount\tthe act of kissing someone or something\t亲吻某人或某物的行为\tHe gave her a <i>kiss</i> on the cheek.\t他在她的脸颊上亲了一下。\tShe greeted him with a hug and a <i>kiss</i>.\t她用一个拥抱和一个吻向他打招呼。\ta tender/gentle/passionate <i>kiss</i>\t温柔/轻柔/热情的吻\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\t73090516-339f-4f34-8527-9691ffc6340b\t16ff1b79-20ab-4a7d-9c1d-38e07afdd94e\talien\tnoun\tˈeɪlijən\thttps://media.merriam-webster.com/soundc11/a/alien001.wav\tcount\ta person who was born in a different country and is not a citizen of the country in which he or she now lives\t一个出生在其他国家、并且不是其现居国家公民的人\t<i>aliens</i> seeking asylum in the U.S.\t在美国寻求庇护的外国人\t<b>illegal aliens</b> [=foreign people who live in a country without having official permission to live there]\t非法移民\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\t1a3371d2-0e8f-49fc-8c1d-f0743b07f422\t16ff1b79-20ab-4a7d-9c1d-38e07afdd94e\talien\tnoun\tˈeɪlijən\thttps://media.merriam-webster.com/soundc11/a/alien001.wav\tcount\ta creature that comes from somewhere other than the planet Earth\t一种来自地球以外某处的生物\tThe movie is about an invasion by <i>aliens</i>. [=<i>extraterrestrials</i>]\t这部电影讲述了外星人入侵的故事。\tHe claims that he was captured by space <i>aliens</i>.\t他声称自己被外星人抓走了。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\t274d8d84-1b68-4d97-9e2e-e9396eaf7c9b\t637f1e4a-28bb-4220-9621-8ae34b6b7182\tdynamic\tadjective\tdaɪˈnæmɪk\thttps://media.merriam-webster.com/soundc11/d/dynami01.wav\t\talways active or changing\t始终活跃或不断变化\ta <i>dynamic</i> city\t一个充满活力的城市\ta <i>dynamic</i> relationship\t动态关系\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\ted94daaa-4e8e-495c-8705-1618ac0c24b5\t637f1e4a-28bb-4220-9621-8ae34b6b7182\tdynamic\tadjective\tdaɪˈnæmɪk\thttps://media.merriam-webster.com/soundc11/d/dynami01.wav\t\thaving or showing a lot of energy\t充满活力的；表现出很大精力的\ta <i>dynamic</i> [=<i>enthusiastic</i>] speaker\t一位充满活力（即充满热情）的演讲者\tan exciting and <i>dynamic</i> performance\t一场激动人心且充满活力的表演\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\t5d3171bd-b69d-4690-850c-98fde61715a8\t637f1e4a-28bb-4220-9621-8ae34b6b7182\tdynamic\tadjective\tdaɪˈnæmɪk\thttps://media.merriam-webster.com/soundc11/d/dynami01.wav\ttechnical\tof or relating to energy, motion, or physical force\t关于能量、运动或物理力的；与能量、运动或物理力有关的\tthe <i>dynamic</i> theory of heat\t热的动力学理论\t<i>dynamic</i> and potential energy\t动能和势能\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\t896380df-f1b1-4143-a225-4eaadea5b250\tf8b30f1c-1fb1-4992-abfc-277918fa5243\tdynamic\tnoun\tdaɪˈnæmɪk\thttps://media.merriam-webster.com/soundc11/d/dynami01.wav\t\tthe way that two or more people behave with each other because of a particular situation\t由于特定情境，两个人或多人之间相互行为的方式\tthe <i>dynamic</i> between a doctor and a patient\t医生与病人之间的互动关系\tthe teacher-student <i>dynamic</i>\t师生关系\tGroup <i>dynamics</i> are important to consider.\t需要考虑群体动力学。\tThe <i>dynamics</i> of this class are different from those of other classes.\t这个班级的氛围与其他班级不同。\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\t8d988bba-7430-415a-b608-8b89a89c5f4b\tf8b30f1c-1fb1-4992-abfc-277918fa5243\tdynamic\tnoun\tdaɪˈnæmɪk\thttps://media.merriam-webster.com/soundc11/d/dynami01.wav\tcount\tsomething that causes change or growth in something else\t促使其他事物发生变化或成长的事物\tDisease was a central <i>dynamic</i> in the decrease in population.\t疾病是人口减少的核心因素。\ta study on famine and population <i>dynamics</i>\t关于饥荒与人口动态的研究\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\t15cd8716-2c15-45c7-a6c2-7a33513dae44\tf8b30f1c-1fb1-4992-abfc-277918fa5243\tdynamic\tnoun\tdaɪˈnæmɪk\thttps://media.merriam-webster.com/soundc11/d/dynami01.wav\tnoncount, technical\tthe science that studies motion and the forces that cause or stop motion\t研究运动及导致或阻止运动的力的科学\tmolecular/fluid <i>dynamics</i>\t分子/流体动力学\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\tb4a996a4-06ec-4fc1-b0e1-0dedc799edee\tf8b30f1c-1fb1-4992-abfc-277918fa5243\tdynamic\tnoun\tdaɪˈnæmɪk\thttps://media.merriam-webster.com/soundc11/d/dynami01.wav\tmusic, plural\tchanges in how loudly a piece of music is played or sung\t音乐作品演奏或演唱时音量的变化\t<i>Dynamics</i> greatly affect the impact of the music.\t力度极大地影响了音乐的表现力。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\tb94c4ea0-8d2c-4ac6-a77b-70b4ecbbaeb2\t8cd0df4b-3780-4172-8e1b-a305b1e10499\tscary\tadjective\tˈskeri\thttps://media.merriam-webster.com/soundc11/s/scary001.wav\talso more ~; most ~\tcausing fear\t引起恐惧\ta <i>scary</i> [=<i>frightening</i>] movie\t一部吓人的电影\tThe stranger is <i>scary</i> looking. = He looks <i>scary</i>. = He's <i>scary</i> looking.\t那个陌生人看起来很吓人。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\t23caf3a5-50f2-447e-89b2-a0b24d010b29\t9bcf050f-13c0-4f98-a647-8cf7826194ac\tangel\tnoun\tˈeɪnʤəl\thttps://media.merriam-webster.com/soundc11/a/angel001.wav\tcount\ta spiritual being that serves especially as a messenger from God or as a guardian of human beings\t一种灵性存在，特别作为上帝的使者或人类的守护者。\tan <i>angel</i> from heaven\t来自天堂的天使\ta merciful <i>angel</i> = an <i>angel</i> of mercy\t仁慈的天使\tthe <i>angel</i> of death [=an angel that comes when someone dies]\t死神\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\tcd94443d-39a9-44f2-b2f7-22e700f7a8d5\t9bcf050f-13c0-4f98-a647-8cf7826194ac\tangel\tnoun\tˈeɪnʤəl\thttps://media.merriam-webster.com/soundc11/a/angel001.wav\tcount, informal\ta person (such as a child) who is very good, kind, beautiful, etc.\t一个（比如小孩）非常善良、友好、美丽等的人。\tYour son is such an <i>angel</i>!\t你的儿子真是个小天使！\tHe's not a bad kid, but he's no <i>angel</i>.\t他不是个坏孩子，但也不是天使。\tBe an <i>angel</i> and get me a cup of tea, would you?\t能不能帮个忙，给我倒杯茶？\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\t2789a9ea-064c-4d11-baf7-72f43173c63d\t20b217f3-f662-4012-b78f-68c4ff8bc9d3\tswitch\tnoun\tˈswɪtʃ\thttps://media.merriam-webster.com/soundc11/s/switch01.wav\tcount\ta small device that starts or stops the flow of electricity to something (such as a lamp or a machine) when it is pressed or moved up and down\t一种小型装置，通过按下或上下移动来启动或停止某物（如灯或机器）电流流动。\tShe flicked a <i>switch</i> and turned the lamp/lights on.\t她拨了一下开关，把灯打开了。\ta light/dimmer <i>switch</i>\t一个灯光/调光开关\tHe threw the <i>switch</i> to stop the machine.\t他拉下开关让机器停止运转。\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\tce4faeb1-c6ef-46d7-9db6-953bafc41e01\t20b217f3-f662-4012-b78f-68c4ff8bc9d3\tswitch\tnoun\tˈswɪtʃ\thttps://media.merriam-webster.com/soundc11/s/switch01.wav\tcount\t[usually singular]<br>a sudden change from one thing to another\t从一件事突然转变为另一件事\ta <i>switch</i> from the old way of doing things\t从旧的做事方式转变\tThere has been a <i>switch</i> in plans. [=the plans have changed]\t计划有变。\tIf you're not happy in your current job, maybe it's time to <b>make a switch</b> (to another job).\t如果你对目前的工作不满意，也许是时候换一份工作了。\t“He says he'll do it himself.” “Well, <b>that's a switch</b>.” [=that's something unusual]\t“他说他会自己做。” “哟，这倒新鲜。”\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\t17d166ac-d0aa-41af-8b95-1700a11ce87d\t20b217f3-f662-4012-b78f-68c4ff8bc9d3\tswitch\tnoun\tˈswɪtʃ\thttps://media.merriam-webster.com/soundc11/s/switch01.wav\tcount, US\ta device for moving the rails of a track so that a train may be turned from one track to another\t一种用于移动轨道铁轨的装置，使火车能够从一条轨道转到另一条轨道。\t\t\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\t7a17e55c-33e5-454a-86bf-0ca395e04e7e\t20b217f3-f662-4012-b78f-68c4ff8bc9d3\tswitch\tnoun\tˈswɪtʃ\thttps://media.merriam-webster.com/soundc11/s/switch01.wav\tcount\ta thin stick that can be easily bent\t一根可以轻易弯曲的细棍\t\t\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\t66d94545-06b8-40b4-a046-1e142471512d\tea16c92c-4fc1-4c4a-ae4a-e74afc4c0b43\tequation\tnoun\tɪˈkweɪʒən\thttps://media.merriam-webster.com/soundc11/e/equati01.wav\tcount, mathematics\ta statement that two expressions are equal (such as 8 + 3 = 11 or 2x - 3 = 7)\t两个表达式相等的陈述（例如 8 + 3\tsolve an <i>equation</i>\t解方程\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\t658a923c-9ec5-4134-80aa-8b78679252ea\tea16c92c-4fc1-4c4a-ae4a-e74afc4c0b43\tequation\tnoun\tɪˈkweɪʒən\thttps://media.merriam-webster.com/soundc11/e/equati01.wav\tcount\t[usually singular]<br>a complicated situation or issue\t复杂的情况或问题\tHelping a troubled teenager is more difficult when drugs are part of the <i>equation</i>. [=when drugs are involved]\t当毒品牵涉其中时，帮助有问题的青少年会更加困难。\tThe southern states will be an important part of the election <i>equation</i>.\t南部各州将成为选举方程式中的重要组成部分。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\t4aa4dbe8-dbd7-4c9d-bd70-8e3d8fc8c16e\tea16c92c-4fc1-4c4a-ae4a-e74afc4c0b43\tequation\tnoun\tɪˈkweɪʒən\thttps://media.merriam-webster.com/soundc11/e/equati01.wav\tnoncount\tthe act of regarding two things as the same the act of equating things\t将两件事物视为相同的行为，将事物等同的行为\tthe <i>equation</i> of material wealth with/and happiness\t将物质财富与幸福等同起来\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\tf01f0315-8ef4-4acc-9c58-36ea6dd186f9\ta92e03f1-e07a-499a-8cc6-bc3254239a83\ttoilet\tnoun\tˈtoɪlət\thttps://media.merriam-webster.com/soundc11/t/toilet01.wav\tcount\t[see picture at bathroom]<br>a large bowl attached to a pipe that is used for getting rid of bodily waste and then flushed with water\t一个连接着管道的大碗，用于排除人体废物，然后用水冲洗干净。\tflush the <i>toilet</i>\t冲厕所\tOne of the kids needed to use the <i>toilet</i>.\t有个孩子需要上厕所。\ta <i>toilet</i> brush/seat/bowl\t马桶刷/马桶座/马桶碗\t(<i>Brit</i>) The little boy told his mother that he had to <b>go to the toilet</b>. [=use the toilet; (<i>US</i>) <i>go to the bathroom</i>]\t（英）小男孩告诉他妈妈他要上厕所。\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\t0587b709-3d41-4835-b7dd-7132c52d9c91\ta92e03f1-e07a-499a-8cc6-bc3254239a83\ttoilet\tnoun\tˈtoɪlət\thttps://media.merriam-webster.com/soundc11/t/toilet01.wav\tchiefly British, count\tbathroom\t浴室\ta public <i>toilet</i> [=<i>restroom</i>]\t公共厕所\tHe's in the <i>toilet</i>. [=<i>loo</i>]\t他在厕所里。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\tf31fcd10-22af-41c7-b38e-af06dd21ecd4\ta92e03f1-e07a-499a-8cc6-bc3254239a83\ttoilet\tnoun\tˈtoɪlət\thttps://media.merriam-webster.com/soundc11/t/toilet01.wav\tcount, old-fashioned\tthe act or process of washing and dressing yourself\t洗漱和穿衣的行为或过程\ta painting of a woman at her <i>toilet</i>\t一幅描绘一位女子梳妆的画作\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\t50a3266e-c3a4-4669-a85f-e8ea764f28ce\t989bc4a7-211a-45ea-a26d-6ccea9870ab9\trage\tnoun\tˈreɪʤ\thttps://media.merriam-webster.com/soundc11/r/rage0001.wav\tnoncount\ta strong feeling of anger that is difficult to control\t一种难以控制的强烈愤怒感\tHer note to him was full of <i>rage</i>.\t她写给他的便条充满了愤怒。\tHe was shaking with <i>rage</i>.\t他气得发抖。\ta fit of <i>rage</i>\t一阵愤怒\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\t4603e3f8-9356-4215-b311-9e5b6a6d8501\t989bc4a7-211a-45ea-a26d-6ccea9870ab9\trage\tnoun\tˈreɪʤ\thttps://media.merriam-webster.com/soundc11/r/rage0001.wav\tcount\ta sudden expression of violent anger\t突然爆发的暴怒\tShe was seized by a murderous <i>rage</i>.\t她被一股杀意所控制。\tHis <i>rages</i> rarely last more than a few minutes.\t他的愤怒很少持续超过几分钟。\tHe <b>flew into a rage</b>. [=he suddenly became extremely angry]\t他勃然大怒。\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\te848ed1c-1420-44f0-a0d3-954be4e6c508\t989bc4a7-211a-45ea-a26d-6ccea9870ab9\trage\tnoun\tˈreɪʤ\thttps://media.merriam-webster.com/soundc11/r/rage0001.wav\t\tsomething that is suddenly very popular\t突然变得非常流行的事物\tKaraoke is <b>(all) the rage</b> these days. [=karaoke is very popular]\t卡拉OK现在非常流行。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\t062311b8-a629-488d-b663-f9ed73e76cfb\t989bc4a7-211a-45ea-a26d-6ccea9870ab9\trage\tnoun\tˈreɪʤ\thttps://media.merriam-webster.com/soundc11/r/rage0001.wav\t\t[+ <i>for</i>]<br>a strong desire by many people to have or do something\t许多人强烈渴望拥有或做某事\tI don't understand the current <i>rage for</i> flavored coffee. [=I don't understand why flavored coffee is so popular]\t我不明白现在流行调味咖啡的原因。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\td41a9621-6aff-46c9-b657-4784abaa6b43\t09180c5e-92e4-4ea6-be13-81e8322fdb8a\trepair\tverb\trɪˈpeɚ\thttps://media.merriam-webster.com/soundc11/r/repair01.wav\t+ obj\tto put (something that is broken or damaged) back into good condition fix\t把（损坏或破损的东西）修复到良好状态 修理\tHe <i>repairs</i> clocks.\t他修理钟表。\tThis old lawn mower isn't worth <i>repairing</i>.\t这台旧割草机不值得修理。\tShe <i>repaired</i> an old chest that was coming apart.\t她修理了一个快要散架的旧箱子。\tHe underwent surgery to <i>repair</i> a torn ligament in his knee.<br>There was no hope of <i>repairing</i> the damage—she had to buy a new car.\t他接受了手术来修复膝盖撕裂的韧带。<br>损坏已经无法修复——她只好买了一辆新车。\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\t3f632ec8-647b-4a20-a343-45c6afeb1ee8\t09180c5e-92e4-4ea6-be13-81e8322fdb8a\trepair\tverb\trɪˈpeɚ\thttps://media.merriam-webster.com/soundc11/r/repair01.wav\t+ obj\tto correct or improve (something, such as a relationship or reputation)\t纠正或改善（某事，例如一段关系或声誉）\tThe school is trying to <i>repair</i> its damaged reputation.\t学校正在努力修复其受损的声誉。\tCan their marriage be <i>repaired</i>?\t他们的婚姻还能修复吗？\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\tc0adf414-fefd-41aa-9819-e80a61b45bc0\tfd99ac62-da6e-4443-b9e5-d4e4059736d3\trepair\tverb\trɪˈpeɚ\thttps://media.merriam-webster.com/soundc11/r/repair01.wav\told-fashioned + formal, phrasal verb\tto go to (a place)\t去（某个地方）\tAfter dinner, the guests <i>repaired to</i> the drawing room for coffee.\t晚餐后，客人们移步到客厅喝咖啡。\t(<i>humorous</i>) Shall we <i>repair to</i> the coffee shop?\t（幽默）我们要不要去咖啡馆？\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::rare eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\t98321013-828c-48d2-8434-14716de90cf8\t36f83046-23c6-4905-9614-93e3aa9e2ef2\tphotography\tnoun\tfəˈtɑːgrəfi\thttps://media.merriam-webster.com/soundc11/p/photog17.wav\tnoncount\tthe art, process, or job of taking pictures with a camera\t用相机拍照的艺术、过程或工作\tHe studied both film and still <i>photography</i>.\t他学习了电影和静态摄影。\tLandscape <i>photography</i> is her hobby.\t风景摄影是她的爱好。\tThe art museum is showing a <i>photography</i> exhibit. [=an exhibit of photographs]\t艺术博物馆正在展出摄影展览。\tthe <b>director of photography</b> [=the person who is in charge of filming for a movie]\t摄影指导\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\tb5b242c1-d66e-4109-a72f-30b38553a44e\t92ea808f-f8d2-4504-b222-147f2dd5fab5\tdisappointed\tadjective\tˌdɪsəˈpoɪntəd\thttps://media.merriam-webster.com/soundc11/d/disap01v.wav\tmore ~; most ~\tfeeling sad, unhappy, or displeased because something was not as good as expected or because something you hoped for or expected did not happen\t感到难过、不开心或不满意，因为某件事没有达到预期，或者你所希望或期待的事情没有发生。\tWe were <i>disappointed</i> that they couldn't go.\t我们很失望他们不能去。\t<i>Disappointed</i> fans slowly left the ballpark.\t失望的球迷们慢慢地离开了球场。\tI was <i>disappointed</i> to see that my suggestions had been ignored.\t我很失望地看到我的建议被忽视了。\tThey were deeply <i>disappointed</i> by her lack of interest.<br>Don't be too <i>disappointed</i> if everything doesn't go as planned.\t他们对她缺乏兴趣感到非常失望。<br>如果一切没有按计划进行，也不要太失望。\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\t148b2ea5-f613-4b1e-b9be-e65f47a1f9b9\t92ea808f-f8d2-4504-b222-147f2dd5fab5\tdisappointed\tadjective\tˌdɪsəˈpoɪntəd\thttps://media.merriam-webster.com/soundc11/d/disap01v.wav\tmore ~; most ~\tunhappy because someone has behaved badly\t因为某人的不良行为而感到不快\tYour father and I are very <i>disappointed</i> in/with you.\t你爸爸和我对你非常失望。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\t86477879-77b7-4784-abf4-7619eb380643\t18e5f03f-10a8-4083-82c0-ff1786453e3e\toffering\tnoun\tˈɑːfərɪŋ\thttps://media.merriam-webster.com/soundc11/o/offeri01.wav\tcount\tsomething that is given to God or a god as a part of religious worship\t作为宗教崇拜的一部分献给上帝或神的东西\tceremonial/sacrificial <i>offerings</i>\t仪式性/祭祀供品\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\t45cfe82c-3397-45e3-a3be-85cdbac7abc5\t18e5f03f-10a8-4083-82c0-ff1786453e3e\toffering\tnoun\tˈɑːfərɪŋ\thttps://media.merriam-webster.com/soundc11/o/offeri01.wav\tcount\tan act of giving a religious offering\t奉献宗教供品的行为\tEach household must <b>make</b> daily <b>offerings</b> to the gods.\t每个家庭必须每天向神明供奉祭品。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\t83ce8290-bef3-4818-a3a1-57f64d0170a9\t18e5f03f-10a8-4083-82c0-ff1786453e3e\toffering\tnoun\tˈɑːfərɪŋ\thttps://media.merriam-webster.com/soundc11/o/offeri01.wav\tcount\tsomething that is available for sale or use\t可供出售或使用的东西\tThe company is trying to generate interest in its new <i>offerings</i>.\t该公司正试图激发人们对其新产品的兴趣。\tthe café's tasty dessert <i>offerings</i>\t咖啡馆美味的甜点选择\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\t88918334-cd43-4791-9835-427b8b0fc3a8\tb18af546-9be4-483a-b4cb-ccb99cef4333\tprecious\tadjective\tˈprɛʃəs\thttps://media.merriam-webster.com/soundc11/p/precio02.wav\tmore ~; most ~\t[A <b>precious metal</b> is an expensive metal (such as gold) that is used especially for jewelry.]<br>rare and worth a lot of money\t稀有且价值很高\tdiamonds and other <i>precious</i> stones\t钻石和其他宝石\t<i>precious</i> jewels/jewelry\t珍贵的珠宝/首饰\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\t9ccb4ceb-9bc4-4ba6-9952-c48b1fef2bf5\tb18af546-9be4-483a-b4cb-ccb99cef4333\tprecious\tadjective\tˈprɛʃəs\thttps://media.merriam-webster.com/soundc11/p/precio02.wav\tmore ~; most ~\tvery valuable or important too valuable or important to be wasted or used carelessly\t非常有价值或重要，太有价值或重要，不能被浪费或随意使用。\tWe can save <i>precious</i> time by taking this shortcut.\t我们可以通过走这条捷径来节省宝贵的时间。\tThey were able to be together for only a few <i>precious</i> hours/days.\t他们只能在一起度过几个宝贵的小时/天。\t<i>precious</i> resources\t宝贵的资源\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\t6d955505-219a-471f-a49c-6dbbb618304a\tb18af546-9be4-483a-b4cb-ccb99cef4333\tprecious\tadjective\tˈprɛʃəs\thttps://media.merriam-webster.com/soundc11/p/precio02.wav\tmore ~; most ~\tgreatly loved, valued, or important\t非常受喜爱、重视或重要\t<i>precious</i> memories\t珍贵的回忆\tthe family's most <i>precious</i> moments\t这个家庭最珍贵的时刻\ta very <i>precious</i> [=<i>dear</i>] friend\t一位非常珍贵的（即亲爱的）朋友\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\t6a31b11c-cff5-4b84-8ce7-7e714c57d935\tb18af546-9be4-483a-b4cb-ccb99cef4333\tprecious\tadjective\tˈprɛʃəs\thttps://media.merriam-webster.com/soundc11/p/precio02.wav\tinformal, more ~; most ~, US\thaving a very pleasing and usually youthful appearance or quality cute\t拥有非常讨人喜欢且通常带有青春气息的外貌或特质，可爱\tAren't those children <i>precious</i>?\t那些孩子们不是很可爱吗？\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\t25f9d43a-2864-42a5-9276-ebf52b1d916b\tb18af546-9be4-483a-b4cb-ccb99cef4333\tprecious\tadjective\tˈprɛʃəs\thttps://media.merriam-webster.com/soundc11/p/precio02.wav\tformal + disapproving, more ~; most ~\thaving a too careful, precise, or polite quality that seems false or annoying\t过于小心、精确或礼貌，以至于显得虚假或令人恼火的特质\tThe sometimes <i>precious</i> writing makes the book difficult to read.\t有时过于矫饰的文笔使这本书难以阅读。\t<i>precious</i> manners\t珍贵的礼仪\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\t7470a068-aada-4920-ac7d-324d62c60943\t2d05453b-c54e-495c-90f0-761ab2869612\tprohibit\tverb\tproʊˈhɪbət\thttps://media.merriam-webster.com/soundc11/p/prohib01.wav\t+ obj\t[+ <i>from</i>]<br>to order (someone) not to use or do something\t命令（某人）不要使用或做某事\tThe town <i>prohibited</i> teenagers <i>from</i> being in the streets after 10 p.m.\t该镇禁止青少年在晚上10点后出现在街道上。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\t88f1db90-e9b1-4e25-8f19-ba72a9b5015e\t2d05453b-c54e-495c-90f0-761ab2869612\tprohibit\tverb\tproʊˈhɪbət\thttps://media.merriam-webster.com/soundc11/p/prohib01.wav\t+ obj\t[often used as <i>(be) prohibited</i>]<br>to say that (something) is not allowed\t表示（某事）是不被允许的\tThe rules <i>prohibit</i> dating a coworker.\t规定禁止与同事约会。\tThe town <i>prohibits</i> [=<i>forbids</i>] parking on that street.\t该镇禁止在那条街上停车。\tFlash photography <i>is prohibited</i> inside the museum.\t博物馆内禁止使用闪光灯拍照。\tAlcohol <i>is prohibited</i> in the park.\t公园内禁止饮酒。\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\tc9d9ccbd-180d-4b33-8786-2c2784452fed\t2d05453b-c54e-495c-90f0-761ab2869612\tprohibit\tverb\tproʊˈhɪbət\thttps://media.merriam-webster.com/soundc11/p/prohib01.wav\t+ obj\tto make (something) impossible to do\t使（某事）变得不可能做到\tThe prison's electric fence <i>prohibits</i> escape.\t监狱的电网禁止逃脱。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\t3a922a11-63f2-4ab1-a438-1ca271a9e646\t0a7113ed-ebc3-4875-b62e-ad01dae52291\trepresentative\tadjective\tˌrɛprɪˈzɛntətɪv\thttps://media.merriam-webster.com/soundc11/r/repres09.wav\tmore ~; most ~\ttypical of a particular group of people or of a particular thing\t某一特定群体或某一特定事物的典型特征\ta <i>representative</i> example\t一个具有代表性的例子\tThe paintings are <i>representative</i> of English art in the early 19th century.\t这些画作代表了19世纪初的英国艺术。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\t7ea33659-7044-4dc8-a9a3-596db613e97c\t0a7113ed-ebc3-4875-b62e-ad01dae52291\trepresentative\tadjective\tˌrɛprɪˈzɛntətɪv\thttps://media.merriam-webster.com/soundc11/r/repres09.wav\tmore ~; most ~\tincluding examples of the different types of people or things in a group\t包括该群体中不同类型的人或事物的例子\tThe students chosen for the survey are a fairly <i>representative</i> sample/sampling of college students from across the U.S.\t被选中参与调查的学生是来自全美各地大学生的一个相当有代表性的样本/抽样。\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\tef1f6874-1a8f-406c-9f41-bf325a680acb\t0a7113ed-ebc3-4875-b62e-ad01dae52291\trepresentative\tadjective\tˌrɛprɪˈzɛntətɪv\thttps://media.merriam-webster.com/soundc11/r/repres09.wav\tmore ~; most ~\thaving people who are chosen in elections to act or speak for or in support of the people who voted for them\t由在选举中被选出的人员代表或支持投票给他们的人民发言或行动\t<i>representative</i> government\t代议制政府\t<i>representative</i> democracy\t代议制民主\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\te3d0e182-7e58-4c0e-9406-1c57843b8cef\t3bb61062-d38b-4544-9bae-e3c6dcfb452e\tcontent\tadjective\tkənˈtɛnt\thttps://media.merriam-webster.com/soundc11/c/conten03.wav\tmore ~; most ~\tpleased and satisfied not needing more\t感到高兴和满意，不再需要更多\tThe baby looks <i>content</i> in her crib.\t婴儿在她的婴儿床里看起来很满足。\tA fancy hotel is not necessary; I'd be <i>content</i> with a warm meal and a clean place to sleep.\t一家豪华的酒店并不是必需的；我只要一顿热饭和一个干净的睡觉地方就很满足了。\tNo, I don't want to play. I'm <i>content</i> to watch.\t不，我不想玩。我满足于观看。\tNot <i>content</i> to stay at home, she set off to see the world at the age of 16.<br>Polls show that voters are growing less and less <i>content</i> with the current administration.\t她不满足于待在家里，16岁时就踏上了看世界的旅程。<br>民意调查显示，选民对现任政府越来越不满意。\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\td6ac9cce-fbb7-4bef-b84d-da496bb28d16\tda9bdf52-2719-467d-a862-9b7efb62f4e6\trealistic\tadjective\tˌriːjəˈlɪstɪk\thttps://media.merriam-webster.com/soundc11/r/realis03.wav\tmore ~; most ~\t[opposite unrealistic]<br>able to see things as they really are and to deal with them in a practical way\t能够看到事物的真实本质，并以实际的方式处理它们\tHe tried to be <i>realistic</i> about the situation.\t他试图对这种情况持现实态度。\tWe have to be <i>realistic</i> and accept the fact that these problems cannot be solved easily.\t我们必须现实一点，接受这些问题无法轻易解决的事实。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\tcb34ac38-0503-4871-a84a-e70d0ba27fc4\tda9bdf52-2719-467d-a862-9b7efb62f4e6\trealistic\tadjective\tˌriːjəˈlɪstɪk\thttps://media.merriam-webster.com/soundc11/r/realis03.wav\tmore ~; most ~\t[opposite unrealistic]<br>based on what is real rather than on what is wanted or hoped for sensible and appropriate\t基于现实而非愿望或希望，明智且恰当的\tThe plan is not very <i>realistic</i>.\t这个计划不是很现实。\ta <i>realistic</i> approach/goal\t现实的方法/目标\tIt's not <i>realistic</i> to expect people to spend that much money on wedding gifts.\t指望人们在婚礼礼物上花那么多钱并不现实。\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\tfd5522d2-10b4-4d0d-bc80-dc4a13c019bb\tda9bdf52-2719-467d-a862-9b7efb62f4e6\trealistic\tadjective\tˌriːjəˈlɪstɪk\thttps://media.merriam-webster.com/soundc11/r/realis03.wav\tmore ~; most ~\t[opposite unrealistic]<br>showing people and things as they are in real life\t如实展现人和事物在现实生活中的样子\ta <i>realistic</i> painting/novel/description\t一幅写实的画作/小说/描述\tThe battle scene in the movie was very <i>realistic</i>. [=it seemed very much like a real battle]\t电影中的战斗场面非常逼真。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\ta7c5dbe6-24c7-4f5c-9a2e-5cca3c89d8d6\tc0613596-a020-439a-a67f-1a879ad1bc75\tenroll\tverb\tɛnˈɹoʊl\thttps://upload.wikimedia.org/wikipedia/commons/transcoded/4/43/En-us-enroll.ogg/En-us-enroll.ogg.mp3\t+ obj\t[usually + <i>in</i>]<br>to enter (someone) as a member of or participant in something\t将（某人）登记为某事的成员或参与者\tThey <i>enrolled</i> their children <i>in</i> a private school.\t他们把孩子送进了一所私立学校。\tHe <i>enrolled</i> himself <i>in</i> a weight-loss program. [=he joined a weight-loss program]\t他报名参加了一个减肥项目。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\t94eca076-408c-4877-9017-a1a4f1d3e49e\tc0613596-a020-439a-a67f-1a879ad1bc75\tenroll\tverb\tɛnˈɹoʊl\thttps://upload.wikimedia.org/wikipedia/commons/transcoded/4/43/En-us-enroll.ogg/En-us-enroll.ogg.mp3\t+ obj\tto take (someone) as a member or participant\t接纳（某人）为成员或参与者\tThe college <i>enrolls</i> about 25,000 students.\t该学院约有25,000名学生。\tThey <i>enrolled</i> several volunteers for the study.\t他们为这项研究招募了几名志愿者。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\t3212f2e7-5fb5-4eb1-99e5-a1bf9c6a13f7\tc0613596-a020-439a-a67f-1a879ad1bc75\tenroll\tverb\tɛnˈɹoʊl\thttps://upload.wikimedia.org/wikipedia/commons/transcoded/4/43/En-us-enroll.ogg/En-us-enroll.ogg.mp3\tno obj\t[usually + <i>in</i>]<br>to become a member or participant\t成为成员或参与者\tAfter graduating from high school he <i>enrolled in</i> the army.\t高中毕业后，他参军入伍。\tWe <i>enrolled in</i> the history course.\t我们报名参加了历史课程。\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\teeba0f55-e1ea-4836-b0e0-91395ad26273\t28e90fa7-c539-4253-b4af-9538b9ea57ad\tRussian\tnoun\tˈrʌʃən\thttps://media.merriam-webster.com/soundc11/r/russia02.wav\t\ta person born, raised, or living in Russia\t在俄罗斯出生、长大或居住的人\t\t\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\t264da2d1-676b-41d4-af27-5458331d874b\t28e90fa7-c539-4253-b4af-9538b9ea57ad\tRussian\tnoun\tˈrʌʃən\thttps://media.merriam-webster.com/soundc11/r/russia02.wav\t\ta person whose family is from Russia\t一个家庭来自俄罗斯的人\t\t\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\tddba5cf3-dd21-45a9-b116-0d1692758a99\t28e90fa7-c539-4253-b4af-9538b9ea57ad\tRussian\tnoun\tˈrʌʃən\thttps://media.merriam-webster.com/soundc11/r/russia02.wav\tnoncount\tthe language of the Russian people\t俄罗斯人民的语言\t\t\t\t\t\t\t\t\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::extend eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\t40640938-a020-472c-84dc-ccf593b5be60\t759105ae-b6bc-41cc-8475-d7ec88b88413\thidden\tadjective\tˈhɪd(ə)n\thttps://upload.wikimedia.org/wikipedia/commons/transcoded/b/b0/En-us-hidden.ogg/En-us-hidden.ogg.mp3\t\tnot seen or known\t未被看到或知道\ta <i>hidden</i> [=<i>concealed</i>] microphone/camera\t一个隐藏的麦克风/摄像头\tHis suggestions have a <i>hidden</i> [=<i>secret</i>] purpose.\t他的建议有一个隐藏的目的。\t<i>hidden</i> motives\t隐藏的动机\tHe's accused of having a <b>hidden agenda</b>. [=a secret plan]\t他被指控有隐藏的企图。\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "word": "eggrolls-FREQ60K-MWLD-v1\teggrolls-FREQ60K-MWLD-v1::05k\t9530a83d-ba8b-47cb-87ff-be609da9f637\t759105ae-b6bc-41cc-8475-d7ec88b88413\thidden\tadjective\tˈhɪd(ə)n\thttps://upload.wikimedia.org/wikipedia/commons/transcoded/b/b0/En-us-hidden.ogg/En-us-hidden.ogg.mp3\t\tnot easily found or recognized\t不容易被发现或识别\tThere was a <i>hidden</i> flaw in the airplane's design.\t飞机的设计中存在一个隐藏的缺陷。\tthe <i>hidden</i> costs in buying a home\t购房中的隐性成本\tsearching for <i>hidden</i> meanings\t寻找隐藏的含义\ta <i>hidden</i> valley\t一个隐秘的山谷\teggrolls-FREQ60K-MWLD-v1::05k eggrolls-FREQ60K-MWLD-v1::core eggrolls-FREQ60K-MWLD-v1::v26.03.23",
+    "meaning": "",
+    "example": ""
+  }
+]
