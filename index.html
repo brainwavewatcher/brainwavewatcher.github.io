@@ -1,624 +1,191 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="tr">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>LangApp Pro</title>
-<link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>LangApp</title>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@600;800&family=Atkinson+Hyperlegible:wght@400;700&display=swap" rel="stylesheet">
 <style>
-  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
-  :root {
-    --bg: #080c14;
-    --sidebar-bg: #050810;
-    --card-bg: #0f1623;
-    --card-hover: #151e2e;
-    --accent: #38bdf8;
-    --accent2: #818cf8;
-    --text: #e2e8f0;
-    --muted: #64748b;
-    --border: #1e2d42;
-  }
-
-  body {
-    font-family: 'Sora', sans-serif;
-    background: var(--bg);
-    color: var(--text);
-    display: flex;
-    min-height: 100vh;
-    overflow: hidden;
-  }
-
-  /* ── SIDEBAR ── */
-  .sidebar {
-    width: 220px;
-    background: var(--sidebar-bg);
-    border-right: 1px solid var(--border);
-    padding: 28px 16px;
-    display: flex;
-    flex-direction: column;
-    gap: 6px;
-    height: 100vh;
-    position: fixed;
-    top: 0; left: 0;
-  }
-
-  .logo {
-    font-size: 20px;
-    font-weight: 700;
-    letter-spacing: -0.5px;
-    color: var(--accent);
-    margin-bottom: 24px;
-    padding-left: 8px;
-    display: flex;
-    align-items: center;
-    gap: 8px;
-  }
-
-  .logo span { color: var(--text); }
-
-  .nav-btn {
-    width: 100%;
-    padding: 11px 14px;
-    border: none;
-    border-radius: 10px;
-    background: transparent;
-    color: var(--muted);
-    cursor: pointer;
-    font-family: 'Sora', sans-serif;
-    font-size: 14px;
-    font-weight: 500;
-    text-align: left;
-    transition: background 0.18s, color 0.18s;
-    display: flex;
-    align-items: center;
-    gap: 10px;
-  }
-
-  .nav-btn:hover, .nav-btn.active {
-    background: var(--card-bg);
-    color: var(--text);
-  }
-
-  .nav-btn.active { color: var(--accent); }
-
-  .nav-icon { font-size: 16px; }
-
-  /* ── MAIN ── */
-  .main {
-    margin-left: 220px;
-    flex: 1;
-    padding: 28px 32px;
-    height: 100vh;
-    overflow-y: auto;
-  }
-
-  .topbar {
-    display: flex;
-    gap: 10px;
-    margin-bottom: 24px;
-    align-items: center;
-    flex-wrap: wrap;
-  }
-
-  .search-wrap {
-    position: relative;
-    flex: 1;
-    min-width: 200px;
-  }
-
-  .search-wrap::before {
-    content: '🔍';
-    position: absolute;
-    left: 12px;
-    top: 50%;
-    transform: translateY(-50%);
-    font-size: 14px;
-    opacity: 0.5;
-  }
-
-  input[type="text"] {
-    width: 100%;
-    padding: 11px 14px 11px 36px;
-    border-radius: 10px;
-    border: 1px solid var(--border);
-    background: var(--card-bg);
-    color: var(--text);
-    font-family: 'Sora', sans-serif;
-    font-size: 14px;
-    outline: none;
-    transition: border-color 0.18s;
-  }
-
-  input[type="text"]:focus { border-color: var(--accent); }
-  input[type="text"]::placeholder { color: var(--muted); }
-
-  .levels { display: flex; gap: 6px; }
-
-  .level-btn {
-    padding: 9px 14px;
-    border: 1px solid var(--border);
-    border-radius: 8px;
-    background: transparent;
-    color: var(--muted);
-    font-family: 'Sora', sans-serif;
-    font-size: 13px;
-    font-weight: 600;
-    cursor: pointer;
-    transition: all 0.18s;
-  }
-
-  .level-btn:hover { border-color: var(--accent); color: var(--accent); }
-  .level-btn.active { background: var(--accent); border-color: var(--accent); color: #000; }
-
-  /* ── CARDS ── */
-  #content { display: flex; flex-direction: column; gap: 10px; }
-
-  .card {
-    background: var(--card-bg);
-    border: 1px solid var(--border);
-    padding: 18px 20px;
-    border-radius: 14px;
-    cursor: pointer;
-    transition: background 0.18s, border-color 0.18s, transform 0.15s;
-    position: relative;
-  }
-
-  .card:hover {
-    background: var(--card-hover);
-    border-color: #2a3f5a;
-    transform: translateY(-1px);
-  }
-
-  .card-header { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; }
-
-  .word {
-    font-size: 18px;
-    font-weight: 700;
-    letter-spacing: -0.3px;
-    color: var(--text);
-  }
-
-  .level-badge {
-    font-size: 11px;
-    font-weight: 700;
-    padding: 3px 8px;
-    border-radius: 6px;
-    background: #1a2a3a;
-    color: var(--accent);
-    font-family: 'JetBrains Mono', monospace;
-    white-space: nowrap;
-  }
-
-  .meaning {
-    color: #94a3b8;
-    font-size: 14px;
-    margin-top: 5px;
-    line-height: 1.5;
-  }
-
-  .example {
-    font-size: 13px;
-    color: var(--muted);
-    margin-top: 10px;
-    padding-top: 10px;
-    border-top: 1px solid var(--border);
-    font-style: italic;
-    line-height: 1.5;
-  }
-
-  .example.hidden { display: none; }
-
-  .card-footer {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-top: 10px;
-  }
-
-  .hint {
-    font-size: 11px;
-    color: var(--muted);
-    opacity: 0.6;
-  }
-
-  .fav-btn {
-    background: none;
-    border: none;
-    cursor: pointer;
-    font-size: 16px;
-    opacity: 0.5;
-    transition: opacity 0.2s, transform 0.2s;
-    padding: 4px;
-  }
-
-  .fav-btn:hover { opacity: 1; transform: scale(1.2); }
-  .fav-btn.active { opacity: 1; }
-
-  /* ── LOAD MORE ── */
-  .load-more-wrap { margin-top: 20px; text-align: center; }
-
-  .load-btn {
-    padding: 11px 28px;
-    border: 1px solid var(--border);
-    border-radius: 10px;
-    background: transparent;
-    color: var(--muted);
-    font-family: 'Sora', sans-serif;
-    font-size: 14px;
-    font-weight: 600;
-    cursor: pointer;
-    transition: all 0.18s;
-  }
-
-  .load-btn:hover { border-color: var(--accent); color: var(--accent); }
-
-  /* ── SECTION TITLE ── */
-  .section-title {
-    font-size: 22px;
-    font-weight: 700;
-    letter-spacing: -0.5px;
-    margin-bottom: 20px;
-    color: var(--text);
-    display: flex;
-    align-items: center;
-    gap: 10px;
-  }
-
-  .section-title::after {
-    content: '';
-    flex: 1;
-    height: 1px;
-    background: var(--border);
-  }
-
-  /* ── EMPTY STATE ── */
-  .empty-state {
-    text-align: center;
-    padding: 60px 20px;
-    color: var(--muted);
-  }
-
-  .empty-state .icon { font-size: 40px; margin-bottom: 12px; }
-  .empty-state p { font-size: 15px; }
-
-  /* ── SCROLLBAR ── */
-  .main::-webkit-scrollbar { width: 6px; }
-  .main::-webkit-scrollbar-track { background: transparent; }
-  .main::-webkit-scrollbar-thumb { background: var(--border); border-radius: 4px; }
+:root{--bg:#f2f5f4;--card:#fff;--ink:#14212b;--mute:#5d6b76;--line:#d9e1e0;--blue:#1d4e89;--teal:#13917f;--onblue:#fff}
+:root[data-theme=dark]{--bg:#0e1a22;--card:#16252f;--ink:#e8eff2;--mute:#92a3ad;--line:#26394a;--blue:#6fb0f0;--teal:#3cc7b3;--onblue:#0e1a22}
+*{box-sizing:border-box;margin:0}
+body{font:16px/1.5 'Atkinson Hyperlegible',system-ui,sans-serif;background:var(--bg);color:var(--ink)}
+h1,.word,h2{font-family:'Bricolage Grotesque',sans-serif}
+header{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line)}
+.bar{max-width:820px;margin:auto;padding:12px 16px;display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+h1{font-size:24px;font-weight:800;color:var(--blue);margin-right:auto}
+.tabs{display:flex;gap:4px}
+button{font:inherit;color:inherit;cursor:pointer}
+.tab{padding:8px 14px;border:0;border-radius:8px;background:none;font-weight:700;color:var(--mute)}
+.tab.on{background:var(--blue);color:var(--onblue)}
+.icon{border:1px solid var(--line);background:var(--card);border-radius:8px;padding:7px 10px}
+:focus-visible{outline:3px solid var(--teal);outline-offset:2px}
+main{max-width:820px;margin:auto;padding:20px 16px 60px}
+.tools{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:12px}
+input[type=search]{flex:1;min-width:180px;padding:10px 12px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--ink);font:inherit}
+.chips{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:16px}
+.chip{padding:5px 12px;border:1px solid var(--line);border-radius:99px;background:none;font-size:14px}
+.chip.on{background:var(--teal);border-color:var(--teal);color:var(--onblue);font-weight:700}
+.count{color:var(--mute);font-size:14px;margin-bottom:10px}
+.list{display:grid;gap:10px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px 16px;text-align:left;width:100%}
+.row{display:flex;justify-content:space-between;gap:10px;align-items:baseline}
+.word{font-size:20px;font-weight:800}
+.tag{font-size:12px;font-weight:700;color:var(--teal);border:1px solid var(--teal);border-radius:5px;padding:1px 7px}
+.mean{color:var(--mute);margin-top:2px}
+.ex{display:none;margin-top:8px;padding-top:8px;border-top:1px dashed var(--line);font-style:italic}
+.card.open .ex{display:block}
+.fav{border:0;background:none;font-size:20px;padding:0 4px;color:var(--mute)}
+.fav.on{color:#e0a100}
+.more{display:block;margin:18px auto 0;padding:10px 24px;border:1px solid var(--blue);border-radius:8px;background:none;color:var(--blue);font-weight:700}
+.empty{padding:36px 18px;border:2px dashed var(--line);border-radius:12px;text-align:center;color:var(--mute)}
+.empty b{color:var(--ink)}
+code{background:var(--card);border:1px solid var(--line);border-radius:4px;padding:0 5px;font-size:14px}
+.res a.t{font-weight:700;color:var(--blue);text-decoration:none;font-size:18px}
+.res a.t:hover{text-decoration:underline}
+.res iframe,.res video{width:100%;aspect-ratio:16/9;border:0;border-radius:8px;margin-top:10px;background:#000}
+.play{margin-top:10px;border:0;padding:0;background:none;width:100%}
+.play img{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:8px;display:block}
+.hide{display:none}
 </style>
 </head>
 <body>
+<header><div class="bar">
+  <h1>LangApp</h1>
+  <nav class="tabs" aria-label="Bölümler">
+    <button class="tab on" data-tab="words">Kelimeler</button>
+    <button class="tab" data-tab="res">Kaynaklar</button>
+  </nav>
+  <button class="icon" id="theme" aria-label="Tema değiştir">🌓</button>
+</div></header>
 
-<div class="sidebar">
-  <div class="logo">🌐 <span>LangApp</span></div>
-  <button class="nav-btn active" id="btn-words" onclick="loadSection('words')">
-    <span class="nav-icon">📖</span> Words
-  </button>
-  <button class="nav-btn" id="btn-reading" onclick="loadSection('reading')">
-    <span class="nav-icon">📄</span> Reading
-  </button>
-  <button class="nav-btn" id="btn-grammar" onclick="loadSection('grammar')">
-    <span class="nav-icon">✏️</span> Grammar
-  </button>
-  <button class="nav-btn" id="btn-favorites" onclick="showFavorites()">
-    <span class="nav-icon">⭐</span> Favorites
-  </button>
-</div>
+<main>
+  <section id="words">
+    <div class="tools"><input type="search" id="q" placeholder="Kelime ara"><button class="chip" id="favOnly">☆ Favoriler</button></div>
+    <div class="chips" id="levels"></div>
+    <div class="count" id="wcount"></div>
+    <div class="list" id="wlist"></div>
+    <button class="more hide" id="wmore">Daha fazla göster</button>
+  </section>
 
-<div class="main">
-  <div class="topbar">
-    <div class="search-wrap">
-      <input type="text" id="search" placeholder="Search..." oninput="filterSearch()">
-    </div>
-    <div class="levels">
-      <button class="level-btn active" onclick="setLevel('all', this)">All</button>
-      <button class="level-btn" onclick="setLevel('A1', this)">A1</button>
-      <button class="level-btn" onclick="setLevel('A2', this)">A2</button>
-      <button class="level-btn" onclick="setLevel('B1', this)">B1</button>
-    </div>
-  </div>
-
-  <div class="section-title" id="section-title">Words</div>
-  <div id="content"></div>
-
-  <div class="load-more-wrap">
-    <button class="load-btn" id="load-more-btn" onclick="loadMore()">Load More</button>
-  </div>
-</div>
+  <section id="res" class="hide">
+    <div class="tools"><input type="search" id="rq" placeholder="Kaynak ara"></div>
+    <div class="chips" id="types"></div>
+    <div class="list res" id="rlist"></div>
+  </section>
+</main>
 
 <script>
-  // ── STATE ──
-  let page = 0;
-  let currentType = 'words';
-  let allData = [];
-  let filtered = [];
-  let level = 'all';
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const store={get(k,d){try{return JSON.parse(localStorage.getItem(k))??d}catch{return d}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch{}}};
 
-  // ── DEMO DATA (gerçek JSON dosyaları olmadığında kullanılır) ──
-  const demoData = {
-    words: [
-      { word: 'Ambiguous', meaning: 'Open to more than one interpretation; not having one obvious meaning.', example: 'The instructions were ambiguous and confusing.', level: 'B1' },
-      { word: 'Benevolent', meaning: 'Well-meaning and kindly; generous.', example: 'She was a benevolent leader who cared for her team.', level: 'B1' },
-      { word: 'Concise', meaning: 'Giving a lot of information clearly in few words.', example: 'His concise summary saved everyone time.', level: 'A2' },
-      { word: 'Diligent', meaning: 'Having or showing care and conscientiousness in one\'s work.', example: 'She was a diligent student who never missed a deadline.', level: 'B1' },
-      { word: 'Eloquent', meaning: 'Fluent or persuasive in speaking or writing.', example: 'He gave an eloquent speech at the ceremony.', level: 'B1' },
-      { word: 'Fragile', meaning: 'Easily broken or damaged; delicate.', example: 'Handle the fragile package with care.', level: 'A2' },
-      { word: 'Grateful', meaning: 'Feeling or showing an appreciation for something done.', example: 'I am grateful for your help.', level: 'A1' },
-      { word: 'Humble', meaning: 'Having a modest or low estimate of one\'s own importance.', example: 'Despite his success, he remained humble.', level: 'A2' },
-      { word: 'Innovative', meaning: 'Featuring new methods; advanced and original.', example: 'The innovative design won several awards.', level: 'B1' },
-      { word: 'Justify', meaning: 'Show or prove to be right or reasonable.', example: 'Can you justify your decision?', level: 'A2' },
-    ],
-    reading: [
-      { title: 'The City at Night', text: 'The city never truly sleeps. Even at three in the morning, delivery trucks rumble through empty streets, cafés flicker their neon signs, and somewhere a dog barks at a passing shadow.', level: 'A2' },
-      { title: 'Climate Change', text: 'Scientists agree that global temperatures have risen significantly over the past century. Human activities — particularly the burning of fossil fuels — are the primary driver of this change.', level: 'B1' },
-      { title: 'My Morning Routine', text: 'I wake up at seven. First I drink a glass of water. Then I make breakfast. I usually eat eggs and toast. After that I go for a short walk.', level: 'A1' },
-    ],
-    grammar: [
-      { topic: 'Present Perfect', explanation: 'Use "have/has + past participle" to describe actions that happened at an unspecified time or have relevance to the present. Example: "I have visited Paris."', level: 'A2' },
-      { topic: 'Conditional Sentences', explanation: 'Type 1: If + present simple, will + infinitive. Used for real possibilities. Example: "If it rains, I will stay home."', level: 'B1' },
-      { topic: 'Simple Past', explanation: 'Use the simple past to describe completed actions in the past. Regular verbs add -ed. Example: "She walked to school yesterday."', level: 'A1' },
-    ],
-  };
+/* tema */
+const root=document.documentElement;
+root.dataset.theme=store.get('theme',matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light');
+$('#theme').onclick=()=>{root.dataset.theme=root.dataset.theme==='dark'?'light':'dark';store.set('theme',root.dataset.theme)};
 
-  // ── NAVIGATION ──
-  function setActiveNav(type) {
-    document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
-    const btn = document.getElementById(`btn-${type}`);
-    if (btn) btn.classList.add('active');
-    const titles = { words: 'Words', reading: 'Reading', grammar: 'Grammar', favorites: '⭐ Favorites' };
-    document.getElementById('section-title').textContent = titles[type] || type;
-  }
+/* sekmeler */
+document.querySelectorAll('.tab').forEach(b=>b.onclick=()=>{
+  document.querySelectorAll('.tab').forEach(x=>x.classList.toggle('on',x===b));
+  $('#words').classList.toggle('hide',b.dataset.tab!=='words');
+  $('#res').classList.toggle('hide',b.dataset.tab!=='res');
+  if(b.dataset.tab==='res'&&!resLoaded)loadRes();
+});
 
-  // ── LEVEL ──
-  function setLevel(l, btn) {
-    level = l;
-    document.querySelectorAll('.level-btn').forEach(b => b.classList.remove('active'));
-    if (btn) btn.classList.add('active');
-    render();
-  }
+/* ---------- KELİMELER ---------- */
+const LEVELS=['A1','A2','B1','B2','C1','C2','IELTS','TOEFL'];
+const normLevel=l=>String(l||'').toUpperCase().replace(/^WORDS_/,'');
+let words=[],page=0,done=false,level='all',shown=50,favOnly=false;
+let favs=new Set(store.get('favs',[]));
 
-  // ── LOAD SECTION ──
-  async function loadSection(type) {
-    currentType = type;
-    page = 0;
-    allData = [];
-    document.getElementById('content').innerHTML = '';
-    document.getElementById('load-more-btn').style.display = '';
-    setActiveNav(type);
-    await loadMore();
-  }
+$('#levels').innerHTML=['all',...LEVELS].map(l=>`<button class="chip${l==='all'?' on':''}" data-l="${l}">${l==='all'?'Tümü':l}</button>`).join('');
+$('#levels').onclick=e=>{const b=e.target.closest('.chip');if(!b)return;level=b.dataset.l;shown=50;
+  document.querySelectorAll('#levels .chip').forEach(x=>x.classList.toggle('on',x===b));renderWords()};
+$('#q').oninput=()=>{shown=50;renderWords()};
+$('#favOnly').onclick=e=>{favOnly=!favOnly;e.target.classList.toggle('on',favOnly);shown=50;renderWords()};
+$('#wmore').onclick=()=>{shown+=50;renderWords()};
 
-  // ── LOAD MORE ──
-  async function loadMore() {
-    try {
-      const res = await fetch(`data/${currentType}/page${page}.json`);
-      if (!res.ok) throw new Error('not found');
-      const data = await res.json();
-      allData = allData.concat(data);
+async function loadAllWords(){
+  while(!done){
+    try{
+      const r=await fetch(`data/words/page${page}.json`);
+      if(!r.ok)throw 0;
+      const d=await r.json();
+      words.push(...d.map(w=>({...w,level:normLevel(w.level)})));
       page++;
-      render();
-    } catch {
-      // JSON dosyası yoksa demo verileri kullan
-      if (page === 0) {
-        allData = demoData[currentType] || [];
-        page++;
-        render();
-      } else {
-        document.getElementById('load-more-btn').style.display = 'none';
-      }
-    }
+    }catch{done=true}
   }
+  renderWords();
+}
 
-  // ── RENDER ──
-  function render() {
-    const content = document.getElementById('content');
-    content.innerHTML = '';
-
-    filtered = allData.filter(x => level === 'all' || x.level === level);
-
-    if (filtered.length === 0) {
-      content.innerHTML = `
-        <div class="empty-state">
-          <div class="icon">📭</div>
-          <p>No items found for this level.</p>
-        </div>`;
-      return;
-    }
-
-    filtered.forEach(item => {
-      const div = document.createElement('div');
-      div.className = 'card';
-
-      if (currentType === 'words') {
-        const isFav = isFavorited(item);
-        div.innerHTML = `
-          <div class="card-header">
-            <div class="word">${item.word}</div>
-            ${item.level ? `<span class="level-badge">${item.level}</span>` : ''}
-          </div>
-          <div class="meaning">${item.meaning}</div>
-          <div class="example hidden">${item.example || ''}</div>
-          <div class="card-footer">
-            <span class="hint">Tap to see example</span>
-            <button class="fav-btn ${isFav ? 'active' : ''}" title="Add to favorites"
-              onclick="toggleFav(event, ${JSON.stringify(item).replace(/"/g, '&quot;')}, this)">
-              ${isFav ? '⭐' : '☆'}
-            </button>
-          </div>`;
-      } else if (currentType === 'reading') {
-        div.innerHTML = `
-          <div class="card-header">
-            <div class="word">${item.title}</div>
-            ${item.level ? `<span class="level-badge">${item.level}</span>` : ''}
-          </div>
-          <div class="meaning" style="margin-top:10px">${item.text}</div>`;
-      } else if (currentType === 'grammar') {
-        div.innerHTML = `
-          <div class="card-header">
-            <div class="word">${item.topic}</div>
-            ${item.level ? `<span class="level-badge">${item.level}</span>` : ''}
-          </div>
-          <div class="meaning" style="margin-top:10px">${item.explanation}</div>`;
-      }
-
-      // Örneği göster/gizle (words için)
-      div.addEventListener('click', () => {
-        const ex = div.querySelector('.example');
-        const hint = div.querySelector('.hint');
-        if (ex) {
-          ex.classList.toggle('hidden');
-          if (hint) hint.textContent = ex.classList.contains('hidden') ? 'Tap to see example' : 'Tap to hide example';
-        }
-      });
-
-      content.appendChild(div);
-    });
+function renderWords(){
+  const q=$('#q').value.trim().toLowerCase();
+  const list=words.filter(w=>(level==='all'||w.level===level)&&(!favOnly||favs.has(w.word))&&(!q||(w.word+' '+w.meaning).toLowerCase().includes(q)));
+  const box=$('#wlist');
+  if(!words.length){
+    box.innerHTML=`<div class="empty"><b>Henüz kelime yok.</b><br>Kelimeleri <code>data/words/page0.json</code>, <code>page1.json</code>… olarak ekle.</div>`;
+    $('#wcount').textContent='';$('#wmore').classList.add('hide');return;
   }
-
-  // ── SEARCH ──
-  function filterSearch() {
-    const val = document.getElementById('search').value.toLowerCase();
-    const content = document.getElementById('content');
-    content.innerHTML = '';
-
-    const results = filtered.filter(x => JSON.stringify(x).toLowerCase().includes(val));
-
-    if (results.length === 0) {
-      content.innerHTML = `
-        <div class="empty-state">
-          <div class="icon">🔍</div>
-          <p>No results found for "<strong>${val}</strong>".</p>
-        </div>`;
-      return;
-    }
-
-    results.forEach(item => {
-      const div = document.createElement('div');
-      div.className = 'card';
-
-      if (currentType === 'words') {
-        div.innerHTML = `
-          <div class="card-header">
-            <div class="word">${item.word}</div>
-            ${item.level ? `<span class="level-badge">${item.level}</span>` : ''}
-          </div>
-          <div class="meaning">${item.meaning}</div>
-          <div class="example hidden">${item.example || ''}</div>
-          <div class="card-footer">
-            <span class="hint">Tap to see example</span>
-          </div>`;
-      } else if (currentType === 'reading') {
-        div.innerHTML = `
-          <div class="word">${item.title}</div>
-          <div class="meaning" style="margin-top:10px">${item.text}</div>`;
-      } else if (currentType === 'grammar') {
-        div.innerHTML = `
-          <div class="word">${item.topic}</div>
-          <div class="meaning" style="margin-top:10px">${item.explanation}</div>`;
-      }
-
-      div.addEventListener('click', () => {
-        const ex = div.querySelector('.example');
-        const hint = div.querySelector('.hint');
-        if (ex) {
-          ex.classList.toggle('hidden');
-          if (hint) hint.textContent = ex.classList.contains('hidden') ? 'Tap to see example' : 'Tap to hide example';
-        }
-      });
-
-      content.appendChild(div);
-    });
+  $('#wcount').textContent=`${list.length} kelime`;
+  box.innerHTML=list.slice(0,shown).map((w,i)=>`
+    <div class="card" data-w="${esc(w.word)}" tabindex="0" role="button">
+      <div class="row"><span class="word">${esc(w.word)}</span>
+        <span>${w.level?`<span class="tag">${esc(w.level)}</span>`:''}
+        <button class="fav${favs.has(w.word)?' on':''}" aria-label="Favori">${favs.has(w.word)?'★':'☆'}</button></span></div>
+      <div class="mean">${esc(w.meaning)}</div>
+      ${w.example?`<div class="ex">${esc(w.example)}</div>`:''}
+    </div>`).join('')||`<div class="empty">Sonuç bulunamadı.</div>`;
+  $('#wmore').classList.toggle('hide',list.length<=shown);
+}
+$('#wlist').onclick=e=>{
+  const c=e.target.closest('.card');if(!c)return;
+  if(e.target.closest('.fav')){
+    const w=c.dataset.w;favs.has(w)?favs.delete(w):favs.add(w);store.set('favs',[...favs]);renderWords();return;
   }
+  c.classList.toggle('open');
+};
+$('#wlist').onkeydown=e=>{if((e.key==='Enter'||e.key===' ')&&e.target.classList.contains('card')){e.preventDefault();e.target.classList.toggle('open')}};
 
-  // ── FAVORITES ──
-  function getFavs() {
-    try { return JSON.parse(localStorage.getItem('langapp_favs') || '[]'); }
-    catch { return []; }
+/* ---------- KAYNAKLAR ---------- */
+const TYPES={link:'Site',video:'Video',pdf:'PDF',slides:'Slayt'};
+let res=[],resLoaded=false,rtype='all';
+
+async function loadRes(){
+  resLoaded=true;
+  try{const r=await fetch('data/resources.json');res=r.ok?await r.json():[]}catch{res=[]}
+  $('#types').innerHTML=['all',...Object.keys(TYPES)].map(t=>`<button class="chip${t==='all'?' on':''}" data-t="${t}">${t==='all'?'Tümü':TYPES[t]}</button>`).join('');
+  renderRes();
+}
+$('#types').onclick=e=>{const b=e.target.closest('.chip');if(!b)return;rtype=b.dataset.t;
+  document.querySelectorAll('#types .chip').forEach(x=>x.classList.toggle('on',x===b));renderRes()};
+$('#rq').oninput=()=>renderRes();
+
+const ytId=u=>{const m=String(u).match(/(?:youtu\.be\/|v=|embed\/|shorts\/)([\w-]{11})/);return m&&m[1]};
+const safeUrl=u=>/^(https?:\/\/|files\/|\.\/files\/)/.test(u)?u:'#';
+
+function renderRes(){
+  const q=$('#rq').value.trim().toLowerCase();
+  const list=res.filter(r=>(rtype==='all'||r.type===rtype)&&(!q||(r.title+' '+(r.note||'')).toLowerCase().includes(q)));
+  const box=$('#rlist');
+  if(!res.length){
+    box.innerHTML=`<div class="empty"><b>Henüz kaynak yok.</b><br><code>data/resources.json</code> dosyasına ekle. Dosyalar için <code>files/</code> klasörünü kullan.</div>`;return;
   }
+  box.innerHTML=list.map((r,i)=>{
+    const url=safeUrl(r.url),yt=r.type==='video'&&ytId(r.url);
+    let media='';
+    if(yt)media=`<button class="play" data-yt="${yt}" aria-label="Videoyu oynat"><img loading="lazy" src="https://img.youtube.com/vi/${yt}/hqdefault.jpg" alt=""></button>`;
+    else if(r.type==='video'&&/\.mp4$/i.test(url))media=`<video controls preload="metadata" src="${esc(url)}"></video>`;
+    return `<div class="card"><div class="row"><a class="t" href="${esc(url)}" target="_blank" rel="noopener">${esc(r.title)}</a><span class="tag">${esc(TYPES[r.type]||r.type)}</span></div>
+      ${r.note?`<div class="mean">${esc(r.note)}</div>`:''}${media}</div>`;
+  }).join('')||`<div class="empty">Sonuç bulunamadı.</div>`;
+}
+$('#rlist').onclick=e=>{
+  const p=e.target.closest('.play');if(!p)return;
+  p.outerHTML=`<iframe src="https://www.youtube-nocookie.com/embed/${p.dataset.yt}?autoplay=1" allow="autoplay;encrypted-media;fullscreen" allowfullscreen></iframe>`;
+};
 
-  function isFavorited(item) {
-    return getFavs().some(f => f.word === item.word);
-  }
-
-  function toggleFav(event, item, btn) {
-    event.stopPropagation(); // kartın click olayını tetikleme
-    let favs = getFavs();
-    const idx = favs.findIndex(f => f.word === item.word);
-    if (idx === -1) {
-      favs.push(item);
-      btn.textContent = '⭐';
-      btn.classList.add('active');
-    } else {
-      favs.splice(idx, 1);
-      btn.textContent = '☆';
-      btn.classList.remove('active');
-    }
-    localStorage.setItem('langapp_favs', JSON.stringify(favs));
-  }
-
-  function showFavorites() {
-    setActiveNav('favorites');
-    document.getElementById('load-more-btn').style.display = 'none';
-    const favs = getFavs();
-    const content = document.getElementById('content');
-    content.innerHTML = '';
-
-    if (favs.length === 0) {
-      content.innerHTML = `
-        <div class="empty-state">
-          <div class="icon">⭐</div>
-          <p>No favorites yet. Star words you want to remember!</p>
-        </div>`;
-      return;
-    }
-
-    favs.forEach(item => {
-      const div = document.createElement('div');
-      div.className = 'card';
-      div.innerHTML = `
-        <div class="card-header">
-          <div class="word">${item.word}</div>
-          ${item.level ? `<span class="level-badge">${item.level}</span>` : ''}
-        </div>
-        <div class="meaning">${item.meaning}</div>
-        <div class="example hidden">${item.example || ''}</div>
-        <div class="card-footer">
-          <span class="hint">Tap to see example</span>
-          <button class="fav-btn active" title="Remove from favorites"
-            onclick="removeFav(event, '${item.word}', this.closest('.card'))">⭐</button>
-        </div>`;
-
-      div.addEventListener('click', () => {
-        const ex = div.querySelector('.example');
-        const hint = div.querySelector('.hint');
-        if (ex) {
-          ex.classList.toggle('hidden');
-          if (hint) hint.textContent = ex.classList.contains('hidden') ? 'Tap to see example' : 'Tap to hide example';
-        }
-      });
-
-      content.appendChild(div);
-    });
-  }
-
-  function removeFav(event, word, card) {
-    event.stopPropagation();
-    let favs = getFavs().filter(f => f.word !== word);
-    localStorage.setItem('langapp_favs', JSON.stringify(favs));
-    card.remove();
-    if (document.getElementById('content').children.length === 0) {
-      document.getElementById('content').innerHTML = `
-        <div class="empty-state">
-          <div class="icon">⭐</div>
-          <p>No favorites yet. Star words you want to remember!</p>
-        </div>`;
-    }
-  }
-
-  // ── INIT ──
-  loadSection('words');
+loadAllWords();
 </script>
-
 </body>
 </html>
