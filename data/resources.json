@@ -1,5 +1,5 @@
 [
-  {"title": "Twee", "Ingilizce lesson": "link", "url": "https://twee.com", "note": "Create, Share and Grade
+  {"title": "Twee", "type": "ingilizce dersi", "url": "https://twee.com", "note": "Create, Share and Grade
 Language Lessons in Minutes
 One platform. All your language teaching needs."},
   {"title": "Örnek YouTube videosu", "type": "video", "url": "https://www.youtube.com/watch?v=VIDEO_ID"},
